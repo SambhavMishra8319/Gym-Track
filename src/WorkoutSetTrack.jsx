@@ -98,14 +98,20 @@ export default function WorkoutSetTrack() {
   const navigate = useNavigate();
   const [lastUpdated, setLastUpdated] = useState({});
 
-  useEffect(() => {
+ useEffect(() => {
+  const handleStorageChange = () => {
     const updated = {};
     CATEGORIES.forEach(cat => {
       const time = localStorage.getItem(`category_last_updated:${cat}`);
       if (time) updated[cat] = new Date(time).toLocaleString();
     });
     setLastUpdated(updated);
-  }, []);
+  };
+
+  window.addEventListener("storage", handleStorageChange);
+  return () => window.removeEventListener("storage", handleStorageChange);
+}, []);
+
 
   return (
     <div className="dashboard-root">

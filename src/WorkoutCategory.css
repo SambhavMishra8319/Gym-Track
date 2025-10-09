@@ -76,3 +76,13 @@
 .back-btn:hover {
   color: #0056b3;
 }
+.exercise-list li button {
+  background: none;
+  border: none;
+  color: red;
+  cursor: pointer;
+  font-size: 1.1rem;
+}
+.exercise-list li button:hover {
+  transform: scale(1.1);
+}

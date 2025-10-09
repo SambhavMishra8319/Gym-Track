@@ -80,6 +80,10 @@ export default function WorkoutCategory() {
     localStorage.setItem(updatedKey, new Date().toISOString());
     setNewExercise("");
   };
+  function formatName(slug) {
+  return slug.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase());
+}
+
 
   const handleDelete = (index) => {
     const updated = exercises.filter((_, i) => i !== index);
@@ -90,6 +94,8 @@ export default function WorkoutCategory() {
 
   return (
     <div className="category-root">
+      <h1>{formatName(name)}</h1>
+
       <header className="category-header">
         <h1>{name.replace("-", " ").replace(/\b\w/g, l => l.toUpperCase())}</h1>
         <button onClick={() => navigate("/")}>← Back</button>
