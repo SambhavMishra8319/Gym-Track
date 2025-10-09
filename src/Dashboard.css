@@ -1,0 +1,97 @@
+/* Dashboard.css - simple, clean, professional */
+
+:root{
+  --bg: #fafbfd;
+  --card: #ffffff;
+  --accent: #0b5cff;
+  --muted: #6b7280;
+  --border: #e6e9ef;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: var(--bg);
+  color: #111827;
+}
+
+/* wrapper */
+.dashboard-root {
+  max-width: 960px;
+  margin: 48px auto;
+  padding: 0 18px;
+}
+
+/* header */
+.dash-header { text-align: left; margin-bottom: 20px; }
+.dash-title { font-size: 28px; margin: 0 0 6px 0; color: #111827; }
+.dash-sub { margin: 0; color: var(--muted); font-size: 14px; }
+
+/* cards grid */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-top: 18px;
+}
+
+/* each day card */
+.day-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: var(--card);
+  border: 1px solid var(--border);
+  padding: 18px;
+  border-radius: 10px;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+  color: inherit;
+}
+
+.day-card:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(11,92,255,0.12);
+}
+
+.day-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 24px rgba(16,24,40,0.06);
+}
+
+/* name */
+.card-name {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+/* card meta (hidden until hover) */
+.card-meta {
+  font-size: 13px;
+  color: var(--muted);
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 180ms ease, transform 180ms ease;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.day-card:hover .card-meta,
+.day-card:focus .card-meta {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* small states */
+.last-updated { color: #111827; font-weight: 500; }
+.no-updates { color: var(--muted); }
+
+/* responsive tweaks */
+@media (max-width: 520px) {
+  .dashboard-root { margin: 24px auto; }
+  .dash-title { font-size: 22px; }
+  .card-name { font-size: 15px; }
+}
