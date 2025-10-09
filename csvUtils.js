@@ -1,42 +1,47 @@
 // csvUtils.js
-export function exportToCSV(filename, rows) {
-  if (!rows || !rows.length) return;
+import Papa from "papaparse";
 
-  const keys = Object.keys(rows[0]);
-  const csvContent =
-    keys.join(",") +
-    "\n" +
-    rows
-      .map((row) =>
-        keys.map((k) => `"${row[k] !== undefined ? row[k] : ""}"`).join(",")
-      )
-      .join("\n");
-
-  const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
-  const link = document.createElement("a");
-  link.href = URL.createObjectURL(blob);
-  link.setAttribute("download", filename);
-  link.click();
+/**
+ * Parse a File or a CSV string into array of objects (header row -> keys).
+ * Usage:
+ *   const rows = await parseCSVFile(fileInput.files[0])
+ */
+export function parseCSVFile(fileOrString) {
+  return new Promise((resolve, reject) => {
+    if (fileOrString instanceof File) {
+      Papa.parse(fileOrString, {
+        header: true,
+        skipEmptyLines: true,
+        dynamicTyping: false,
+        complete: (results) => resolve(results.data),
+        error: (err) => reject(err),
+      });
+    } else {
+      // assume string
+      const results = Papa.parse(fileOrString, {
+        header: true,
+        skipEmptyLines: true,
+        dynamicTyping: false,
+      });
+      if (results.errors && results.errors.length) reject(results.errors);
+      else resolve(results.data);
+    }
+  });
 }
 
-export function importFromCSV(file) {
-  return new Promise((resolve, reject) => {
-    const reader = new FileReader();
-    reader.onload = (e) => {
-      const text = e.target.result;
-      const [headerLine, ...lines] = text.split(/\r?\n/).filter(Boolean);
-      const headers = headerLine.split(",");
-      const rows = lines.map((line) => {
-        const values = line.split(",");
-        const obj = {};
-        headers.forEach((h, i) => {
-          obj[h.replace(/"/g, "")] = values[i]?.replace(/"/g, "") || "";
-        });
-        return obj;
-      });
-      resolve(rows);
-    };
-    reader.onerror = (err) => reject(err);
-    reader.readAsText(file);
-  });
+/**
+ * Export array of objects to downloadable CSV.
+ * data: [{col1: 'a', col2: 'b'}, ...]
+ */
+export function exportCSV(data, filename = "export.csv") {
+  const csv = Papa.unparse(data);
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.setAttribute("download", filename);
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
 }

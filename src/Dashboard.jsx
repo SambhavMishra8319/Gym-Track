@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./Dashboard.css";
-
+import DashboardChart from "./components/DashboardChart";
 const CATEGORIES = [
   { name: "Chest Day", slug: "chest-day" },
   { name: "Leg Day", slug: "leg-day" },
