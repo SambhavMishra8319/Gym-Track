@@ -1,24 +1,31 @@
+import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import WorkoutSetTrack from "./WorkoutSetTrack";
-import WorkoutCategory from "./WorkoutCategory";
-import ExerciseDetail from "./ExerciseDetail";
-
-function App() {
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import Signup from "./pages/Signup";
+import Exercise from "./pages/Exercise";
+import Stats from "./pages/Stats";
+import DayExercises from "./pages/DayExercises";
+// import AllDays from "./pages/AllDays"; // ✅ fixed the import path
+import ProtectedRoute from "./components/ProtectedRoute";
+export default function App() {
   return (
     <Router>
       <Navbar />
-      <div style={{ minHeight: "80vh", padding: "20px" }}>
+      <div className="container">
         <Routes>
-          <Route path="/" element={<WorkoutSetTrack />} />
-          <Route path="/category/:name" element={<WorkoutCategory />} />
-          <Route path="/exercise/:name" element={<ExerciseDetail />} />
+          <Route path="/login" element={<Login/>} />
+        <Route path="/signup" element={<Signup/>} />
+          <Route path="/" element={<Home />} />
+         
+          <Route path="/day/:day" element={<DayExercises />} />
+          <Route path="/exercise/:day/:name" element={<ProtectedRoute><Exercise/></ProtectedRoute>} />
+        <Route path="/stats" element={<ProtectedRoute><Stats/></ProtectedRoute>} />
+    
+          {/* <Route path="/days" element={<AllDays />} /> ✅ now this works */}
         </Routes>
       </div>
-      <Footer />
     </Router>
   );
 }
-
-export default App;
