@@ -1,20 +1,23 @@
-// src/firebase.js
-import { initializeApp, getApps } from "firebase/app";
+import { initializeApp, getApps, getApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
+// 🔐 Firebase config from .env
 const firebaseConfig = {
-   apiKey: "AIzaSyB3SEL01A00iO0SFTt1utqQMCuW9p30GVQ",
-  authDomain: "workoutplannar.firebaseapp.com",
-  projectId: "workoutplannar",
-  storageBucket: "workoutplannar.firebasestorage.app",
-  messagingSenderId: "923344644640",
-  appId: "1:923344644640:web:d21c2ef570bd2c401daa45",
-  measurementId: "G-QV804ZLRLZ"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
 };
 
-// Avoid duplicate initialization
-const app = !getApps().length ? initializeApp(firebaseConfig) : getApps()[0];
+// ✅ Avoid duplicate initialization
+const app = getApps().length ? getApp() : initializeApp(firebaseConfig);
 
+// ✅ Firebase services
 export const db = getFirestore(app);
 export const auth = getAuth(app);
+
+export default app;
