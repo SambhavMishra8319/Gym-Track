@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923344644640",
+    "project_id": "workoutplannar",
+    "storage_bucket": "workoutplannar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923344644640:android:173fae55a313d8611daa45",
+        "android_client_info": {
+          "package_name": "com.sambhav.GymTrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923344644640-h30askvp28jogghplu4839dikhvce0bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sambhav.GymTrack",
+            "certificate_hash": "f5abba33ce52c99b5c3cc860de487608f9737d0c"
+          }
+        },
+        {
+          "client_id": "923344644640-qdvjda7gji5uj27seqs1vk84r28sjrli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1IjD5st9hzaVXWFIDQBnVFbieXK1sQMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923344644640-qdvjda7gji5uj27seqs1vk84r28sjrli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

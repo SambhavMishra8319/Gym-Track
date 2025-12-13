@@ -1,0 +1,8 @@
+const config: CapacitorConfig = {
+  appId: "com.sambhav.GymTrack",
+  appName: "GymTrack",
+  webDir: "dist",
+  bundledWebRuntime: false
+};
+
+export default config;

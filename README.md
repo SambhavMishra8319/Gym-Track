@@ -1,16 +1,30 @@
-# React + Vite
+# Workout Planner (React + Tailwind + Firebase)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Log workouts (date, exercises, sets, reps, weight, notes)
+- Store workouts in Firebase Firestore
+- View history and simple analytics
+- Anonymous user id stored locally
 
-Currently, two official plugins are available:
+## Setup
+1. Install dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+```
 
-## React Compiler
+2. Configure Tailwind (already included in config files)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+3. Create a Firebase project and enable Firestore. Copy the config values into `src/firebase.js`.
 
-## Expanding the ESLint configuration
+4. Run dev server
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm run dev
+```
+
+## Notes & Next steps
+- Add authentication (Google/Auth) for multi-device sync
+- Add editing & deleting of workouts
+- Add charts (Recharts) for visual analytics
+- Add export (CSV) and import features
