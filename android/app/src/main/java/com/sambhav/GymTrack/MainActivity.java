@@ -1,4 +1,4 @@
-package com.sambhav.GymTrack;
+package com.sambhav.gymtrack;
 
 import com.getcapacitor.BridgeActivity;
 

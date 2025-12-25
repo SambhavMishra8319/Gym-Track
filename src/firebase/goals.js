@@ -6,7 +6,7 @@ import {
   where,
   serverTimestamp,
 } from "firebase/firestore";
-import { db } from "../firebase";
+import { db } from "../firebase/config";
 
 export const addGoal = async (uid, goal) => {
   await addDoc(collection(db, "goals"), {
