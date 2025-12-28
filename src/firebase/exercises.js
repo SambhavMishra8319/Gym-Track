@@ -132,3 +132,11 @@ export async function deleteWorkout(userId, workoutId) {
     return false;
   }
 }
+// src/firebase/exercises.js - ADD this function
+// // import { deleteDoc, doc } from "firebase/firestore";
+// import { db } from "./config";
+
+// export const deleteWorkout = async (userId, workoutId) => {
+//   const workoutRef = doc(db, "users", userId, "workouts", workoutId);
+//   await deleteDoc(workoutRef);
+// };
