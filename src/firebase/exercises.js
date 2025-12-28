@@ -1,42 +1,3 @@
-
-// import { workoutsCollection } from './config'
-// import { addDoc, getDocs, query, orderBy, doc, updateDoc, deleteDoc } from 'firebase/firestore'
-
-// // Add a new workout
-// export async function addWorkout(userId, workoutData) {
-//   const colRef = workoutsCollection(userId)
-//   const docRef = await addDoc(colRef, {
-//     ...workoutData,
-//     createdAt: new Date().toISOString()
-//   })
-//   return docRef.id
-// }
-
-// // Get all workouts for a user
-// export async function getWorkouts(userId) {
-//   try {
-//     const colRef = workoutsCollection(userId)
-//     const q = query(colRef, orderBy('createdAt', 'desc'))
-//     const snapshot = await getDocs(q)
-//     return snapshot.docs.map(d => ({ id: d.id, ...d.data() }))
-//   } catch (err) {
-//     console.error('Error fetching workouts:', err)
-//     return []
-//   }
-// }
-
-// // Update workout
-// export async function updateWorkout(workoutId, userId, updatedData) {
-//   const docRef = doc(workoutsCollection(userId), workoutId)
-//   await updateDoc(docRef, { ...updatedData, updatedAt: new Date().toISOString() })
-// }
-
-// // Delete workout
-// export async function deleteWorkout(userId, workoutId) {
-//   const docRef = doc(workoutsCollection(userId), workoutId)
-//   await deleteDoc(docRef)
-// }
-// exercises.js
 import { workoutsCollection } from './config';
 import { 
   addDoc, 
@@ -135,50 +96,7 @@ export async function deleteWorkout(userId, workoutId) {
     return false;
   }
 }
-// src/firebase/exercises.js - ADD this function
-// // import { deleteDoc, doc } from "firebase/firestore";
-// import { db } from "./config";
 
-// export const deleteWorkout = async (userId, workoutId) => {
-//   const workoutRef = doc(db, "users", userId, "workouts", workoutId);
-//   await deleteDoc(workoutRef);
-// };
-// src/firebase/exercises.js - ADD these functions
-// import { collection, getDocs, orderBy, query, where } from "firebase/firestore";
-// import { db } from "./config";
-
-// export const getLastExerciseData = async (userId, exerciseName) => {
-//   try {
-//     const workoutsSnap = await getDocs(
-//       query(
-//         collection(db, "users", userId, "workouts"),
-//         where("exercises", "array-contains-any", [
-//           { name: exerciseName }
-//         ]),
-//         orderBy("date", "desc"),
-//         limit(1)
-//       )
-//     );
-
-//     if (workoutsSnap.empty) return null;
-
-//     const workout = workoutsSnap.docs[0].data();
-//     const exercise = workout.exercises.find(ex => ex.name === exerciseName);
-    
-//     if (!exercise || !exercise.sets.length) return null;
-
-//     // Get last set data
-//     const lastSet = exercise.sets[exercise.sets.length - 1];
-//     return {
-//       reps: lastSet.reps || "",
-//       weight: lastSet.weight || ""
-//     };
-//   } catch (err) {
-//     console.error("Error getting last exercise:", err);
-//     return null;
-//   }
-// };
-// src/firebase/exercises.js - REPLACE getLastExerciseData with THIS:
 export const getLastExerciseData = async (userId, exerciseName) => {
   try {
     console.log("🔍 Searching for:", exerciseName, "user:", userId);
