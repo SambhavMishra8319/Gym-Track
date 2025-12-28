@@ -279,7 +279,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { Reorder } from "framer-motion";
 import { addWorkout, updateWorkout, getLastExerciseData } from "../firebase/exercises";
 
-export default function AddWorkout({ user, existingWorkout = null, onClose = null }) {
+export default function AddWorkout({ user, existingWorkout = null, onClose = null ,onSave = null  }) {
   const navigate = useNavigate();
   const location = useLocation();
   const workoutToEdit = location.state?.workoutToEdit || existingWorkout;
@@ -371,44 +371,90 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
     copy[exIdx].sets.splice(setIdx, 1);
     setExercises(copy);
   };
-
-  const handleSave = async () => {
-    if (!user) return alert("Sign in to save workouts");
+const handleSave = async () => {
+  if (!user) return alert("Sign in to save workouts");
+  
+  if (exercises.some(ex => !ex.name.trim())) {
+    return alert("Please fill all exercise names");
+  }
+  
+  setSaving(true);
+  try {
+    const orderedExercises = exercises.map((ex, index) => ({
+      ...ex,
+      order: index
+    }));
     
-    if (exercises.some(ex => !ex.name.trim())) {
-      return alert("Please fill all exercise names");
-    }
+    const payload = {
+      date,
+      exercises: orderedExercises,
+      createdAt: new Date().toISOString(),
+    };
     
-    setSaving(true);
-    try {
-      // 👇 SAVE EXERCISE ORDER
-      const orderedExercises = exercises.map((ex, index) => ({
-        ...ex,
-        order: index
-      }));
-      
-      const payload = {
-        date,
-        exercises: orderedExercises,
-        createdAt: new Date().toISOString(),
-      };
-      
-      if (workoutToEdit?.id) {
-        await updateWorkout(workoutToEdit.id, user.uid, payload);
-        alert("Workout updated ✅");
-      } else {
-        await addWorkout(user.uid, payload);
-        alert("Workout saved ✅");
-      }
-      
+    // 👇 TEMPLATES: Use onSave if provided
+    if (onSave) {
+      await onSave(payload);
       setExercises([defaultExercise]);
       if (onClose) onClose();
-    } catch (e) {
-      console.error(e);
-      alert("Error saving workout");
+      return;
     }
-    setSaving(false);
-  };
+    
+    // 👇 NORMAL WORKOUTS: Save to workouts collection
+    if (workoutToEdit?.id) {
+      await updateWorkout(workoutToEdit.id, user.uid, payload);
+      alert("Workout updated ✅");
+    } else {
+      await addWorkout(user.uid, payload);
+      alert("Workout saved ✅");
+    }
+    
+    // 👇 Reset form ONLY for normal workouts
+    setExercises([defaultExercise]);
+    if (onClose) onClose();
+  } catch (e) {
+    console.error(e);
+    alert("Error saving workout");
+  }
+  setSaving(false);
+};
+
+  // const handleSave = async () => {
+  //   if (!user) return alert("Sign in to save workouts");
+    
+  //   if (exercises.some(ex => !ex.name.trim())) {
+  //     return alert("Please fill all exercise names");
+  //   }
+    
+  //   setSaving(true);
+  //   try {
+  //     // 👇 SAVE EXERCISE ORDER
+  //     const orderedExercises = exercises.map((ex, index) => ({
+  //       ...ex,
+  //       order: index
+  //     }));
+      
+  //     const payload = {
+  //       date,
+  //       exercises: orderedExercises,
+  //       createdAt: new Date().toISOString(),
+  //     };
+      
+  //     if (workoutToEdit?.id) {
+  //       await updateWorkout(workoutToEdit.id, user.uid, payload);
+  //       alert("Workout updated ✅");
+  //     } else {
+  //       await addWorkout(user.uid, payload);
+  //       alert("Workout saved ✅");
+  //     }
+      
+  //     setExercises([defaultExercise]);
+  //     if (onClose) onClose();
+  //   } catch (e) {
+  //     console.error(e);
+  //     alert("Error saving workout");
+  //   }
+  //   setSaving(false);
+  // };
 
   return (
     <div className="pb-24 md:pb-0">
