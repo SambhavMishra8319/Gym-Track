@@ -1,16 +1,19 @@
+// // src/pages/AddWorkout.jsx (REPLACE with this drag-drop version)
 // import React, { useState, useEffect } from "react";
-// import { useLocation } from "react-router-dom";
+// import { useLocation, useNavigate } from "react-router-dom";
+// import { Reorder } from "framer-motion"; // 👈 DRAG DROP
 // import { addWorkout, updateWorkout } from "../firebase/exercises";
-
+// import { getLastExerciseData } from "../firebase/exercises";
 // export default function AddWorkout({ user, existingWorkout = null, onClose = null }) {
+//   const navigate = useNavigate();
+//   const location = useLocation();
+//   const workoutToEdit = location.state?.workoutToEdit || existingWorkout;
+
 //   const defaultExercise = {
 //     name: "",
 //     sets: [{ reps: "", weight: "" }],
 //     notes: "",
 //   };
-
-//   const location = useLocation();
-//   const workoutToEdit = location.state?.workoutToEdit || existingWorkout;
 
 //   const [date, setDate] = useState(
 //     workoutToEdit?.date || new Date().toISOString().slice(0, 10)
@@ -21,8 +24,7 @@
 //   const [saving, setSaving] = useState(false);
 
 //   const template = location.state?.template;
-
-//   // 👇 PRE-FILL FROM HOME EDIT BUTTON
+// const [lastExerciseData, setLastExerciseData] = useState({});
 //   useEffect(() => {
 //     if (workoutToEdit && workoutToEdit.exercises) {
 //       setDate(workoutToEdit.date || new Date().toISOString().slice(0, 10));
@@ -31,6 +33,11 @@
 //       setExercises(template.exercises);
 //     }
 //   }, [workoutToEdit, template]);
+
+//   // 👇 DRAG DROP: Reorder exercises
+//   const handleReorder = (newExercises) => {
+//     setExercises(newExercises);
+//   };
 
 //   const updateExerciseField = (exIdx, setIdx, field, value) => {
 //     const copy = [...exercises];
@@ -72,30 +79,32 @@
 //   const handleSave = async () => {
 //     if (!user) return alert("Sign in to save workouts");
     
-//     // Validate exercises have names
 //     if (exercises.some(ex => !ex.name.trim())) {
 //       return alert("Please fill all exercise names");
 //     }
     
 //     setSaving(true);
 //     try {
+//       // 👇 SAVE EXERCISE ORDER
+//       const orderedExercises = exercises.map((ex, index) => ({
+//         ...ex,
+//         order: index // 👈 Save drag-drop position
+//       }));
+      
 //       const payload = {
 //         date,
-//         exercises,
+//         exercises: orderedExercises,
 //         createdAt: new Date().toISOString(),
 //       };
       
 //       if (workoutToEdit?.id) {
-//         // 👇 EDIT MODE: Update existing workout
 //         await updateWorkout(workoutToEdit.id, user.uid, payload);
 //         alert("Workout updated ✅");
 //       } else {
-//         // 👇 NEW MODE: Create new workout
 //         await addWorkout(user.uid, payload);
 //         alert("Workout saved ✅");
 //       }
       
-//       // Reset form
 //       setExercises([defaultExercise]);
 //       if (onClose) onClose();
 //     } catch (e) {
@@ -121,10 +130,26 @@
 //         />
 //       </div>
 
-//       <div className="space-y-4">
+//       {/* 👇 DRAG & DROP EXERCISES */}
+//       <Reorder.Group 
+//         axis="y" 
+//         values={exercises} 
+//         onReorder={handleReorder}
+//         className="space-y-4"
+//       >
 //         {exercises.map((ex, exIdx) => (
-//           <div key={exIdx} className="border p-3 rounded space-y-3 bg-white">
-//             <div className="flex flex-col md:flex-row gap-2 items-start md:items-end">
+//           <Reorder.Item 
+//             key={exIdx} 
+//             value={ex} 
+//             className="border p-3 rounded space-y-3 bg-white cursor-grab active:cursor-grabbing hover:shadow-md transition-all"
+//             id={exIdx}
+//           >
+//             {/* 👇 DRAG HANDLE */}
+//             <div className="flex items-center gap-2 mb-3">
+//               <div className="w-8 h-8 bg-gray-200 rounded-full flex items-center justify-center text-gray-500 text-sm font-bold cursor-move hover:bg-gray-300 transition-colors">
+//                 ≡
+//               </div>
+              
 //               <div className="flex-1 w-full">
 //                 <label className="text-xs">Exercise</label>
 //                 <input
@@ -136,10 +161,10 @@
 //               </div>
 
 //               <button
-//                 className="text-red-600 text-sm w-full md:w-auto"
+//                 className="text-red-600 text-sm w-24 md:w-auto"
 //                 onClick={() => removeExercise(exIdx)}
 //               >
-//                 Remove Exercise
+//                 Remove
 //               </button>
 //             </div>
 
@@ -182,48 +207,52 @@
 //                   />
 //                 </div>
 
-//                 <button
-//                   className="text-red-500 text-sm w-full md:w-auto"
-//                   onClick={() => removeSet(exIdx, setIdx)}
-//                 >
-//                   Remove Set
-//                 </button>
+//                 {ex.sets.length > 1 && (
+//                   <button
+//                     className="text-red-500 text-sm w-full md:w-auto"
+//                     onClick={() => removeSet(exIdx, setIdx)}
+//                   >
+//                     ×
+//                   </button>
+//                 )}
 //               </div>
 //             ))}
 
-//             <button
-//               onClick={() => addSet(exIdx)}
-//               className="px-2 py-1 bg-gray-100 rounded text-sm"
-//             >
-//               Add Set
-//             </button>
-
-//             <div>
-//               <label className="text-xs">Notes</label>
-//               <input
-//                 value={ex.notes}
-//                 onChange={(e) => updateExerciseNotes(exIdx, e.target.value)}
-//                 className="w-full p-2 border rounded"
-//                 placeholder="Optional notes"
-//               />
+//             <div className="flex gap-2">
+//               <button
+//                 onClick={() => addSet(exIdx)}
+//                 className="px-3 py-1 bg-gray-100 rounded text-sm hover:bg-gray-200"
+//               >
+//                 + Add Set
+//               </button>
+              
+//               <div className="flex-1">
+//                 <label className="text-xs">Notes</label>
+//                 <input
+//                   value={ex.notes}
+//                   onChange={(e) => updateExerciseNotes(exIdx, e.target.value)}
+//                   className="w-full p-2 border rounded"
+//                   placeholder="Optional notes"
+//                 />
+//               </div>
 //             </div>
-//           </div>
+//           </Reorder.Item>
 //         ))}
-//       </div>
+//       </Reorder.Group>
 
-//       <div className="h-4" />
+//       <div className="h-6" />
 
 //       <div className="flex flex-col sm:flex-row gap-2 mt-4">
 //         <button
 //           onClick={addExercise}
-//           className="px-4 py-2 bg-gray-100 rounded w-full sm:w-auto"
+//           className="px-4 py-2 bg-gray-100 rounded w-full sm:w-auto hover:bg-gray-200"
 //         >
-//           Add Exercise
+//           + Add Exercise
 //         </button>
 //         <button
 //           onClick={handleSave}
 //           disabled={saving}
-//           className="px-4 py-2 bg-blue-600 text-white rounded w-full sm:w-auto disabled:opacity-60"
+//           className="px-6 py-2 bg-blue-600 text-white rounded-md w-full sm:w-auto hover:bg-blue-700 disabled:opacity-60 font-medium"
 //         >
 //           {saving
 //             ? "Saving..."
@@ -236,7 +265,7 @@
 //       {onClose && (
 //         <button
 //           onClick={onClose}
-//           className="w-full p-2 text-sm text-gray-500 border-t border-gray-200 mt-2"
+//           className="w-full p-2 text-sm text-gray-500 border-t border-gray-200 mt-4 hover:text-gray-700"
 //         >
 //           Cancel
 //         </button>
@@ -244,11 +273,11 @@
 //     </div>
 //   );
 // }
-// src/pages/AddWorkout.jsx (REPLACE with this drag-drop version)
+// src/pages/AddWorkout.jsx (REPLACE ENTIRE FILE)
 import React, { useState, useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import { Reorder } from "framer-motion"; // 👈 DRAG DROP
-import { addWorkout, updateWorkout } from "../firebase/exercises";
+import { Reorder } from "framer-motion";
+import { addWorkout, updateWorkout, getLastExerciseData } from "../firebase/exercises";
 
 export default function AddWorkout({ user, existingWorkout = null, onClose = null }) {
   const navigate = useNavigate();
@@ -268,6 +297,7 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
     workoutToEdit?.exercises || [defaultExercise]
   );
   const [saving, setSaving] = useState(false);
+  const [lastExerciseData, setLastExerciseData] = useState({}); // 👈 PREVIOUS DATA
 
   const template = location.state?.template;
 
@@ -285,6 +315,23 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
     setExercises(newExercises);
   };
 
+  // 👇 FETCH PREVIOUS EXERCISE DATA WHEN NAME CHANGES
+  const fetchPreviousData = async (exerciseName) => {
+    if (!exerciseName.trim() || !user) return;
+    
+    try {
+      const data = await getLastExerciseData(user.uid, exerciseName.trim());
+      if (data) {
+        setLastExerciseData(prev => ({
+          ...prev,
+          [exerciseName.trim()]: data
+        }));
+      }
+    } catch (err) {
+      console.error("Previous data error:", err);
+    }
+  };
+
   const updateExerciseField = (exIdx, setIdx, field, value) => {
     const copy = [...exercises];
     copy[exIdx].sets[setIdx][field] =
@@ -292,10 +339,13 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
     setExercises(copy);
   };
 
-  const updateExerciseName = (exIdx, value) => {
+  const updateExerciseName = async (exIdx, value) => {
     const copy = [...exercises];
     copy[exIdx].name = value;
     setExercises(copy);
+    
+    // 👇 FETCH PREVIOUS DATA INSTANTLY
+    await fetchPreviousData(value);
   };
 
   const updateExerciseNotes = (exIdx, value) => {
@@ -334,7 +384,7 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
       // 👇 SAVE EXERCISE ORDER
       const orderedExercises = exercises.map((ex, index) => ({
         ...ex,
-        order: index // 👈 Save drag-drop position
+        order: index
       }));
       
       const payload = {
@@ -376,7 +426,7 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
         />
       </div>
 
-      {/* 👇 DRAG & DROP EXERCISES */}
+      {/* 👇 DRAG & DROP WITH PREVIOUS DATA */}
       <Reorder.Group 
         axis="y" 
         values={exercises} 
@@ -390,37 +440,52 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
             className="border p-3 rounded space-y-3 bg-white cursor-grab active:cursor-grabbing hover:shadow-md transition-all"
             id={exIdx}
           >
-            {/* 👇 DRAG HANDLE */}
+            {/* 👇 DRAG HANDLE + EXERCISE WITH PREVIOUS DATA */}
             <div className="flex items-center gap-2 mb-3">
               <div className="w-8 h-8 bg-gray-200 rounded-full flex items-center justify-center text-gray-500 text-sm font-bold cursor-move hover:bg-gray-300 transition-colors">
                 ≡
               </div>
               
               <div className="flex-1 w-full">
-                <label className="text-xs">Exercise</label>
+                <label className="text-xs block mb-1">
+                  Exercise
+                  {lastExerciseData[ex.name]?.reps && (
+                    <span className="text-green-600 ml-2">
+                      💪 Last: {lastExerciseData[ex.name].reps}×{lastExerciseData[ex.name].weight}
+                    </span>
+                  )}
+                </label>
                 <input
                   value={ex.name}
                   onChange={(e) => updateExerciseName(exIdx, e.target.value)}
-                  className="w-full p-2 border rounded"
-                  placeholder="Bench Press"
+                  className="w-full p-2 border rounded text-sm"
+                  placeholder="Type exercise name (Bench Press, Squat...)"
                 />
               </div>
 
               <button
-                className="text-red-600 text-sm w-24 md:w-auto"
+                className="text-red-600 text-sm w-20 px-2 py-1 rounded hover:bg-red-50"
                 onClick={() => removeExercise(exIdx)}
               >
                 Remove
               </button>
             </div>
 
+            {/* 👇 SETS WITH PREVIOUS DATA HINTS */}
             {ex.sets.map((set, setIdx) => (
               <div
                 key={setIdx}
                 className="flex flex-col md:flex-row gap-4 items-start md:items-end"
               >
-                <div className="w-full md:w-auto">
-                  <label className="text-xs">Reps</label>
+                <div className="w-full md:w-auto flex-1">
+                  <label className="text-xs block mb-1">
+                    Set {setIdx + 1} Reps
+                    {lastExerciseData[ex.name] && setIdx === 0 && (
+                      <span className="text-green-600 text-xs ml-2">
+                        (last: {lastExerciseData[ex.name].reps})
+                      </span>
+                    )}
+                  </label>
                   <input
                     type="number"
                     value={set.reps}
@@ -437,7 +502,14 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
                 </div>
 
                 <div className="w-full md:w-auto">
-                  <label className="text-xs">Weight</label>
+                  <label className="text-xs block mb-1">
+                    Weight
+                    {lastExerciseData[ex.name] && setIdx === 0 && (
+                      <span className="text-green-600 text-xs ml-2">
+                        (last: {lastExerciseData[ex.name].weight}kg)
+                      </span>
+                    )}
+                  </label>
                   <input
                     value={set.weight}
                     onChange={(e) =>
@@ -455,7 +527,7 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
 
                 {ex.sets.length > 1 && (
                   <button
-                    className="text-red-500 text-sm w-full md:w-auto"
+                    className="text-red-500 text-sm px-2 py-1 rounded hover:bg-red-100"
                     onClick={() => removeSet(exIdx, setIdx)}
                   >
                     ×
@@ -464,16 +536,16 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
               </div>
             ))}
 
-            <div className="flex gap-2">
+            <div className="flex gap-3 items-end">
               <button
                 onClick={() => addSet(exIdx)}
-                className="px-3 py-1 bg-gray-100 rounded text-sm hover:bg-gray-200"
+                className="px-3 py-1 bg-gray-100 rounded text-sm hover:bg-gray-200 flex-shrink-0"
               >
                 + Add Set
               </button>
               
               <div className="flex-1">
-                <label className="text-xs">Notes</label>
+                <label className="text-xs block mb-1">Notes</label>
                 <input
                   value={ex.notes}
                   onChange={(e) => updateExerciseNotes(exIdx, e.target.value)}
@@ -495,6 +567,19 @@ export default function AddWorkout({ user, existingWorkout = null, onClose = nul
         >
           + Add Exercise
         </button>
+        {/* 👇 DEBUG BUTTON - ADD TEMPORARILY */}
+{/* <button 
+  onClick={async () => {
+    console.log("User:", user?.uid);
+    console.log("Testing Bench Press data...");
+    const data = await getLastExerciseData(user?.uid, "Bench Press");
+    console.log("Previous data result:", data);
+  }}
+  className="px-4 py-2 bg-yellow-500 text-white rounded"
+>
+  🔍 DEBUG Previous Data
+</button> */}
+
         <button
           onClick={handleSave}
           disabled={saving}

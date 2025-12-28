@@ -45,9 +45,12 @@ import {
   orderBy, 
   doc, 
   updateDoc, 
-  deleteDoc 
+  deleteDoc,
+  collection,      // 👈 ADD THIS
+  where,           // 👈 ADD THIS
+  limit            // 👈 ADD THIS
 } from 'firebase/firestore';
-
+import { db } from "./config";  // 👈 ADD THIS
 // --------------------------
 // ADD WORKOUT
 // --------------------------
@@ -140,3 +143,85 @@ export async function deleteWorkout(userId, workoutId) {
 //   const workoutRef = doc(db, "users", userId, "workouts", workoutId);
 //   await deleteDoc(workoutRef);
 // };
+// src/firebase/exercises.js - ADD these functions
+// import { collection, getDocs, orderBy, query, where } from "firebase/firestore";
+// import { db } from "./config";
+
+// export const getLastExerciseData = async (userId, exerciseName) => {
+//   try {
+//     const workoutsSnap = await getDocs(
+//       query(
+//         collection(db, "users", userId, "workouts"),
+//         where("exercises", "array-contains-any", [
+//           { name: exerciseName }
+//         ]),
+//         orderBy("date", "desc"),
+//         limit(1)
+//       )
+//     );
+
+//     if (workoutsSnap.empty) return null;
+
+//     const workout = workoutsSnap.docs[0].data();
+//     const exercise = workout.exercises.find(ex => ex.name === exerciseName);
+    
+//     if (!exercise || !exercise.sets.length) return null;
+
+//     // Get last set data
+//     const lastSet = exercise.sets[exercise.sets.length - 1];
+//     return {
+//       reps: lastSet.reps || "",
+//       weight: lastSet.weight || ""
+//     };
+//   } catch (err) {
+//     console.error("Error getting last exercise:", err);
+//     return null;
+//   }
+// };
+// src/firebase/exercises.js - REPLACE getLastExerciseData with THIS:
+export const getLastExerciseData = async (userId, exerciseName) => {
+  try {
+    console.log("🔍 Searching for:", exerciseName, "user:", userId);
+    
+    // Get ALL workouts (no index needed!)
+    const workouts = await getWorkouts(userId);
+    console.log("Found", workouts.length, "workouts");
+    
+    // Find workouts containing this exercise
+    const relevantWorkouts = workouts
+      .filter(w => 
+        w.exercises?.some(ex => 
+          ex.name?.toLowerCase() === exerciseName.toLowerCase()
+        )
+      )
+      .sort((a, b) => new Date(b.date) - new Date(a.date)); // Most recent first
+    
+    console.log("Relevant workouts:", relevantWorkouts.length);
+    
+    if (!relevantWorkouts.length) {
+      console.log("❌ No workouts found for:", exerciseName);
+      return null;
+    }
+
+    const workout = relevantWorkouts[0];
+    const exercise = workout.exercises.find(ex => 
+      ex.name?.toLowerCase() === exerciseName.toLowerCase()
+    );
+    
+    if (!exercise || !exercise.sets?.length) {
+      console.log("❌ No sets found for:", exerciseName);
+      return null;
+    }
+
+    const lastSet = exercise.sets[exercise.sets.length - 1];
+    console.log("✅ FOUND PREVIOUS DATA:", lastSet);
+    
+    return {
+      reps: lastSet.reps || "",
+      weight: lastSet.weight || ""
+    };
+  } catch (err) {
+    console.error("❌ Error:", err);
+    return null;
+  }
+};
