@@ -476,7 +476,7 @@ import ProfilePage from "./pages/ProfilePage";
 import SettingsPage from "./pages/SettingsPage";
 import AchievementsPage from "./pages/AchievementsPage";
 import StreakCalendar from "./pages/StreakCalendar";
-
+import WeightTracking from "./pages/WeightTracking";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import ProtectedRoute from "./components/ProtectedRoute";
@@ -496,6 +496,9 @@ const protectedRoutes = [
   { path: "/settings", element: <SettingsPage /> },
   { path: "/achievements", element: <AchievementsPage /> },
   { path: "/streaks", element: <StreakCalendar /> },
+  // In your protectedRoutes array:
+{ path: "/weight-tracking", element: <WeightTracking /> },
+
 ];
 
 const publicRoutes = [

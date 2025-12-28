@@ -447,6 +447,8 @@ export default function MainLayout({ children, user }) {
             ["/achievements", "🥇 Achievements"],
             ["/streaks", "🔥 Streaks"],
             ["/settings", "⚙️ Settings"],
+            // Add to your nav array:
+            ["/weight-tracking", "⚖️ Weight"],
           ].map(([to, label]) => (
             <Link
               key={to}
