@@ -1,0 +1,5775 @@
+[
+  {
+    "id": "gtf_00022",
+    "name": "Roti",
+    "aliases": [
+      "chapati",
+      "roti"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_00023",
+    "name": "Paratha",
+    "aliases": [
+      "paratha"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02237",
+    "name": "Plain Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "plain"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02238",
+    "name": "Boiled Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "boiled"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.0,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 205.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02239",
+    "name": "Steamed Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "steamed"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 110.4,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.8,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 198.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02240",
+    "name": "Roasted Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "roasted"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.2,
+      "carbs": 18.4,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02241",
+    "name": "Grilled Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "grilled"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 3.3,
+      "carbs": 17.6,
+      "fat": 3.3,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02242",
+    "name": "Fried Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "fried"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.0,
+      "protein": 3.1,
+      "carbs": 20.7,
+      "fat": 8.1,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 334.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02243",
+    "name": "Masala Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "masala"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.0,
+      "protein": 3.3,
+      "carbs": 19.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 270.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02244",
+    "name": "Homemade Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "homemade"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02245",
+    "name": "Restaurant Style Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "restaurant style"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.0,
+      "protein": 3.3,
+      "carbs": 21.6,
+      "fat": 6.3,
+      "fiber": 2.0,
+      "sugar": 4.8,
+      "sodium": 291.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02246",
+    "name": "Low Oil Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "low oil"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 105.6,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.2,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 190.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02247",
+    "name": "High Protein Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "high protein"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138.0,
+      "protein": 4.2,
+      "carbs": 16.2,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 3.6,
+      "sodium": 248.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02248",
+    "name": "Diet Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "diet"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 90.0,
+      "protein": 3.3,
+      "carbs": 13.5,
+      "fat": 2.6,
+      "fiber": 2.0,
+      "sugar": 3.0,
+      "sodium": 162.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02249",
+    "name": "Plain Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02250",
+    "name": "Plain Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02251",
+    "name": "Plain Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02252",
+    "name": "Plain Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02253",
+    "name": "Plain Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02254",
+    "name": "Plain Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02255",
+    "name": "Boiled Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.0,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 205.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02256",
+    "name": "Boiled Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.0,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 205.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02257",
+    "name": "Boiled Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.0,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 205.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02258",
+    "name": "Boiled Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.0,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 205.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02259",
+    "name": "Boiled Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.0,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 205.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02260",
+    "name": "Boiled Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.0,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 205.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02261",
+    "name": "Steamed Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 110.4,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.8,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 198.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02262",
+    "name": "Steamed Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 110.4,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.8,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 198.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02263",
+    "name": "Steamed Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 110.4,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.8,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 198.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02264",
+    "name": "Steamed Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 110.4,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.8,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 198.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02265",
+    "name": "Steamed Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 110.4,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.8,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 198.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02266",
+    "name": "Steamed Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 110.4,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.8,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 198.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02267",
+    "name": "Roasted Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.2,
+      "carbs": 18.4,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02268",
+    "name": "Roasted Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.2,
+      "carbs": 18.4,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02269",
+    "name": "Roasted Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.2,
+      "carbs": 18.4,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02270",
+    "name": "Roasted Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.2,
+      "carbs": 18.4,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02271",
+    "name": "Roasted Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.2,
+      "carbs": 18.4,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02272",
+    "name": "Roasted Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.2,
+      "carbs": 18.4,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02273",
+    "name": "Grilled Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 3.3,
+      "carbs": 17.6,
+      "fat": 3.3,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02274",
+    "name": "Grilled Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 3.3,
+      "carbs": 17.6,
+      "fat": 3.3,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02275",
+    "name": "Grilled Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 3.3,
+      "carbs": 17.6,
+      "fat": 3.3,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02276",
+    "name": "Grilled Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 3.3,
+      "carbs": 17.6,
+      "fat": 3.3,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02277",
+    "name": "Grilled Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 3.3,
+      "carbs": 17.6,
+      "fat": 3.3,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02278",
+    "name": "Grilled Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 3.3,
+      "carbs": 17.6,
+      "fat": 3.3,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02279",
+    "name": "Fried Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.0,
+      "protein": 3.1,
+      "carbs": 20.7,
+      "fat": 8.1,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 334.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02280",
+    "name": "Fried Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.0,
+      "protein": 3.1,
+      "carbs": 20.7,
+      "fat": 8.1,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 334.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02281",
+    "name": "Fried Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.0,
+      "protein": 3.1,
+      "carbs": 20.7,
+      "fat": 8.1,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 334.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02282",
+    "name": "Fried Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.0,
+      "protein": 3.1,
+      "carbs": 20.7,
+      "fat": 8.1,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 334.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02283",
+    "name": "Fried Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.0,
+      "protein": 3.1,
+      "carbs": 20.7,
+      "fat": 8.1,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 334.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02284",
+    "name": "Fried Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.0,
+      "protein": 3.1,
+      "carbs": 20.7,
+      "fat": 8.1,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 334.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02285",
+    "name": "Masala Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.0,
+      "protein": 3.3,
+      "carbs": 19.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 270.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02286",
+    "name": "Masala Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.0,
+      "protein": 3.3,
+      "carbs": 19.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 270.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02287",
+    "name": "Masala Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.0,
+      "protein": 3.3,
+      "carbs": 19.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 270.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02288",
+    "name": "Masala Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.0,
+      "protein": 3.3,
+      "carbs": 19.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 270.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02289",
+    "name": "Masala Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.0,
+      "protein": 3.3,
+      "carbs": 19.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 270.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02290",
+    "name": "Masala Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.0,
+      "protein": 3.3,
+      "carbs": 19.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 270.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02291",
+    "name": "Homemade Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02292",
+    "name": "Homemade Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02293",
+    "name": "Homemade Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02294",
+    "name": "Homemade Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02295",
+    "name": "Homemade Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02296",
+    "name": "Homemade Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02297",
+    "name": "Restaurant Style Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.0,
+      "protein": 3.3,
+      "carbs": 21.6,
+      "fat": 6.3,
+      "fiber": 2.0,
+      "sugar": 4.8,
+      "sodium": 291.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02298",
+    "name": "Restaurant Style Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.0,
+      "protein": 3.3,
+      "carbs": 21.6,
+      "fat": 6.3,
+      "fiber": 2.0,
+      "sugar": 4.8,
+      "sodium": 291.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02299",
+    "name": "Restaurant Style Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.0,
+      "protein": 3.3,
+      "carbs": 21.6,
+      "fat": 6.3,
+      "fiber": 2.0,
+      "sugar": 4.8,
+      "sodium": 291.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02300",
+    "name": "Restaurant Style Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.0,
+      "protein": 3.3,
+      "carbs": 21.6,
+      "fat": 6.3,
+      "fiber": 2.0,
+      "sugar": 4.8,
+      "sodium": 291.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02301",
+    "name": "Restaurant Style Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.0,
+      "protein": 3.3,
+      "carbs": 21.6,
+      "fat": 6.3,
+      "fiber": 2.0,
+      "sugar": 4.8,
+      "sodium": 291.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02302",
+    "name": "Restaurant Style Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.0,
+      "protein": 3.3,
+      "carbs": 21.6,
+      "fat": 6.3,
+      "fiber": 2.0,
+      "sugar": 4.8,
+      "sodium": 291.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02303",
+    "name": "Low Oil Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 105.6,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.2,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 190.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02304",
+    "name": "Low Oil Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 105.6,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.2,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 190.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02305",
+    "name": "Low Oil Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 105.6,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.2,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 190.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02306",
+    "name": "Low Oil Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 105.6,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.2,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 190.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02307",
+    "name": "Low Oil Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 105.6,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.2,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 190.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02308",
+    "name": "Low Oil Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 105.6,
+      "protein": 3.1,
+      "carbs": 17.6,
+      "fat": 2.2,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 190.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02309",
+    "name": "High Protein Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138.0,
+      "protein": 4.2,
+      "carbs": 16.2,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 3.6,
+      "sodium": 248.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02310",
+    "name": "High Protein Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138.0,
+      "protein": 4.2,
+      "carbs": 16.2,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 3.6,
+      "sodium": 248.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02311",
+    "name": "High Protein Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138.0,
+      "protein": 4.2,
+      "carbs": 16.2,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 3.6,
+      "sodium": 248.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02312",
+    "name": "High Protein Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138.0,
+      "protein": 4.2,
+      "carbs": 16.2,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 3.6,
+      "sodium": 248.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02313",
+    "name": "High Protein Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138.0,
+      "protein": 4.2,
+      "carbs": 16.2,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 3.6,
+      "sodium": 248.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02314",
+    "name": "High Protein Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138.0,
+      "protein": 4.2,
+      "carbs": 16.2,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 3.6,
+      "sodium": 248.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02315",
+    "name": "Diet Roti - Small Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 90.0,
+      "protein": 3.3,
+      "carbs": 13.5,
+      "fat": 2.6,
+      "fiber": 2.0,
+      "sugar": 3.0,
+      "sodium": 162.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02316",
+    "name": "Diet Roti - Medium Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 90.0,
+      "protein": 3.3,
+      "carbs": 13.5,
+      "fat": 2.6,
+      "fiber": 2.0,
+      "sugar": 3.0,
+      "sodium": 162.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02317",
+    "name": "Diet Roti - Large Serving",
+    "aliases": [
+      "chapati",
+      "roti",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 90.0,
+      "protein": 3.3,
+      "carbs": 13.5,
+      "fat": 2.6,
+      "fiber": 2.0,
+      "sugar": 3.0,
+      "sodium": 162.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02318",
+    "name": "Diet Roti - Kids Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 90.0,
+      "protein": 3.3,
+      "carbs": 13.5,
+      "fat": 2.6,
+      "fiber": 2.0,
+      "sugar": 3.0,
+      "sodium": 162.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02319",
+    "name": "Diet Roti - Gym Portion",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 90.0,
+      "protein": 3.3,
+      "carbs": 13.5,
+      "fat": 2.6,
+      "fiber": 2.0,
+      "sugar": 3.0,
+      "sodium": 162.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02320",
+    "name": "Diet Roti - Meal Prep",
+    "aliases": [
+      "chapati",
+      "roti",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 90.0,
+      "protein": 3.3,
+      "carbs": 13.5,
+      "fat": 2.6,
+      "fiber": 2.0,
+      "sugar": 3.0,
+      "sodium": 162.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02321",
+    "name": "North Indian Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "north indian"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.6,
+      "protein": 3.2,
+      "carbs": 18.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 4.1,
+      "sodium": 222.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02322",
+    "name": "South Indian Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "south indian"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02323",
+    "name": "Maharashtrian Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "maharashtrian"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 118.8,
+      "protein": 3.1,
+      "carbs": 17.8,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 213.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02324",
+    "name": "Gujarati Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "gujarati"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 127.2,
+      "protein": 3.3,
+      "carbs": 19.1,
+      "fat": 3.9,
+      "fiber": 2.0,
+      "sugar": 4.2,
+      "sodium": 229.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02325",
+    "name": "Bengali Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "bengali"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 128.4,
+      "protein": 3.3,
+      "carbs": 19.3,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 4.2,
+      "sodium": 231.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02326",
+    "name": "Punjabi Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "punjabi"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 139.2,
+      "protein": 3.6,
+      "carbs": 20.9,
+      "fat": 4.3,
+      "fiber": 2.0,
+      "sugar": 4.6,
+      "sodium": 250.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02327",
+    "name": "Rajasthani Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "rajasthani"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 3.1,
+      "carbs": 18.0,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02328",
+    "name": "Hyderabadi Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "hyderabadi"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 133.2,
+      "protein": 3.4,
+      "carbs": 20.0,
+      "fat": 4.1,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 239.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02329",
+    "name": "Mumbai Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "mumbai"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.8,
+      "protein": 3.4,
+      "carbs": 19.6,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 235.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02330",
+    "name": "Delhi Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "delhi"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 129.6,
+      "protein": 3.3,
+      "carbs": 19.4,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 233.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02331",
+    "name": "Indore Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "indore"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.8,
+      "protein": 3.5,
+      "carbs": 20.5,
+      "fat": 4.2,
+      "fiber": 2.0,
+      "sugar": 4.5,
+      "sodium": 246.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02332",
+    "name": "Bhopal Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "bhopal"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 112.8,
+      "protein": 2.9,
+      "carbs": 16.9,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 3.7,
+      "sodium": 203.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02333",
+    "name": "Karnataka Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "karnataka"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 133.2,
+      "protein": 3.4,
+      "carbs": 20.0,
+      "fat": 4.1,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 239.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02334",
+    "name": "Tamil Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "tamil"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 121.2,
+      "protein": 3.1,
+      "carbs": 18.2,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 4.0,
+      "sodium": 218.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02335",
+    "name": "Kerala Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "kerala"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 115.2,
+      "protein": 3.0,
+      "carbs": 17.3,
+      "fat": 3.6,
+      "fiber": 2.0,
+      "sugar": 3.8,
+      "sodium": 207.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02336",
+    "name": "Andhra Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "andhra"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 116.4,
+      "protein": 3.0,
+      "carbs": 17.5,
+      "fat": 3.6,
+      "fiber": 2.0,
+      "sugar": 3.8,
+      "sodium": 209.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02337",
+    "name": "Goan Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "goan"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 118.8,
+      "protein": 3.1,
+      "carbs": 17.8,
+      "fat": 3.7,
+      "fiber": 2.0,
+      "sugar": 3.9,
+      "sodium": 213.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02338",
+    "name": "International Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "international"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.0,
+      "protein": 3.4,
+      "carbs": 19.8,
+      "fat": 4.1,
+      "fiber": 2.0,
+      "sugar": 4.4,
+      "sodium": 237.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02339",
+    "name": "Cafe Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "cafe"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 128.4,
+      "protein": 3.3,
+      "carbs": 19.3,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 4.2,
+      "sodium": 231.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02340",
+    "name": "Hostel Roti",
+    "aliases": [
+      "chapati",
+      "roti",
+      "hostel"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.8,
+      "protein": 3.5,
+      "carbs": 20.5,
+      "fat": 4.2,
+      "fiber": 2.0,
+      "sugar": 4.5,
+      "sodium": 246.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02341",
+    "name": "Plain Paratha",
+    "aliases": [
+      "paratha",
+      "plain"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02342",
+    "name": "Boiled Paratha",
+    "aliases": [
+      "paratha",
+      "boiled"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 8.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02343",
+    "name": "Steamed Paratha",
+    "aliases": [
+      "paratha",
+      "steamed"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 7.5,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02344",
+    "name": "Roasted Paratha",
+    "aliases": [
+      "paratha",
+      "roasted"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.1,
+      "carbs": 36.7,
+      "fat": 11.5,
+      "fiber": 4.0,
+      "sugar": 8.1,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02345",
+    "name": "Grilled Paratha",
+    "aliases": [
+      "paratha",
+      "grilled"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 35.3,
+      "fat": 9.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02346",
+    "name": "Fried Paratha",
+    "aliases": [
+      "paratha",
+      "fried"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 403.0,
+      "protein": 6.0,
+      "carbs": 41.4,
+      "fat": 22.0,
+      "fiber": 4.0,
+      "sugar": 9.1,
+      "sodium": 725.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02347",
+    "name": "Masala Paratha",
+    "aliases": [
+      "paratha",
+      "masala"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 325.0,
+      "protein": 6.3,
+      "carbs": 39.6,
+      "fat": 14.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 585.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02348",
+    "name": "Homemade Paratha",
+    "aliases": [
+      "paratha",
+      "homemade"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02349",
+    "name": "Restaurant Style Paratha",
+    "aliases": [
+      "paratha",
+      "restaurant style"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 351.0,
+      "protein": 6.3,
+      "carbs": 43.2,
+      "fat": 17.0,
+      "fiber": 4.0,
+      "sugar": 9.5,
+      "sodium": 631.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02350",
+    "name": "Low Oil Paratha",
+    "aliases": [
+      "paratha",
+      "low oil"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 228.8,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 411.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02351",
+    "name": "High Protein Paratha",
+    "aliases": [
+      "paratha",
+      "high protein"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 299.0,
+      "protein": 8.1,
+      "carbs": 32.4,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 7.1,
+      "sodium": 538.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02352",
+    "name": "Diet Paratha",
+    "aliases": [
+      "paratha",
+      "diet"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 195.0,
+      "protein": 6.3,
+      "carbs": 27.0,
+      "fat": 7.0,
+      "fiber": 4.0,
+      "sugar": 5.9,
+      "sodium": 351.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02353",
+    "name": "Plain Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02354",
+    "name": "Plain Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02355",
+    "name": "Plain Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02356",
+    "name": "Plain Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02357",
+    "name": "Plain Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02358",
+    "name": "Plain Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02359",
+    "name": "Boiled Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 8.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02360",
+    "name": "Boiled Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 8.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02361",
+    "name": "Boiled Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 8.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02362",
+    "name": "Boiled Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 8.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02363",
+    "name": "Boiled Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 8.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02364",
+    "name": "Boiled Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 8.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02365",
+    "name": "Steamed Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 7.5,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02366",
+    "name": "Steamed Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 7.5,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02367",
+    "name": "Steamed Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 7.5,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02368",
+    "name": "Steamed Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 7.5,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02369",
+    "name": "Steamed Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 7.5,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02370",
+    "name": "Steamed Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 7.5,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02371",
+    "name": "Roasted Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.1,
+      "carbs": 36.7,
+      "fat": 11.5,
+      "fiber": 4.0,
+      "sugar": 8.1,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02372",
+    "name": "Roasted Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.1,
+      "carbs": 36.7,
+      "fat": 11.5,
+      "fiber": 4.0,
+      "sugar": 8.1,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02373",
+    "name": "Roasted Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.1,
+      "carbs": 36.7,
+      "fat": 11.5,
+      "fiber": 4.0,
+      "sugar": 8.1,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02374",
+    "name": "Roasted Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.1,
+      "carbs": 36.7,
+      "fat": 11.5,
+      "fiber": 4.0,
+      "sugar": 8.1,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02375",
+    "name": "Roasted Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.1,
+      "carbs": 36.7,
+      "fat": 11.5,
+      "fiber": 4.0,
+      "sugar": 8.1,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02376",
+    "name": "Roasted Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.1,
+      "carbs": 36.7,
+      "fat": 11.5,
+      "fiber": 4.0,
+      "sugar": 8.1,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02377",
+    "name": "Grilled Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 35.3,
+      "fat": 9.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02378",
+    "name": "Grilled Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 35.3,
+      "fat": 9.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02379",
+    "name": "Grilled Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 35.3,
+      "fat": 9.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02380",
+    "name": "Grilled Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 35.3,
+      "fat": 9.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02381",
+    "name": "Grilled Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 35.3,
+      "fat": 9.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02382",
+    "name": "Grilled Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 35.3,
+      "fat": 9.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02383",
+    "name": "Fried Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 403.0,
+      "protein": 6.0,
+      "carbs": 41.4,
+      "fat": 22.0,
+      "fiber": 4.0,
+      "sugar": 9.1,
+      "sodium": 725.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02384",
+    "name": "Fried Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 403.0,
+      "protein": 6.0,
+      "carbs": 41.4,
+      "fat": 22.0,
+      "fiber": 4.0,
+      "sugar": 9.1,
+      "sodium": 725.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02385",
+    "name": "Fried Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 403.0,
+      "protein": 6.0,
+      "carbs": 41.4,
+      "fat": 22.0,
+      "fiber": 4.0,
+      "sugar": 9.1,
+      "sodium": 725.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02386",
+    "name": "Fried Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 403.0,
+      "protein": 6.0,
+      "carbs": 41.4,
+      "fat": 22.0,
+      "fiber": 4.0,
+      "sugar": 9.1,
+      "sodium": 725.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02387",
+    "name": "Fried Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 403.0,
+      "protein": 6.0,
+      "carbs": 41.4,
+      "fat": 22.0,
+      "fiber": 4.0,
+      "sugar": 9.1,
+      "sodium": 725.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02388",
+    "name": "Fried Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 403.0,
+      "protein": 6.0,
+      "carbs": 41.4,
+      "fat": 22.0,
+      "fiber": 4.0,
+      "sugar": 9.1,
+      "sodium": 725.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02389",
+    "name": "Masala Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 325.0,
+      "protein": 6.3,
+      "carbs": 39.6,
+      "fat": 14.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 585.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02390",
+    "name": "Masala Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 325.0,
+      "protein": 6.3,
+      "carbs": 39.6,
+      "fat": 14.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 585.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02391",
+    "name": "Masala Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 325.0,
+      "protein": 6.3,
+      "carbs": 39.6,
+      "fat": 14.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 585.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02392",
+    "name": "Masala Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 325.0,
+      "protein": 6.3,
+      "carbs": 39.6,
+      "fat": 14.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 585.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02393",
+    "name": "Masala Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 325.0,
+      "protein": 6.3,
+      "carbs": 39.6,
+      "fat": 14.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 585.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02394",
+    "name": "Masala Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 325.0,
+      "protein": 6.3,
+      "carbs": 39.6,
+      "fat": 14.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 585.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02395",
+    "name": "Homemade Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02396",
+    "name": "Homemade Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02397",
+    "name": "Homemade Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02398",
+    "name": "Homemade Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02399",
+    "name": "Homemade Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02400",
+    "name": "Homemade Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.0,
+      "protein": 6.0,
+      "carbs": 36.0,
+      "fat": 10.0,
+      "fiber": 4.0,
+      "sugar": 7.9,
+      "sodium": 468.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02401",
+    "name": "Restaurant Style Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 351.0,
+      "protein": 6.3,
+      "carbs": 43.2,
+      "fat": 17.0,
+      "fiber": 4.0,
+      "sugar": 9.5,
+      "sodium": 631.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02402",
+    "name": "Restaurant Style Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 351.0,
+      "protein": 6.3,
+      "carbs": 43.2,
+      "fat": 17.0,
+      "fiber": 4.0,
+      "sugar": 9.5,
+      "sodium": 631.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02403",
+    "name": "Restaurant Style Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 351.0,
+      "protein": 6.3,
+      "carbs": 43.2,
+      "fat": 17.0,
+      "fiber": 4.0,
+      "sugar": 9.5,
+      "sodium": 631.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02404",
+    "name": "Restaurant Style Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 351.0,
+      "protein": 6.3,
+      "carbs": 43.2,
+      "fat": 17.0,
+      "fiber": 4.0,
+      "sugar": 9.5,
+      "sodium": 631.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02405",
+    "name": "Restaurant Style Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 351.0,
+      "protein": 6.3,
+      "carbs": 43.2,
+      "fat": 17.0,
+      "fiber": 4.0,
+      "sugar": 9.5,
+      "sodium": 631.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02406",
+    "name": "Restaurant Style Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 351.0,
+      "protein": 6.3,
+      "carbs": 43.2,
+      "fat": 17.0,
+      "fiber": 4.0,
+      "sugar": 9.5,
+      "sodium": 631.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02407",
+    "name": "Low Oil Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 228.8,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 411.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02408",
+    "name": "Low Oil Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 228.8,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 411.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02409",
+    "name": "Low Oil Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 228.8,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 411.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02410",
+    "name": "Low Oil Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 228.8,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 411.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02411",
+    "name": "Low Oil Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 228.8,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 411.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02412",
+    "name": "Low Oil Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 228.8,
+      "protein": 6.0,
+      "carbs": 35.3,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sugar": 7.8,
+      "sodium": 411.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02413",
+    "name": "High Protein Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 299.0,
+      "protein": 8.1,
+      "carbs": 32.4,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 7.1,
+      "sodium": 538.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02414",
+    "name": "High Protein Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 299.0,
+      "protein": 8.1,
+      "carbs": 32.4,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 7.1,
+      "sodium": 538.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02415",
+    "name": "High Protein Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 299.0,
+      "protein": 8.1,
+      "carbs": 32.4,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 7.1,
+      "sodium": 538.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02416",
+    "name": "High Protein Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 299.0,
+      "protein": 8.1,
+      "carbs": 32.4,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 7.1,
+      "sodium": 538.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02417",
+    "name": "High Protein Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 299.0,
+      "protein": 8.1,
+      "carbs": 32.4,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 7.1,
+      "sodium": 538.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02418",
+    "name": "High Protein Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 299.0,
+      "protein": 8.1,
+      "carbs": 32.4,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 7.1,
+      "sodium": 538.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02419",
+    "name": "Diet Paratha - Small Serving",
+    "aliases": [
+      "paratha",
+      "small serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 195.0,
+      "protein": 6.3,
+      "carbs": 27.0,
+      "fat": 7.0,
+      "fiber": 4.0,
+      "sugar": 5.9,
+      "sodium": 351.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02420",
+    "name": "Diet Paratha - Medium Serving",
+    "aliases": [
+      "paratha",
+      "medium serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 195.0,
+      "protein": 6.3,
+      "carbs": 27.0,
+      "fat": 7.0,
+      "fiber": 4.0,
+      "sugar": 5.9,
+      "sodium": 351.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02421",
+    "name": "Diet Paratha - Large Serving",
+    "aliases": [
+      "paratha",
+      "large serving"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 195.0,
+      "protein": 6.3,
+      "carbs": 27.0,
+      "fat": 7.0,
+      "fiber": 4.0,
+      "sugar": 5.9,
+      "sodium": 351.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02422",
+    "name": "Diet Paratha - Kids Portion",
+    "aliases": [
+      "paratha",
+      "kids portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 195.0,
+      "protein": 6.3,
+      "carbs": 27.0,
+      "fat": 7.0,
+      "fiber": 4.0,
+      "sugar": 5.9,
+      "sodium": 351.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02423",
+    "name": "Diet Paratha - Gym Portion",
+    "aliases": [
+      "paratha",
+      "gym portion"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 195.0,
+      "protein": 6.3,
+      "carbs": 27.0,
+      "fat": 7.0,
+      "fiber": 4.0,
+      "sugar": 5.9,
+      "sodium": 351.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02424",
+    "name": "Diet Paratha - Meal Prep",
+    "aliases": [
+      "paratha",
+      "meal prep"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 195.0,
+      "protein": 6.3,
+      "carbs": 27.0,
+      "fat": 7.0,
+      "fiber": 4.0,
+      "sugar": 5.9,
+      "sodium": 351.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02425",
+    "name": "North Indian Paratha",
+    "aliases": [
+      "paratha",
+      "north indian"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 252.2,
+      "protein": 5.8,
+      "carbs": 34.9,
+      "fat": 9.7,
+      "fiber": 4.0,
+      "sugar": 7.7,
+      "sodium": 454.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02426",
+    "name": "South Indian Paratha",
+    "aliases": [
+      "paratha",
+      "south indian"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 239.2,
+      "protein": 5.5,
+      "carbs": 33.1,
+      "fat": 9.2,
+      "fiber": 4.0,
+      "sugar": 7.3,
+      "sodium": 430.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02427",
+    "name": "Maharashtrian Paratha",
+    "aliases": [
+      "paratha",
+      "maharashtrian"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.6,
+      "carbs": 39.6,
+      "fat": 11.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02428",
+    "name": "Gujarati Paratha",
+    "aliases": [
+      "paratha",
+      "gujarati"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 273.0,
+      "protein": 6.3,
+      "carbs": 37.8,
+      "fat": 10.5,
+      "fiber": 4.0,
+      "sugar": 8.3,
+      "sodium": 491.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02429",
+    "name": "Bengali Paratha",
+    "aliases": [
+      "paratha",
+      "bengali"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 291.2,
+      "protein": 6.7,
+      "carbs": 40.3,
+      "fat": 11.2,
+      "fiber": 4.0,
+      "sugar": 8.9,
+      "sodium": 524.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02430",
+    "name": "Punjabi Paratha",
+    "aliases": [
+      "paratha",
+      "punjabi"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.6,
+      "protein": 6.7,
+      "carbs": 40.0,
+      "fat": 11.1,
+      "fiber": 4.0,
+      "sugar": 8.8,
+      "sodium": 519.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02431",
+    "name": "Rajasthani Paratha",
+    "aliases": [
+      "paratha",
+      "rajasthani"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 283.4,
+      "protein": 6.5,
+      "carbs": 39.2,
+      "fat": 10.9,
+      "fiber": 4.0,
+      "sugar": 8.6,
+      "sodium": 510.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02432",
+    "name": "Hyderabadi Paratha",
+    "aliases": [
+      "paratha",
+      "hyderabadi"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 278.2,
+      "protein": 6.4,
+      "carbs": 38.5,
+      "fat": 10.7,
+      "fiber": 4.0,
+      "sugar": 8.5,
+      "sodium": 500.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02433",
+    "name": "Mumbai Paratha",
+    "aliases": [
+      "paratha",
+      "mumbai"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.6,
+      "protein": 7.0,
+      "carbs": 41.8,
+      "fat": 11.6,
+      "fiber": 4.0,
+      "sugar": 9.2,
+      "sodium": 542.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02434",
+    "name": "Delhi Paratha",
+    "aliases": [
+      "paratha",
+      "delhi"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 267.8,
+      "protein": 6.2,
+      "carbs": 37.1,
+      "fat": 10.3,
+      "fiber": 4.0,
+      "sugar": 8.2,
+      "sodium": 482.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02435",
+    "name": "Indore Paratha",
+    "aliases": [
+      "paratha",
+      "indore"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 5.7,
+      "carbs": 34.2,
+      "fat": 9.5,
+      "fiber": 4.0,
+      "sugar": 7.5,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02436",
+    "name": "Bhopal Paratha",
+    "aliases": [
+      "paratha",
+      "bhopal"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 247.0,
+      "protein": 5.7,
+      "carbs": 34.2,
+      "fat": 9.5,
+      "fiber": 4.0,
+      "sugar": 7.5,
+      "sodium": 444.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02437",
+    "name": "Karnataka Paratha",
+    "aliases": [
+      "paratha",
+      "karnataka"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.6,
+      "protein": 6.7,
+      "carbs": 40.0,
+      "fat": 11.1,
+      "fiber": 4.0,
+      "sugar": 8.8,
+      "sodium": 519.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02438",
+    "name": "Tamil Paratha",
+    "aliases": [
+      "paratha",
+      "tamil"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 278.2,
+      "protein": 6.4,
+      "carbs": 38.5,
+      "fat": 10.7,
+      "fiber": 4.0,
+      "sugar": 8.5,
+      "sodium": 500.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02439",
+    "name": "Kerala Paratha",
+    "aliases": [
+      "paratha",
+      "kerala"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 270.4,
+      "protein": 6.2,
+      "carbs": 37.4,
+      "fat": 10.4,
+      "fiber": 4.0,
+      "sugar": 8.2,
+      "sodium": 486.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02440",
+    "name": "Andhra Paratha",
+    "aliases": [
+      "paratha",
+      "andhra"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 293.8,
+      "protein": 6.8,
+      "carbs": 40.7,
+      "fat": 11.3,
+      "fiber": 4.0,
+      "sugar": 8.9,
+      "sodium": 528.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02441",
+    "name": "Goan Paratha",
+    "aliases": [
+      "paratha",
+      "goan"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 252.2,
+      "protein": 5.8,
+      "carbs": 34.9,
+      "fat": 9.7,
+      "fiber": 4.0,
+      "sugar": 7.7,
+      "sodium": 454.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02442",
+    "name": "International Paratha",
+    "aliases": [
+      "paratha",
+      "international"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 278.2,
+      "protein": 6.4,
+      "carbs": 38.5,
+      "fat": 10.7,
+      "fiber": 4.0,
+      "sugar": 8.5,
+      "sodium": 500.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02443",
+    "name": "Cafe Paratha",
+    "aliases": [
+      "paratha",
+      "cafe"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 286.0,
+      "protein": 6.6,
+      "carbs": 39.6,
+      "fat": 11.0,
+      "fiber": 4.0,
+      "sugar": 8.7,
+      "sodium": 514.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02444",
+    "name": "Hostel Paratha",
+    "aliases": [
+      "paratha",
+      "hostel"
+    ],
+    "category": "Indian Bread",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 252.2,
+      "protein": 5.8,
+      "carbs": 34.9,
+      "fat": 9.7,
+      "fiber": 4.0,
+      "sugar": 7.7,
+      "sodium": 454.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  }
+]

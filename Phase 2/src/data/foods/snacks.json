@@ -1,0 +1,2836 @@
+[
+  {
+    "id": "gtf_00049",
+    "name": "Samosa",
+    "aliases": [
+      "samosa"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262,
+      "protein": 5,
+      "carbs": 31,
+      "fat": 13,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05045",
+    "name": "Plain Samosa",
+    "aliases": [
+      "samosa",
+      "plain"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05046",
+    "name": "Boiled Samosa",
+    "aliases": [
+      "samosa",
+      "boiled"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 10.4,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05047",
+    "name": "Steamed Samosa",
+    "aliases": [
+      "samosa",
+      "steamed"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 9.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05048",
+    "name": "Roasted Samosa",
+    "aliases": [
+      "samosa",
+      "roasted"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 14.9,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 518.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05049",
+    "name": "Grilled Samosa",
+    "aliases": [
+      "samosa",
+      "grilled"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 275.1,
+      "protein": 5.2,
+      "carbs": 30.4,
+      "fat": 11.7,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 495.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05050",
+    "name": "Fried Samosa",
+    "aliases": [
+      "samosa",
+      "fried"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 406.1,
+      "protein": 5.0,
+      "carbs": 35.6,
+      "fat": 28.6,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 731.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05051",
+    "name": "Masala Samosa",
+    "aliases": [
+      "samosa",
+      "masala"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 327.5,
+      "protein": 5.2,
+      "carbs": 34.1,
+      "fat": 18.2,
+      "fiber": 3,
+      "sugar": 7.5,
+      "sodium": 589.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05052",
+    "name": "Homemade Samosa",
+    "aliases": [
+      "samosa",
+      "homemade"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05053",
+    "name": "Restaurant Style Samosa",
+    "aliases": [
+      "samosa",
+      "restaurant style"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 353.7,
+      "protein": 5.2,
+      "carbs": 37.2,
+      "fat": 22.1,
+      "fiber": 3,
+      "sugar": 8.2,
+      "sodium": 636.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05054",
+    "name": "Low Oil Samosa",
+    "aliases": [
+      "samosa",
+      "low oil"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 230.6,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 7.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 415.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05055",
+    "name": "High Protein Samosa",
+    "aliases": [
+      "samosa",
+      "high protein"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.3,
+      "protein": 6.8,
+      "carbs": 27.9,
+      "fat": 13.7,
+      "fiber": 3,
+      "sugar": 6.1,
+      "sodium": 542.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05056",
+    "name": "Diet Samosa",
+    "aliases": [
+      "samosa",
+      "diet"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 196.5,
+      "protein": 5.2,
+      "carbs": 23.2,
+      "fat": 9.1,
+      "fiber": 3,
+      "sugar": 5.1,
+      "sodium": 353.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05057",
+    "name": "Plain Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05058",
+    "name": "Plain Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05059",
+    "name": "Plain Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05060",
+    "name": "Plain Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05061",
+    "name": "Plain Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05062",
+    "name": "Plain Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05063",
+    "name": "Boiled Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 10.4,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05064",
+    "name": "Boiled Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 10.4,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05065",
+    "name": "Boiled Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 10.4,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05066",
+    "name": "Boiled Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 10.4,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05067",
+    "name": "Boiled Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 10.4,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05068",
+    "name": "Boiled Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 10.4,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05069",
+    "name": "Steamed Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 9.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05070",
+    "name": "Steamed Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 9.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05071",
+    "name": "Steamed Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 9.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05072",
+    "name": "Steamed Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 9.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05073",
+    "name": "Steamed Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 9.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05074",
+    "name": "Steamed Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 9.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05075",
+    "name": "Roasted Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 14.9,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 518.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05076",
+    "name": "Roasted Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 14.9,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 518.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05077",
+    "name": "Roasted Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 14.9,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 518.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05078",
+    "name": "Roasted Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 14.9,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 518.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05079",
+    "name": "Roasted Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 14.9,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 518.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05080",
+    "name": "Roasted Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 288.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 14.9,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 518.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05081",
+    "name": "Grilled Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 275.1,
+      "protein": 5.2,
+      "carbs": 30.4,
+      "fat": 11.7,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 495.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05082",
+    "name": "Grilled Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 275.1,
+      "protein": 5.2,
+      "carbs": 30.4,
+      "fat": 11.7,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 495.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05083",
+    "name": "Grilled Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 275.1,
+      "protein": 5.2,
+      "carbs": 30.4,
+      "fat": 11.7,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 495.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05084",
+    "name": "Grilled Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 275.1,
+      "protein": 5.2,
+      "carbs": 30.4,
+      "fat": 11.7,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 495.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05085",
+    "name": "Grilled Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 275.1,
+      "protein": 5.2,
+      "carbs": 30.4,
+      "fat": 11.7,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 495.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05086",
+    "name": "Grilled Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 275.1,
+      "protein": 5.2,
+      "carbs": 30.4,
+      "fat": 11.7,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 495.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05087",
+    "name": "Fried Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 406.1,
+      "protein": 5.0,
+      "carbs": 35.6,
+      "fat": 28.6,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 731.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05088",
+    "name": "Fried Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 406.1,
+      "protein": 5.0,
+      "carbs": 35.6,
+      "fat": 28.6,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 731.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05089",
+    "name": "Fried Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 406.1,
+      "protein": 5.0,
+      "carbs": 35.6,
+      "fat": 28.6,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 731.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05090",
+    "name": "Fried Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 406.1,
+      "protein": 5.0,
+      "carbs": 35.6,
+      "fat": 28.6,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 731.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05091",
+    "name": "Fried Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 406.1,
+      "protein": 5.0,
+      "carbs": 35.6,
+      "fat": 28.6,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 731.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05092",
+    "name": "Fried Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 406.1,
+      "protein": 5.0,
+      "carbs": 35.6,
+      "fat": 28.6,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 731.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05093",
+    "name": "Masala Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 327.5,
+      "protein": 5.2,
+      "carbs": 34.1,
+      "fat": 18.2,
+      "fiber": 3,
+      "sugar": 7.5,
+      "sodium": 589.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05094",
+    "name": "Masala Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 327.5,
+      "protein": 5.2,
+      "carbs": 34.1,
+      "fat": 18.2,
+      "fiber": 3,
+      "sugar": 7.5,
+      "sodium": 589.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05095",
+    "name": "Masala Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 327.5,
+      "protein": 5.2,
+      "carbs": 34.1,
+      "fat": 18.2,
+      "fiber": 3,
+      "sugar": 7.5,
+      "sodium": 589.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05096",
+    "name": "Masala Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 327.5,
+      "protein": 5.2,
+      "carbs": 34.1,
+      "fat": 18.2,
+      "fiber": 3,
+      "sugar": 7.5,
+      "sodium": 589.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05097",
+    "name": "Masala Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 327.5,
+      "protein": 5.2,
+      "carbs": 34.1,
+      "fat": 18.2,
+      "fiber": 3,
+      "sugar": 7.5,
+      "sodium": 589.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05098",
+    "name": "Masala Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 327.5,
+      "protein": 5.2,
+      "carbs": 34.1,
+      "fat": 18.2,
+      "fiber": 3,
+      "sugar": 7.5,
+      "sodium": 589.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05099",
+    "name": "Homemade Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05100",
+    "name": "Homemade Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05101",
+    "name": "Homemade Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05102",
+    "name": "Homemade Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05103",
+    "name": "Homemade Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05104",
+    "name": "Homemade Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05105",
+    "name": "Restaurant Style Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 353.7,
+      "protein": 5.2,
+      "carbs": 37.2,
+      "fat": 22.1,
+      "fiber": 3,
+      "sugar": 8.2,
+      "sodium": 636.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05106",
+    "name": "Restaurant Style Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 353.7,
+      "protein": 5.2,
+      "carbs": 37.2,
+      "fat": 22.1,
+      "fiber": 3,
+      "sugar": 8.2,
+      "sodium": 636.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05107",
+    "name": "Restaurant Style Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 353.7,
+      "protein": 5.2,
+      "carbs": 37.2,
+      "fat": 22.1,
+      "fiber": 3,
+      "sugar": 8.2,
+      "sodium": 636.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05108",
+    "name": "Restaurant Style Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 353.7,
+      "protein": 5.2,
+      "carbs": 37.2,
+      "fat": 22.1,
+      "fiber": 3,
+      "sugar": 8.2,
+      "sodium": 636.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05109",
+    "name": "Restaurant Style Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 353.7,
+      "protein": 5.2,
+      "carbs": 37.2,
+      "fat": 22.1,
+      "fiber": 3,
+      "sugar": 8.2,
+      "sodium": 636.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05110",
+    "name": "Restaurant Style Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 353.7,
+      "protein": 5.2,
+      "carbs": 37.2,
+      "fat": 22.1,
+      "fiber": 3,
+      "sugar": 8.2,
+      "sodium": 636.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05111",
+    "name": "Low Oil Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 230.6,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 7.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 415.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05112",
+    "name": "Low Oil Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 230.6,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 7.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 415.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05113",
+    "name": "Low Oil Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 230.6,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 7.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 415.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05114",
+    "name": "Low Oil Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 230.6,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 7.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 415.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05115",
+    "name": "Low Oil Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 230.6,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 7.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 415.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05116",
+    "name": "Low Oil Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 230.6,
+      "protein": 5.0,
+      "carbs": 30.4,
+      "fat": 7.8,
+      "fiber": 3,
+      "sugar": 6.7,
+      "sodium": 415.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05117",
+    "name": "High Protein Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.3,
+      "protein": 6.8,
+      "carbs": 27.9,
+      "fat": 13.7,
+      "fiber": 3,
+      "sugar": 6.1,
+      "sodium": 542.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05118",
+    "name": "High Protein Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.3,
+      "protein": 6.8,
+      "carbs": 27.9,
+      "fat": 13.7,
+      "fiber": 3,
+      "sugar": 6.1,
+      "sodium": 542.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05119",
+    "name": "High Protein Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.3,
+      "protein": 6.8,
+      "carbs": 27.9,
+      "fat": 13.7,
+      "fiber": 3,
+      "sugar": 6.1,
+      "sodium": 542.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05120",
+    "name": "High Protein Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.3,
+      "protein": 6.8,
+      "carbs": 27.9,
+      "fat": 13.7,
+      "fiber": 3,
+      "sugar": 6.1,
+      "sodium": 542.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05121",
+    "name": "High Protein Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.3,
+      "protein": 6.8,
+      "carbs": 27.9,
+      "fat": 13.7,
+      "fiber": 3,
+      "sugar": 6.1,
+      "sodium": 542.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05122",
+    "name": "High Protein Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 301.3,
+      "protein": 6.8,
+      "carbs": 27.9,
+      "fat": 13.7,
+      "fiber": 3,
+      "sugar": 6.1,
+      "sodium": 542.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05123",
+    "name": "Diet Samosa - Small Serving",
+    "aliases": [
+      "samosa",
+      "small serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 196.5,
+      "protein": 5.2,
+      "carbs": 23.2,
+      "fat": 9.1,
+      "fiber": 3,
+      "sugar": 5.1,
+      "sodium": 353.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05124",
+    "name": "Diet Samosa - Medium Serving",
+    "aliases": [
+      "samosa",
+      "medium serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 196.5,
+      "protein": 5.2,
+      "carbs": 23.2,
+      "fat": 9.1,
+      "fiber": 3,
+      "sugar": 5.1,
+      "sodium": 353.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05125",
+    "name": "Diet Samosa - Large Serving",
+    "aliases": [
+      "samosa",
+      "large serving"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 196.5,
+      "protein": 5.2,
+      "carbs": 23.2,
+      "fat": 9.1,
+      "fiber": 3,
+      "sugar": 5.1,
+      "sodium": 353.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05126",
+    "name": "Diet Samosa - Kids Portion",
+    "aliases": [
+      "samosa",
+      "kids portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 196.5,
+      "protein": 5.2,
+      "carbs": 23.2,
+      "fat": 9.1,
+      "fiber": 3,
+      "sugar": 5.1,
+      "sodium": 353.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05127",
+    "name": "Diet Samosa - Gym Portion",
+    "aliases": [
+      "samosa",
+      "gym portion"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 196.5,
+      "protein": 5.2,
+      "carbs": 23.2,
+      "fat": 9.1,
+      "fiber": 3,
+      "sugar": 5.1,
+      "sodium": 353.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05128",
+    "name": "Diet Samosa - Meal Prep",
+    "aliases": [
+      "samosa",
+      "meal prep"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 196.5,
+      "protein": 5.2,
+      "carbs": 23.2,
+      "fat": 9.1,
+      "fiber": 3,
+      "sugar": 5.1,
+      "sodium": 353.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05129",
+    "name": "North Indian Samosa",
+    "aliases": [
+      "samosa",
+      "north indian"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 283.0,
+      "protein": 5.4,
+      "carbs": 33.5,
+      "fat": 14.0,
+      "fiber": 3,
+      "sugar": 7.4,
+      "sodium": 509.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05130",
+    "name": "South Indian Samosa",
+    "aliases": [
+      "samosa",
+      "south indian"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 262.0,
+      "protein": 5.0,
+      "carbs": 31.0,
+      "fat": 13.0,
+      "fiber": 3,
+      "sugar": 6.8,
+      "sodium": 471.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05131",
+    "name": "Maharashtrian Samosa",
+    "aliases": [
+      "samosa",
+      "maharashtrian"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 285.6,
+      "protein": 5.5,
+      "carbs": 33.8,
+      "fat": 14.2,
+      "fiber": 3,
+      "sugar": 7.4,
+      "sodium": 514.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05132",
+    "name": "Gujarati Samosa",
+    "aliases": [
+      "samosa",
+      "gujarati"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 277.7,
+      "protein": 5.3,
+      "carbs": 32.9,
+      "fat": 13.8,
+      "fiber": 3,
+      "sugar": 7.2,
+      "sodium": 499.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05133",
+    "name": "Bengali Samosa",
+    "aliases": [
+      "samosa",
+      "bengali"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.9,
+      "protein": 4.8,
+      "carbs": 29.4,
+      "fat": 12.3,
+      "fiber": 3,
+      "sugar": 6.5,
+      "sodium": 448.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05134",
+    "name": "Punjabi Samosa",
+    "aliases": [
+      "samosa",
+      "punjabi"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 303.9,
+      "protein": 5.8,
+      "carbs": 36.0,
+      "fat": 15.1,
+      "fiber": 3,
+      "sugar": 7.9,
+      "sodium": 547.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05135",
+    "name": "Rajasthani Samosa",
+    "aliases": [
+      "samosa",
+      "rajasthani"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 303.9,
+      "protein": 5.8,
+      "carbs": 36.0,
+      "fat": 15.1,
+      "fiber": 3,
+      "sugar": 7.9,
+      "sodium": 547.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05136",
+    "name": "Hyderabadi Samosa",
+    "aliases": [
+      "samosa",
+      "hyderabadi"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 267.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 13.3,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 481.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05137",
+    "name": "Mumbai Samosa",
+    "aliases": [
+      "samosa",
+      "mumbai"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 267.2,
+      "protein": 5.1,
+      "carbs": 31.6,
+      "fat": 13.3,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 481.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05138",
+    "name": "Delhi Samosa",
+    "aliases": [
+      "samosa",
+      "delhi"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 254.1,
+      "protein": 4.8,
+      "carbs": 30.1,
+      "fat": 12.6,
+      "fiber": 3,
+      "sugar": 6.6,
+      "sodium": 457.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05139",
+    "name": "Indore Samosa",
+    "aliases": [
+      "samosa",
+      "indore"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 241.0,
+      "protein": 4.6,
+      "carbs": 28.5,
+      "fat": 12.0,
+      "fiber": 3,
+      "sugar": 6.3,
+      "sodium": 433.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05140",
+    "name": "Bhopal Samosa",
+    "aliases": [
+      "samosa",
+      "bhopal"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 285.6,
+      "protein": 5.5,
+      "carbs": 33.8,
+      "fat": 14.2,
+      "fiber": 3,
+      "sugar": 7.4,
+      "sodium": 514.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05141",
+    "name": "Karnataka Samosa",
+    "aliases": [
+      "samosa",
+      "karnataka"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 290.8,
+      "protein": 5.6,
+      "carbs": 34.4,
+      "fat": 14.4,
+      "fiber": 3,
+      "sugar": 7.6,
+      "sodium": 523.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05142",
+    "name": "Tamil Samosa",
+    "aliases": [
+      "samosa",
+      "tamil"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 290.8,
+      "protein": 5.6,
+      "carbs": 34.4,
+      "fat": 14.4,
+      "fiber": 3,
+      "sugar": 7.6,
+      "sodium": 523.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05143",
+    "name": "Kerala Samosa",
+    "aliases": [
+      "samosa",
+      "kerala"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 269.9,
+      "protein": 5.2,
+      "carbs": 31.9,
+      "fat": 13.4,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 485.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05144",
+    "name": "Andhra Samosa",
+    "aliases": [
+      "samosa",
+      "andhra"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 298.7,
+      "protein": 5.7,
+      "carbs": 35.3,
+      "fat": 14.8,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 537.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05145",
+    "name": "Goan Samosa",
+    "aliases": [
+      "samosa",
+      "goan"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 269.9,
+      "protein": 5.2,
+      "carbs": 31.9,
+      "fat": 13.4,
+      "fiber": 3,
+      "sugar": 7.0,
+      "sodium": 485.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05146",
+    "name": "International Samosa",
+    "aliases": [
+      "samosa",
+      "international"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 272.5,
+      "protein": 5.2,
+      "carbs": 32.2,
+      "fat": 13.5,
+      "fiber": 3,
+      "sugar": 7.1,
+      "sodium": 490.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05147",
+    "name": "Cafe Samosa",
+    "aliases": [
+      "samosa",
+      "cafe"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 303.9,
+      "protein": 5.8,
+      "carbs": 36.0,
+      "fat": 15.1,
+      "fiber": 3,
+      "sugar": 7.9,
+      "sodium": 547.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05148",
+    "name": "Hostel Samosa",
+    "aliases": [
+      "samosa",
+      "hostel"
+    ],
+    "category": "Snack",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 298.7,
+      "protein": 5.7,
+      "carbs": 35.3,
+      "fat": 14.8,
+      "fiber": 3,
+      "sugar": 7.8,
+      "sodium": 537.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  }
+]

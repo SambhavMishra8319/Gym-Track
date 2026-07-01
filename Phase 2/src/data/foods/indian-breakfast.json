@@ -1,0 +1,7350 @@
+[
+  {
+    "id": "gtf_00025",
+    "name": "Poha",
+    "aliases": [
+      "poha"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_00026",
+    "name": "Upma",
+    "aliases": [
+      "upma"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02549",
+    "name": "Plain Poha",
+    "aliases": [
+      "poha",
+      "plain"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02550",
+    "name": "Boiled Poha",
+    "aliases": [
+      "poha",
+      "boiled"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.5,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 2.0,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 222.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02551",
+    "name": "Steamed Poha",
+    "aliases": [
+      "poha",
+      "steamed"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.9,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02552",
+    "name": "Roasted Poha",
+    "aliases": [
+      "poha",
+      "roasted"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 143.0,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 257.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02553",
+    "name": "Grilled Poha",
+    "aliases": [
+      "poha",
+      "grilled"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 24.5,
+      "fat": 2.2,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02554",
+    "name": "Fried Poha",
+    "aliases": [
+      "poha",
+      "fried"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 201.5,
+      "protein": 2.6,
+      "carbs": 28.7,
+      "fat": 5.5,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 362.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02555",
+    "name": "Masala Poha",
+    "aliases": [
+      "poha",
+      "masala"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.5,
+      "protein": 2.7,
+      "carbs": 27.5,
+      "fat": 3.5,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 292.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02556",
+    "name": "Homemade Poha",
+    "aliases": [
+      "poha",
+      "homemade"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02557",
+    "name": "Restaurant Style Poha",
+    "aliases": [
+      "poha",
+      "restaurant style"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 175.5,
+      "protein": 2.7,
+      "carbs": 30.0,
+      "fat": 4.2,
+      "fiber": 1.5,
+      "sugar": 6.6,
+      "sodium": 315.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02558",
+    "name": "Low Oil Poha",
+    "aliases": [
+      "poha",
+      "low oil"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.4,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 205.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02559",
+    "name": "High Protein Poha",
+    "aliases": [
+      "poha",
+      "high protein"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 149.5,
+      "protein": 3.5,
+      "carbs": 22.5,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.0,
+      "sodium": 269.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02560",
+    "name": "Diet Poha",
+    "aliases": [
+      "poha",
+      "diet"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 97.5,
+      "protein": 2.7,
+      "carbs": 18.8,
+      "fat": 1.8,
+      "fiber": 1.5,
+      "sugar": 4.1,
+      "sodium": 175.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02561",
+    "name": "Plain Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02562",
+    "name": "Plain Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02563",
+    "name": "Plain Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02564",
+    "name": "Plain Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02565",
+    "name": "Plain Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02566",
+    "name": "Plain Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02567",
+    "name": "Boiled Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.5,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 2.0,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 222.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02568",
+    "name": "Boiled Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.5,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 2.0,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 222.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02569",
+    "name": "Boiled Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.5,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 2.0,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 222.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02570",
+    "name": "Boiled Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.5,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 2.0,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 222.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02571",
+    "name": "Boiled Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.5,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 2.0,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 222.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02572",
+    "name": "Boiled Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 123.5,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 2.0,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 222.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02573",
+    "name": "Steamed Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.9,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02574",
+    "name": "Steamed Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.9,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02575",
+    "name": "Steamed Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.9,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02576",
+    "name": "Steamed Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.9,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02577",
+    "name": "Steamed Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.9,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02578",
+    "name": "Steamed Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.9,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02579",
+    "name": "Roasted Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 143.0,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 257.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02580",
+    "name": "Roasted Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 143.0,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 257.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02581",
+    "name": "Roasted Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 143.0,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 257.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02582",
+    "name": "Roasted Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 143.0,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 257.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02583",
+    "name": "Roasted Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 143.0,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 257.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02584",
+    "name": "Roasted Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 143.0,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 257.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02585",
+    "name": "Grilled Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 24.5,
+      "fat": 2.2,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02586",
+    "name": "Grilled Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 24.5,
+      "fat": 2.2,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02587",
+    "name": "Grilled Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 24.5,
+      "fat": 2.2,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02588",
+    "name": "Grilled Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 24.5,
+      "fat": 2.2,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02589",
+    "name": "Grilled Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 24.5,
+      "fat": 2.2,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02590",
+    "name": "Grilled Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 24.5,
+      "fat": 2.2,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02591",
+    "name": "Fried Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 201.5,
+      "protein": 2.6,
+      "carbs": 28.7,
+      "fat": 5.5,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 362.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02592",
+    "name": "Fried Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 201.5,
+      "protein": 2.6,
+      "carbs": 28.7,
+      "fat": 5.5,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 362.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02593",
+    "name": "Fried Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 201.5,
+      "protein": 2.6,
+      "carbs": 28.7,
+      "fat": 5.5,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 362.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02594",
+    "name": "Fried Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 201.5,
+      "protein": 2.6,
+      "carbs": 28.7,
+      "fat": 5.5,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 362.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02595",
+    "name": "Fried Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 201.5,
+      "protein": 2.6,
+      "carbs": 28.7,
+      "fat": 5.5,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 362.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02596",
+    "name": "Fried Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 201.5,
+      "protein": 2.6,
+      "carbs": 28.7,
+      "fat": 5.5,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 362.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02597",
+    "name": "Masala Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.5,
+      "protein": 2.7,
+      "carbs": 27.5,
+      "fat": 3.5,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 292.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02598",
+    "name": "Masala Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.5,
+      "protein": 2.7,
+      "carbs": 27.5,
+      "fat": 3.5,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 292.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02599",
+    "name": "Masala Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.5,
+      "protein": 2.7,
+      "carbs": 27.5,
+      "fat": 3.5,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 292.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02600",
+    "name": "Masala Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.5,
+      "protein": 2.7,
+      "carbs": 27.5,
+      "fat": 3.5,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 292.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02601",
+    "name": "Masala Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.5,
+      "protein": 2.7,
+      "carbs": 27.5,
+      "fat": 3.5,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 292.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02602",
+    "name": "Masala Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 162.5,
+      "protein": 2.7,
+      "carbs": 27.5,
+      "fat": 3.5,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 292.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02603",
+    "name": "Homemade Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02604",
+    "name": "Homemade Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02605",
+    "name": "Homemade Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02606",
+    "name": "Homemade Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02607",
+    "name": "Homemade Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02608",
+    "name": "Homemade Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02609",
+    "name": "Restaurant Style Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 175.5,
+      "protein": 2.7,
+      "carbs": 30.0,
+      "fat": 4.2,
+      "fiber": 1.5,
+      "sugar": 6.6,
+      "sodium": 315.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02610",
+    "name": "Restaurant Style Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 175.5,
+      "protein": 2.7,
+      "carbs": 30.0,
+      "fat": 4.2,
+      "fiber": 1.5,
+      "sugar": 6.6,
+      "sodium": 315.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02611",
+    "name": "Restaurant Style Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 175.5,
+      "protein": 2.7,
+      "carbs": 30.0,
+      "fat": 4.2,
+      "fiber": 1.5,
+      "sugar": 6.6,
+      "sodium": 315.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02612",
+    "name": "Restaurant Style Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 175.5,
+      "protein": 2.7,
+      "carbs": 30.0,
+      "fat": 4.2,
+      "fiber": 1.5,
+      "sugar": 6.6,
+      "sodium": 315.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02613",
+    "name": "Restaurant Style Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 175.5,
+      "protein": 2.7,
+      "carbs": 30.0,
+      "fat": 4.2,
+      "fiber": 1.5,
+      "sugar": 6.6,
+      "sodium": 315.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02614",
+    "name": "Restaurant Style Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 175.5,
+      "protein": 2.7,
+      "carbs": 30.0,
+      "fat": 4.2,
+      "fiber": 1.5,
+      "sugar": 6.6,
+      "sodium": 315.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02615",
+    "name": "Low Oil Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.4,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 205.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02616",
+    "name": "Low Oil Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.4,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 205.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02617",
+    "name": "Low Oil Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.4,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 205.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02618",
+    "name": "Low Oil Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.4,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 205.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02619",
+    "name": "Low Oil Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.4,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 205.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02620",
+    "name": "Low Oil Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 114.4,
+      "protein": 2.6,
+      "carbs": 24.5,
+      "fat": 1.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 205.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02621",
+    "name": "High Protein Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 149.5,
+      "protein": 3.5,
+      "carbs": 22.5,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.0,
+      "sodium": 269.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02622",
+    "name": "High Protein Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 149.5,
+      "protein": 3.5,
+      "carbs": 22.5,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.0,
+      "sodium": 269.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02623",
+    "name": "High Protein Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 149.5,
+      "protein": 3.5,
+      "carbs": 22.5,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.0,
+      "sodium": 269.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02624",
+    "name": "High Protein Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 149.5,
+      "protein": 3.5,
+      "carbs": 22.5,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.0,
+      "sodium": 269.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02625",
+    "name": "High Protein Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 149.5,
+      "protein": 3.5,
+      "carbs": 22.5,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.0,
+      "sodium": 269.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02626",
+    "name": "High Protein Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 149.5,
+      "protein": 3.5,
+      "carbs": 22.5,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.0,
+      "sodium": 269.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02627",
+    "name": "Diet Poha - Small Serving",
+    "aliases": [
+      "poha",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 97.5,
+      "protein": 2.7,
+      "carbs": 18.8,
+      "fat": 1.8,
+      "fiber": 1.5,
+      "sugar": 4.1,
+      "sodium": 175.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02628",
+    "name": "Diet Poha - Medium Serving",
+    "aliases": [
+      "poha",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 97.5,
+      "protein": 2.7,
+      "carbs": 18.8,
+      "fat": 1.8,
+      "fiber": 1.5,
+      "sugar": 4.1,
+      "sodium": 175.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02629",
+    "name": "Diet Poha - Large Serving",
+    "aliases": [
+      "poha",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 97.5,
+      "protein": 2.7,
+      "carbs": 18.8,
+      "fat": 1.8,
+      "fiber": 1.5,
+      "sugar": 4.1,
+      "sodium": 175.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02630",
+    "name": "Diet Poha - Kids Portion",
+    "aliases": [
+      "poha",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 97.5,
+      "protein": 2.7,
+      "carbs": 18.8,
+      "fat": 1.8,
+      "fiber": 1.5,
+      "sugar": 4.1,
+      "sodium": 175.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02631",
+    "name": "Diet Poha - Gym Portion",
+    "aliases": [
+      "poha",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 97.5,
+      "protein": 2.7,
+      "carbs": 18.8,
+      "fat": 1.8,
+      "fiber": 1.5,
+      "sugar": 4.1,
+      "sodium": 175.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02632",
+    "name": "Diet Poha - Meal Prep",
+    "aliases": [
+      "poha",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 97.5,
+      "protein": 2.7,
+      "carbs": 18.8,
+      "fat": 1.8,
+      "fiber": 1.5,
+      "sugar": 4.1,
+      "sodium": 175.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02633",
+    "name": "North Indian Poha",
+    "aliases": [
+      "poha",
+      "north indian"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02634",
+    "name": "South Indian Poha",
+    "aliases": [
+      "poha",
+      "south indian"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 141.7,
+      "protein": 2.8,
+      "carbs": 27.3,
+      "fat": 2.7,
+      "fiber": 1.5,
+      "sugar": 6.0,
+      "sodium": 255.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02635",
+    "name": "Maharashtrian Poha",
+    "aliases": [
+      "poha",
+      "maharashtrian"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 144.3,
+      "protein": 2.9,
+      "carbs": 27.8,
+      "fat": 2.8,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 259.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02636",
+    "name": "Gujarati Poha",
+    "aliases": [
+      "poha",
+      "gujarati"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 144.3,
+      "protein": 2.9,
+      "carbs": 27.8,
+      "fat": 2.8,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 259.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02637",
+    "name": "Bengali Poha",
+    "aliases": [
+      "poha",
+      "bengali"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 144.3,
+      "protein": 2.9,
+      "carbs": 27.8,
+      "fat": 2.8,
+      "fiber": 1.5,
+      "sugar": 6.1,
+      "sodium": 259.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02638",
+    "name": "Punjabi Poha",
+    "aliases": [
+      "poha",
+      "punjabi"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 148.2,
+      "protein": 3.0,
+      "carbs": 28.5,
+      "fat": 2.9,
+      "fiber": 1.5,
+      "sugar": 6.3,
+      "sodium": 266.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02639",
+    "name": "Rajasthani Poha",
+    "aliases": [
+      "poha",
+      "rajasthani"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 119.6,
+      "protein": 2.4,
+      "carbs": 23.0,
+      "fat": 2.3,
+      "fiber": 1.5,
+      "sugar": 5.1,
+      "sodium": 215.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02640",
+    "name": "Hyderabadi Poha",
+    "aliases": [
+      "poha",
+      "hyderabadi"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.9,
+      "protein": 2.4,
+      "carbs": 23.2,
+      "fat": 2.3,
+      "fiber": 1.5,
+      "sugar": 5.1,
+      "sodium": 217.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02641",
+    "name": "Mumbai Poha",
+    "aliases": [
+      "poha",
+      "mumbai"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 127.4,
+      "protein": 2.5,
+      "carbs": 24.5,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 229.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02642",
+    "name": "Delhi Poha",
+    "aliases": [
+      "poha",
+      "delhi"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 130.0,
+      "protein": 2.6,
+      "carbs": 25.0,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.5,
+      "sodium": 234.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02643",
+    "name": "Indore Poha",
+    "aliases": [
+      "poha",
+      "indore"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 124.8,
+      "protein": 2.5,
+      "carbs": 24.0,
+      "fat": 2.4,
+      "fiber": 1.5,
+      "sugar": 5.3,
+      "sodium": 224.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02644",
+    "name": "Bhopal Poha",
+    "aliases": [
+      "poha",
+      "bhopal"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 122.2,
+      "protein": 2.4,
+      "carbs": 23.5,
+      "fat": 2.3,
+      "fiber": 1.5,
+      "sugar": 5.2,
+      "sodium": 220.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02645",
+    "name": "Karnataka Poha",
+    "aliases": [
+      "poha",
+      "karnataka"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 136.5,
+      "protein": 2.7,
+      "carbs": 26.2,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.8,
+      "sodium": 245.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02646",
+    "name": "Tamil Poha",
+    "aliases": [
+      "poha",
+      "tamil"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 122.2,
+      "protein": 2.4,
+      "carbs": 23.5,
+      "fat": 2.3,
+      "fiber": 1.5,
+      "sugar": 5.2,
+      "sodium": 220.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02647",
+    "name": "Kerala Poha",
+    "aliases": [
+      "poha",
+      "kerala"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 132.6,
+      "protein": 2.7,
+      "carbs": 25.5,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.6,
+      "sodium": 238.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02648",
+    "name": "Andhra Poha",
+    "aliases": [
+      "poha",
+      "andhra"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 127.4,
+      "protein": 2.5,
+      "carbs": 24.5,
+      "fat": 2.5,
+      "fiber": 1.5,
+      "sugar": 5.4,
+      "sodium": 229.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02649",
+    "name": "Goan Poha",
+    "aliases": [
+      "poha",
+      "goan"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 133.9,
+      "protein": 2.7,
+      "carbs": 25.8,
+      "fat": 2.6,
+      "fiber": 1.5,
+      "sugar": 5.7,
+      "sodium": 241.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02650",
+    "name": "International Poha",
+    "aliases": [
+      "poha",
+      "international"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 146.9,
+      "protein": 2.9,
+      "carbs": 28.2,
+      "fat": 2.8,
+      "fiber": 1.5,
+      "sugar": 6.2,
+      "sodium": 264.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02651",
+    "name": "Cafe Poha",
+    "aliases": [
+      "poha",
+      "cafe"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 139.1,
+      "protein": 2.8,
+      "carbs": 26.8,
+      "fat": 2.7,
+      "fiber": 1.5,
+      "sugar": 5.9,
+      "sodium": 250.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02652",
+    "name": "Hostel Poha",
+    "aliases": [
+      "poha",
+      "hostel"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.9,
+      "protein": 2.4,
+      "carbs": 23.2,
+      "fat": 2.3,
+      "fiber": 1.5,
+      "sugar": 5.1,
+      "sodium": 217.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02653",
+    "name": "Plain Upma",
+    "aliases": [
+      "upma",
+      "plain"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02654",
+    "name": "Boiled Upma",
+    "aliases": [
+      "upma",
+      "boiled"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02655",
+    "name": "Steamed Upma",
+    "aliases": [
+      "upma",
+      "steamed"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.2,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 265.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02656",
+    "name": "Roasted Upma",
+    "aliases": [
+      "upma",
+      "roasted"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.1,
+      "carbs": 26.5,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 5.8,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02657",
+    "name": "Grilled Upma",
+    "aliases": [
+      "upma",
+      "grilled"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.2,
+      "carbs": 25.5,
+      "fat": 4.5,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02658",
+    "name": "Fried Upma",
+    "aliases": [
+      "upma",
+      "fried"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.0,
+      "protein": 4.0,
+      "carbs": 29.9,
+      "fat": 11.0,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 446.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02659",
+    "name": "Masala Upma",
+    "aliases": [
+      "upma",
+      "masala"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 200.0,
+      "protein": 4.2,
+      "carbs": 28.6,
+      "fat": 7.0,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 360.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02660",
+    "name": "Homemade Upma",
+    "aliases": [
+      "upma",
+      "homemade"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02661",
+    "name": "Restaurant Style Upma",
+    "aliases": [
+      "upma",
+      "restaurant style"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 216.0,
+      "protein": 4.2,
+      "carbs": 31.2,
+      "fat": 8.5,
+      "fiber": 2.0,
+      "sugar": 6.9,
+      "sodium": 388.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02662",
+    "name": "Low Oil Upma",
+    "aliases": [
+      "upma",
+      "low oil"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 140.8,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 253.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02663",
+    "name": "High Protein Upma",
+    "aliases": [
+      "upma",
+      "high protein"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.0,
+      "protein": 5.4,
+      "carbs": 23.4,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.1,
+      "sodium": 331.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02664",
+    "name": "Diet Upma",
+    "aliases": [
+      "upma",
+      "diet"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 4.2,
+      "carbs": 19.5,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02665",
+    "name": "Plain Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02666",
+    "name": "Plain Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02667",
+    "name": "Plain Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02668",
+    "name": "Plain Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02669",
+    "name": "Plain Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02670",
+    "name": "Plain Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02671",
+    "name": "Boiled Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02672",
+    "name": "Boiled Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02673",
+    "name": "Boiled Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02674",
+    "name": "Boiled Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02675",
+    "name": "Boiled Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02676",
+    "name": "Boiled Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 4.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02677",
+    "name": "Steamed Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.2,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 265.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02678",
+    "name": "Steamed Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.2,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 265.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02679",
+    "name": "Steamed Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.2,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 265.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02680",
+    "name": "Steamed Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.2,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 265.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02681",
+    "name": "Steamed Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.2,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 265.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02682",
+    "name": "Steamed Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.2,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.8,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 265.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02683",
+    "name": "Roasted Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.1,
+      "carbs": 26.5,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 5.8,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02684",
+    "name": "Roasted Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.1,
+      "carbs": 26.5,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 5.8,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02685",
+    "name": "Roasted Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.1,
+      "carbs": 26.5,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 5.8,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02686",
+    "name": "Roasted Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.1,
+      "carbs": 26.5,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 5.8,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02687",
+    "name": "Roasted Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.1,
+      "carbs": 26.5,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 5.8,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02688",
+    "name": "Roasted Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.1,
+      "carbs": 26.5,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 5.8,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02689",
+    "name": "Grilled Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.2,
+      "carbs": 25.5,
+      "fat": 4.5,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02690",
+    "name": "Grilled Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.2,
+      "carbs": 25.5,
+      "fat": 4.5,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02691",
+    "name": "Grilled Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.2,
+      "carbs": 25.5,
+      "fat": 4.5,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02692",
+    "name": "Grilled Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.2,
+      "carbs": 25.5,
+      "fat": 4.5,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02693",
+    "name": "Grilled Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.2,
+      "carbs": 25.5,
+      "fat": 4.5,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02694",
+    "name": "Grilled Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.2,
+      "carbs": 25.5,
+      "fat": 4.5,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02695",
+    "name": "Fried Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.0,
+      "protein": 4.0,
+      "carbs": 29.9,
+      "fat": 11.0,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 446.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02696",
+    "name": "Fried Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.0,
+      "protein": 4.0,
+      "carbs": 29.9,
+      "fat": 11.0,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 446.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02697",
+    "name": "Fried Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.0,
+      "protein": 4.0,
+      "carbs": 29.9,
+      "fat": 11.0,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 446.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02698",
+    "name": "Fried Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.0,
+      "protein": 4.0,
+      "carbs": 29.9,
+      "fat": 11.0,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 446.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02699",
+    "name": "Fried Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.0,
+      "protein": 4.0,
+      "carbs": 29.9,
+      "fat": 11.0,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 446.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02700",
+    "name": "Fried Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 248.0,
+      "protein": 4.0,
+      "carbs": 29.9,
+      "fat": 11.0,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 446.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02701",
+    "name": "Masala Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 200.0,
+      "protein": 4.2,
+      "carbs": 28.6,
+      "fat": 7.0,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 360.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02702",
+    "name": "Masala Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 200.0,
+      "protein": 4.2,
+      "carbs": 28.6,
+      "fat": 7.0,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 360.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02703",
+    "name": "Masala Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 200.0,
+      "protein": 4.2,
+      "carbs": 28.6,
+      "fat": 7.0,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 360.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02704",
+    "name": "Masala Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 200.0,
+      "protein": 4.2,
+      "carbs": 28.6,
+      "fat": 7.0,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 360.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02705",
+    "name": "Masala Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 200.0,
+      "protein": 4.2,
+      "carbs": 28.6,
+      "fat": 7.0,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 360.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02706",
+    "name": "Masala Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 200.0,
+      "protein": 4.2,
+      "carbs": 28.6,
+      "fat": 7.0,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 360.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02707",
+    "name": "Homemade Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02708",
+    "name": "Homemade Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02709",
+    "name": "Homemade Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02710",
+    "name": "Homemade Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02711",
+    "name": "Homemade Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02712",
+    "name": "Homemade Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02713",
+    "name": "Restaurant Style Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 216.0,
+      "protein": 4.2,
+      "carbs": 31.2,
+      "fat": 8.5,
+      "fiber": 2.0,
+      "sugar": 6.9,
+      "sodium": 388.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02714",
+    "name": "Restaurant Style Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 216.0,
+      "protein": 4.2,
+      "carbs": 31.2,
+      "fat": 8.5,
+      "fiber": 2.0,
+      "sugar": 6.9,
+      "sodium": 388.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02715",
+    "name": "Restaurant Style Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 216.0,
+      "protein": 4.2,
+      "carbs": 31.2,
+      "fat": 8.5,
+      "fiber": 2.0,
+      "sugar": 6.9,
+      "sodium": 388.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02716",
+    "name": "Restaurant Style Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 216.0,
+      "protein": 4.2,
+      "carbs": 31.2,
+      "fat": 8.5,
+      "fiber": 2.0,
+      "sugar": 6.9,
+      "sodium": 388.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02717",
+    "name": "Restaurant Style Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 216.0,
+      "protein": 4.2,
+      "carbs": 31.2,
+      "fat": 8.5,
+      "fiber": 2.0,
+      "sugar": 6.9,
+      "sodium": 388.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02718",
+    "name": "Restaurant Style Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 216.0,
+      "protein": 4.2,
+      "carbs": 31.2,
+      "fat": 8.5,
+      "fiber": 2.0,
+      "sugar": 6.9,
+      "sodium": 388.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02719",
+    "name": "Low Oil Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 140.8,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 253.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02720",
+    "name": "Low Oil Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 140.8,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 253.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02721",
+    "name": "Low Oil Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 140.8,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 253.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02722",
+    "name": "Low Oil Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 140.8,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 253.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02723",
+    "name": "Low Oil Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 140.8,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 253.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02724",
+    "name": "Low Oil Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 140.8,
+      "protein": 4.0,
+      "carbs": 25.5,
+      "fat": 3.0,
+      "fiber": 2.0,
+      "sugar": 5.6,
+      "sodium": 253.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02725",
+    "name": "High Protein Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.0,
+      "protein": 5.4,
+      "carbs": 23.4,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.1,
+      "sodium": 331.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02726",
+    "name": "High Protein Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.0,
+      "protein": 5.4,
+      "carbs": 23.4,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.1,
+      "sodium": 331.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02727",
+    "name": "High Protein Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.0,
+      "protein": 5.4,
+      "carbs": 23.4,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.1,
+      "sodium": 331.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02728",
+    "name": "High Protein Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.0,
+      "protein": 5.4,
+      "carbs": 23.4,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.1,
+      "sodium": 331.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02729",
+    "name": "High Protein Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.0,
+      "protein": 5.4,
+      "carbs": 23.4,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.1,
+      "sodium": 331.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02730",
+    "name": "High Protein Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.0,
+      "protein": 5.4,
+      "carbs": 23.4,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.1,
+      "sodium": 331.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02731",
+    "name": "Diet Upma - Small Serving",
+    "aliases": [
+      "upma",
+      "small serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 4.2,
+      "carbs": 19.5,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02732",
+    "name": "Diet Upma - Medium Serving",
+    "aliases": [
+      "upma",
+      "medium serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 4.2,
+      "carbs": 19.5,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02733",
+    "name": "Diet Upma - Large Serving",
+    "aliases": [
+      "upma",
+      "large serving"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 4.2,
+      "carbs": 19.5,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02734",
+    "name": "Diet Upma - Kids Portion",
+    "aliases": [
+      "upma",
+      "kids portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 4.2,
+      "carbs": 19.5,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02735",
+    "name": "Diet Upma - Gym Portion",
+    "aliases": [
+      "upma",
+      "gym portion"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 4.2,
+      "carbs": 19.5,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02736",
+    "name": "Diet Upma - Meal Prep",
+    "aliases": [
+      "upma",
+      "meal prep"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 120.0,
+      "protein": 4.2,
+      "carbs": 19.5,
+      "fat": 3.5,
+      "fiber": 2.0,
+      "sugar": 4.3,
+      "sodium": 216.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02737",
+    "name": "North Indian Upma",
+    "aliases": [
+      "upma",
+      "north indian"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.4,
+      "carbs": 28.6,
+      "fat": 5.5,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02738",
+    "name": "South Indian Upma",
+    "aliases": [
+      "upma",
+      "south indian"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 169.6,
+      "protein": 4.2,
+      "carbs": 27.6,
+      "fat": 5.3,
+      "fiber": 2.0,
+      "sugar": 6.1,
+      "sodium": 305.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02739",
+    "name": "Maharashtrian Upma",
+    "aliases": [
+      "upma",
+      "maharashtrian"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.4,
+      "carbs": 28.6,
+      "fat": 5.5,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02740",
+    "name": "Gujarati Upma",
+    "aliases": [
+      "upma",
+      "gujarati"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 182.4,
+      "protein": 4.6,
+      "carbs": 29.6,
+      "fat": 5.7,
+      "fiber": 2.0,
+      "sugar": 6.5,
+      "sodium": 328.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02741",
+    "name": "Bengali Upma",
+    "aliases": [
+      "upma",
+      "bengali"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 155.2,
+      "protein": 3.9,
+      "carbs": 25.2,
+      "fat": 4.8,
+      "fiber": 2.0,
+      "sugar": 5.5,
+      "sodium": 279.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02742",
+    "name": "Punjabi Upma",
+    "aliases": [
+      "upma",
+      "punjabi"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.0,
+      "protein": 4.4,
+      "carbs": 28.6,
+      "fat": 5.5,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 316.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02743",
+    "name": "Rajasthani Upma",
+    "aliases": [
+      "upma",
+      "rajasthani"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 169.6,
+      "protein": 4.2,
+      "carbs": 27.6,
+      "fat": 5.3,
+      "fiber": 2.0,
+      "sugar": 6.1,
+      "sodium": 305.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02744",
+    "name": "Hyderabadi Upma",
+    "aliases": [
+      "upma",
+      "hyderabadi"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 160.0,
+      "protein": 4.0,
+      "carbs": 26.0,
+      "fat": 5.0,
+      "fiber": 2.0,
+      "sugar": 5.7,
+      "sodium": 288.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02745",
+    "name": "Mumbai Upma",
+    "aliases": [
+      "upma",
+      "mumbai"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 164.8,
+      "protein": 4.1,
+      "carbs": 26.8,
+      "fat": 5.2,
+      "fiber": 2.0,
+      "sugar": 5.9,
+      "sodium": 296.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02746",
+    "name": "Delhi Upma",
+    "aliases": [
+      "upma",
+      "delhi"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 153.6,
+      "protein": 3.8,
+      "carbs": 25.0,
+      "fat": 4.8,
+      "fiber": 2.0,
+      "sugar": 5.5,
+      "sodium": 276.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02747",
+    "name": "Indore Upma",
+    "aliases": [
+      "upma",
+      "indore"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 148.8,
+      "protein": 3.7,
+      "carbs": 24.2,
+      "fat": 4.6,
+      "fiber": 2.0,
+      "sugar": 5.3,
+      "sodium": 267.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02748",
+    "name": "Bhopal Upma",
+    "aliases": [
+      "upma",
+      "bhopal"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 171.2,
+      "protein": 4.3,
+      "carbs": 27.8,
+      "fat": 5.4,
+      "fiber": 2.0,
+      "sugar": 6.1,
+      "sodium": 308.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02749",
+    "name": "Karnataka Upma",
+    "aliases": [
+      "upma",
+      "karnataka"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 152.0,
+      "protein": 3.8,
+      "carbs": 24.7,
+      "fat": 4.8,
+      "fiber": 2.0,
+      "sugar": 5.4,
+      "sodium": 273.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02750",
+    "name": "Tamil Upma",
+    "aliases": [
+      "upma",
+      "tamil"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 185.6,
+      "protein": 4.6,
+      "carbs": 30.2,
+      "fat": 5.8,
+      "fiber": 2.0,
+      "sugar": 6.6,
+      "sodium": 334.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02751",
+    "name": "Kerala Upma",
+    "aliases": [
+      "upma",
+      "kerala"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 177.6,
+      "protein": 4.4,
+      "carbs": 28.9,
+      "fat": 5.6,
+      "fiber": 2.0,
+      "sugar": 6.3,
+      "sodium": 319.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02752",
+    "name": "Andhra Upma",
+    "aliases": [
+      "upma",
+      "andhra"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 172.8,
+      "protein": 4.3,
+      "carbs": 28.1,
+      "fat": 5.4,
+      "fiber": 2.0,
+      "sugar": 6.2,
+      "sodium": 311.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02753",
+    "name": "Goan Upma",
+    "aliases": [
+      "upma",
+      "goan"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 171.2,
+      "protein": 4.3,
+      "carbs": 27.8,
+      "fat": 5.4,
+      "fiber": 2.0,
+      "sugar": 6.1,
+      "sodium": 308.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02754",
+    "name": "International Upma",
+    "aliases": [
+      "upma",
+      "international"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 150.4,
+      "protein": 3.8,
+      "carbs": 24.4,
+      "fat": 4.7,
+      "fiber": 2.0,
+      "sugar": 5.4,
+      "sodium": 270.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02755",
+    "name": "Cafe Upma",
+    "aliases": [
+      "upma",
+      "cafe"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 172.8,
+      "protein": 4.3,
+      "carbs": 28.1,
+      "fat": 5.4,
+      "fiber": 2.0,
+      "sugar": 6.2,
+      "sodium": 311.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02756",
+    "name": "Hostel Upma",
+    "aliases": [
+      "upma",
+      "hostel"
+    ],
+    "category": "Indian Breakfast",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 plate",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 180.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 153.6,
+      "protein": 3.8,
+      "carbs": 25.0,
+      "fat": 4.8,
+      "fiber": 2.0,
+      "sugar": 5.5,
+      "sodium": 276.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  }
+]

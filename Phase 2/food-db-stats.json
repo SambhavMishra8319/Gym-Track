@@ -1,0 +1,26 @@
+{
+  "totalFoods": 15883,
+  "files": {
+    "beverage": 210,
+    "dairy": 210,
+    "drinks": 0,
+    "fat": 105,
+    "fruits": 1051,
+    "grains": 315,
+    "indian-bread": 210,
+    "indian-breakfast": 210,
+    "indian-meal": 525,
+    "indian": 1,
+    "nuts": 315,
+    "packaged-food": 420,
+    "prepared-meal": 10000,
+    "protein": 630,
+    "recipes": 1,
+    "snacks": 105,
+    "south-indian": 315,
+    "street-food": 210,
+    "supplements": 105,
+    "vegetables": 945
+  },
+  "note": "Offline starter database. Many items are estimated/generated; verify with USDA/Open Food Facts/ICMR before medical or commercial nutrition claims."
+}

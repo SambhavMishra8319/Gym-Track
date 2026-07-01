@@ -1,0 +1,42 @@
+[
+  {
+    "id": "roti",
+    "name": "Roti",
+    "aliases": [
+      "roti",
+      "chapati",
+      "phulka"
+    ],
+    "category": "Indian",
+    "servingOptions": [
+      {
+        "name": "1 Medium Roti",
+        "grams": 40
+      },
+      {
+        "name": "1 Small Roti",
+        "grams": 30
+      },
+      {
+        "name": "1 Large Roti",
+        "grams": 55
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 300,
+      "protein": 7.8,
+      "carbs": 45,
+      "fat": 9.3,
+      "fiber": 5,
+      "sugar": 1.5,
+      "sodium": 300,
+      "potassium": 150
+    },
+    "verified": false,
+    "source": "GymTrack Indian estimate"
+  }
+]

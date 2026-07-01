@@ -1,0 +1,8924 @@
+[
+  {
+    "id": "gtf_00027",
+    "name": "Idli",
+    "aliases": [
+      "idli"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_00028",
+    "name": "Dosa",
+    "aliases": [
+      "dosa"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 5,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_00046",
+    "name": "Sambar",
+    "aliases": [
+      "sambar"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02757",
+    "name": "Plain Idli",
+    "aliases": [
+      "idli",
+      "plain"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02758",
+    "name": "Boiled Idli",
+    "aliases": [
+      "idli",
+      "boiled"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02759",
+    "name": "Steamed Idli",
+    "aliases": [
+      "idli",
+      "steamed"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02760",
+    "name": "Roasted Idli",
+    "aliases": [
+      "idli",
+      "roasted"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.8,
+      "protein": 2.0,
+      "carbs": 12.2,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 114.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02761",
+    "name": "Grilled Idli",
+    "aliases": [
+      "idli",
+      "grilled"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.9,
+      "protein": 2.1,
+      "carbs": 11.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 109.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02762",
+    "name": "Fried Idli",
+    "aliases": [
+      "idli",
+      "fried"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 89.9,
+      "protein": 2.0,
+      "carbs": 13.8,
+      "fat": 0.9,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 161.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02763",
+    "name": "Masala Idli",
+    "aliases": [
+      "idli",
+      "masala"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 72.5,
+      "protein": 2.1,
+      "carbs": 13.2,
+      "fat": 0.6,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 130.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02764",
+    "name": "Homemade Idli",
+    "aliases": [
+      "idli",
+      "homemade"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02765",
+    "name": "Restaurant Style Idli",
+    "aliases": [
+      "idli",
+      "restaurant style"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 78.3,
+      "protein": 2.1,
+      "carbs": 14.4,
+      "fat": 0.7,
+      "fiber": 1,
+      "sugar": 3.2,
+      "sodium": 140.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02766",
+    "name": "Low Oil Idli",
+    "aliases": [
+      "idli",
+      "low oil"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.0,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.2,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 91.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02767",
+    "name": "High Protein Idli",
+    "aliases": [
+      "idli",
+      "high protein"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.7,
+      "carbs": 10.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02768",
+    "name": "Diet Idli",
+    "aliases": [
+      "idli",
+      "diet"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.5,
+      "protein": 2.1,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.0,
+      "sodium": 78.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02769",
+    "name": "Plain Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02770",
+    "name": "Plain Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02771",
+    "name": "Plain Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02772",
+    "name": "Plain Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02773",
+    "name": "Plain Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02774",
+    "name": "Plain Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02775",
+    "name": "Boiled Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02776",
+    "name": "Boiled Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02777",
+    "name": "Boiled Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02778",
+    "name": "Boiled Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02779",
+    "name": "Boiled Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02780",
+    "name": "Boiled Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02781",
+    "name": "Steamed Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02782",
+    "name": "Steamed Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02783",
+    "name": "Steamed Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02784",
+    "name": "Steamed Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02785",
+    "name": "Steamed Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02786",
+    "name": "Steamed Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02787",
+    "name": "Roasted Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.8,
+      "protein": 2.0,
+      "carbs": 12.2,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 114.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02788",
+    "name": "Roasted Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.8,
+      "protein": 2.0,
+      "carbs": 12.2,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 114.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02789",
+    "name": "Roasted Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.8,
+      "protein": 2.0,
+      "carbs": 12.2,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 114.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02790",
+    "name": "Roasted Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.8,
+      "protein": 2.0,
+      "carbs": 12.2,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 114.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02791",
+    "name": "Roasted Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.8,
+      "protein": 2.0,
+      "carbs": 12.2,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 114.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02792",
+    "name": "Roasted Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.8,
+      "protein": 2.0,
+      "carbs": 12.2,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 114.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02793",
+    "name": "Grilled Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.9,
+      "protein": 2.1,
+      "carbs": 11.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 109.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02794",
+    "name": "Grilled Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.9,
+      "protein": 2.1,
+      "carbs": 11.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 109.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02795",
+    "name": "Grilled Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.9,
+      "protein": 2.1,
+      "carbs": 11.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 109.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02796",
+    "name": "Grilled Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.9,
+      "protein": 2.1,
+      "carbs": 11.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 109.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02797",
+    "name": "Grilled Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.9,
+      "protein": 2.1,
+      "carbs": 11.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 109.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02798",
+    "name": "Grilled Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.9,
+      "protein": 2.1,
+      "carbs": 11.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 109.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02799",
+    "name": "Fried Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 89.9,
+      "protein": 2.0,
+      "carbs": 13.8,
+      "fat": 0.9,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 161.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02800",
+    "name": "Fried Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 89.9,
+      "protein": 2.0,
+      "carbs": 13.8,
+      "fat": 0.9,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 161.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02801",
+    "name": "Fried Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 89.9,
+      "protein": 2.0,
+      "carbs": 13.8,
+      "fat": 0.9,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 161.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02802",
+    "name": "Fried Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 89.9,
+      "protein": 2.0,
+      "carbs": 13.8,
+      "fat": 0.9,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 161.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02803",
+    "name": "Fried Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 89.9,
+      "protein": 2.0,
+      "carbs": 13.8,
+      "fat": 0.9,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 161.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02804",
+    "name": "Fried Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 89.9,
+      "protein": 2.0,
+      "carbs": 13.8,
+      "fat": 0.9,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 161.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02805",
+    "name": "Masala Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 72.5,
+      "protein": 2.1,
+      "carbs": 13.2,
+      "fat": 0.6,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 130.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02806",
+    "name": "Masala Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 72.5,
+      "protein": 2.1,
+      "carbs": 13.2,
+      "fat": 0.6,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 130.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02807",
+    "name": "Masala Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 72.5,
+      "protein": 2.1,
+      "carbs": 13.2,
+      "fat": 0.6,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 130.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02808",
+    "name": "Masala Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 72.5,
+      "protein": 2.1,
+      "carbs": 13.2,
+      "fat": 0.6,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 130.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02809",
+    "name": "Masala Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 72.5,
+      "protein": 2.1,
+      "carbs": 13.2,
+      "fat": 0.6,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 130.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02810",
+    "name": "Masala Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 72.5,
+      "protein": 2.1,
+      "carbs": 13.2,
+      "fat": 0.6,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 130.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02811",
+    "name": "Homemade Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02812",
+    "name": "Homemade Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02813",
+    "name": "Homemade Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02814",
+    "name": "Homemade Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02815",
+    "name": "Homemade Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02816",
+    "name": "Homemade Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02817",
+    "name": "Restaurant Style Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 78.3,
+      "protein": 2.1,
+      "carbs": 14.4,
+      "fat": 0.7,
+      "fiber": 1,
+      "sugar": 3.2,
+      "sodium": 140.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02818",
+    "name": "Restaurant Style Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 78.3,
+      "protein": 2.1,
+      "carbs": 14.4,
+      "fat": 0.7,
+      "fiber": 1,
+      "sugar": 3.2,
+      "sodium": 140.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02819",
+    "name": "Restaurant Style Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 78.3,
+      "protein": 2.1,
+      "carbs": 14.4,
+      "fat": 0.7,
+      "fiber": 1,
+      "sugar": 3.2,
+      "sodium": 140.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02820",
+    "name": "Restaurant Style Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 78.3,
+      "protein": 2.1,
+      "carbs": 14.4,
+      "fat": 0.7,
+      "fiber": 1,
+      "sugar": 3.2,
+      "sodium": 140.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02821",
+    "name": "Restaurant Style Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 78.3,
+      "protein": 2.1,
+      "carbs": 14.4,
+      "fat": 0.7,
+      "fiber": 1,
+      "sugar": 3.2,
+      "sodium": 140.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02822",
+    "name": "Restaurant Style Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 78.3,
+      "protein": 2.1,
+      "carbs": 14.4,
+      "fat": 0.7,
+      "fiber": 1,
+      "sugar": 3.2,
+      "sodium": 140.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02823",
+    "name": "Low Oil Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.0,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.2,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 91.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02824",
+    "name": "Low Oil Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.0,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.2,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 91.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02825",
+    "name": "Low Oil Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.0,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.2,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 91.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02826",
+    "name": "Low Oil Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.0,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.2,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 91.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02827",
+    "name": "Low Oil Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.0,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.2,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 91.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02828",
+    "name": "Low Oil Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.0,
+      "protein": 2.0,
+      "carbs": 11.8,
+      "fat": 0.2,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 91.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02829",
+    "name": "High Protein Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.7,
+      "carbs": 10.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02830",
+    "name": "High Protein Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.7,
+      "carbs": 10.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02831",
+    "name": "High Protein Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.7,
+      "carbs": 10.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02832",
+    "name": "High Protein Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.7,
+      "carbs": 10.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02833",
+    "name": "High Protein Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.7,
+      "carbs": 10.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02834",
+    "name": "High Protein Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.7,
+      "carbs": 10.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02835",
+    "name": "Diet Idli - Small Serving",
+    "aliases": [
+      "idli",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.5,
+      "protein": 2.1,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.0,
+      "sodium": 78.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02836",
+    "name": "Diet Idli - Medium Serving",
+    "aliases": [
+      "idli",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.5,
+      "protein": 2.1,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.0,
+      "sodium": 78.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02837",
+    "name": "Diet Idli - Large Serving",
+    "aliases": [
+      "idli",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.5,
+      "protein": 2.1,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.0,
+      "sodium": 78.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02838",
+    "name": "Diet Idli - Kids Portion",
+    "aliases": [
+      "idli",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.5,
+      "protein": 2.1,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.0,
+      "sodium": 78.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02839",
+    "name": "Diet Idli - Gym Portion",
+    "aliases": [
+      "idli",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.5,
+      "protein": 2.1,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.0,
+      "sodium": 78.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02840",
+    "name": "Diet Idli - Meal Prep",
+    "aliases": [
+      "idli",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.5,
+      "protein": 2.1,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1,
+      "sugar": 2.0,
+      "sodium": 78.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02841",
+    "name": "North Indian Idli",
+    "aliases": [
+      "idli",
+      "north indian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.1,
+      "protein": 2.1,
+      "carbs": 12.8,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.8,
+      "sodium": 111.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02842",
+    "name": "South Indian Idli",
+    "aliases": [
+      "idli",
+      "south indian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.5,
+      "protein": 2.1,
+      "carbs": 12.7,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.8,
+      "sodium": 110.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02843",
+    "name": "Maharashtrian Idli",
+    "aliases": [
+      "idli",
+      "maharashtrian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 1.9,
+      "carbs": 11.4,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.5,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02844",
+    "name": "Gujarati Idli",
+    "aliases": [
+      "idli",
+      "gujarati"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.5,
+      "protein": 2.1,
+      "carbs": 12.7,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.8,
+      "sodium": 110.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02845",
+    "name": "Bengali Idli",
+    "aliases": [
+      "idli",
+      "bengali"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.5,
+      "protein": 2.1,
+      "carbs": 12.7,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.8,
+      "sodium": 110.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02846",
+    "name": "Punjabi Idli",
+    "aliases": [
+      "idli",
+      "punjabi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.1,
+      "protein": 1.9,
+      "carbs": 11.4,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.5,
+      "sodium": 99.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02847",
+    "name": "Rajasthani Idli",
+    "aliases": [
+      "idli",
+      "rajasthani"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.4,
+      "protein": 2.0,
+      "carbs": 11.9,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 103.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02848",
+    "name": "Hyderabadi Idli",
+    "aliases": [
+      "idli",
+      "hyderabadi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.3,
+      "protein": 2.1,
+      "carbs": 12.5,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 108.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02849",
+    "name": "Mumbai Idli",
+    "aliases": [
+      "idli",
+      "mumbai"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.3,
+      "carbs": 13.8,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02850",
+    "name": "Delhi Idli",
+    "aliases": [
+      "idli",
+      "delhi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.7,
+      "protein": 2.3,
+      "carbs": 13.8,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 120.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02851",
+    "name": "Indore Idli",
+    "aliases": [
+      "idli",
+      "indore"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.4,
+      "protein": 2.0,
+      "carbs": 11.9,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 103.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02852",
+    "name": "Bhopal Idli",
+    "aliases": [
+      "idli",
+      "bhopal"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 58.0,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.6,
+      "sodium": 104.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02853",
+    "name": "Karnataka Idli",
+    "aliases": [
+      "idli",
+      "karnataka"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.4,
+      "protein": 2.2,
+      "carbs": 13.3,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 115.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02854",
+    "name": "Tamil Idli",
+    "aliases": [
+      "idli",
+      "tamil"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.3,
+      "protein": 2.3,
+      "carbs": 13.9,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 3.1,
+      "sodium": 121.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02855",
+    "name": "Kerala Idli",
+    "aliases": [
+      "idli",
+      "kerala"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.1,
+      "protein": 2.3,
+      "carbs": 13.7,
+      "fat": 0.5,
+      "fiber": 1,
+      "sugar": 3.0,
+      "sodium": 119.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02856",
+    "name": "Andhra Idli",
+    "aliases": [
+      "idli",
+      "andhra"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.7,
+      "protein": 1.9,
+      "carbs": 11.5,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.5,
+      "sodium": 100.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02857",
+    "name": "Goan Idli",
+    "aliases": [
+      "idli",
+      "goan"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.7,
+      "protein": 2.1,
+      "carbs": 12.4,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 107.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02858",
+    "name": "International Idli",
+    "aliases": [
+      "idli",
+      "international"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.4,
+      "protein": 1.8,
+      "carbs": 11.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.4,
+      "sodium": 96.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02859",
+    "name": "Cafe Idli",
+    "aliases": [
+      "idli",
+      "cafe"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.7,
+      "protein": 2.1,
+      "carbs": 12.4,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.7,
+      "sodium": 107.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02860",
+    "name": "Hostel Idli",
+    "aliases": [
+      "idli",
+      "hostel"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.6,
+      "protein": 2.2,
+      "carbs": 13.0,
+      "fat": 0.4,
+      "fiber": 1,
+      "sugar": 2.9,
+      "sodium": 112.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02861",
+    "name": "Plain Dosa",
+    "aliases": [
+      "dosa",
+      "plain"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02862",
+    "name": "Boiled Dosa",
+    "aliases": [
+      "dosa",
+      "boiled"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 4.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02863",
+    "name": "Steamed Dosa",
+    "aliases": [
+      "dosa",
+      "steamed"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02864",
+    "name": "Roasted Dosa",
+    "aliases": [
+      "dosa",
+      "roasted"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.8,
+      "protein": 4.1,
+      "carbs": 28.6,
+      "fat": 5.8,
+      "fiber": 2,
+      "sugar": 6.3,
+      "sodium": 332.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02865",
+    "name": "Grilled Dosa",
+    "aliases": [
+      "dosa",
+      "grilled"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.4,
+      "protein": 4.2,
+      "carbs": 27.4,
+      "fat": 4.5,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 317.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02866",
+    "name": "Fried Dosa",
+    "aliases": [
+      "dosa",
+      "fried"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.4,
+      "protein": 4.0,
+      "carbs": 32.2,
+      "fat": 11.0,
+      "fiber": 2,
+      "sugar": 7.1,
+      "sodium": 468.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02867",
+    "name": "Masala Dosa",
+    "aliases": [
+      "dosa",
+      "masala"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 210.0,
+      "protein": 4.2,
+      "carbs": 30.8,
+      "fat": 7.0,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 378.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02868",
+    "name": "Homemade Dosa",
+    "aliases": [
+      "dosa",
+      "homemade"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02869",
+    "name": "Restaurant Style Dosa",
+    "aliases": [
+      "dosa",
+      "restaurant style"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 226.8,
+      "protein": 4.2,
+      "carbs": 33.6,
+      "fat": 8.5,
+      "fiber": 2,
+      "sugar": 7.4,
+      "sodium": 408.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02870",
+    "name": "Low Oil Dosa",
+    "aliases": [
+      "dosa",
+      "low oil"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.8,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 266.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02871",
+    "name": "High Protein Dosa",
+    "aliases": [
+      "dosa",
+      "high protein"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 193.2,
+      "protein": 5.4,
+      "carbs": 25.2,
+      "fat": 5.2,
+      "fiber": 2,
+      "sugar": 5.5,
+      "sodium": 347.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02872",
+    "name": "Diet Dosa",
+    "aliases": [
+      "dosa",
+      "diet"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 4.2,
+      "carbs": 21.0,
+      "fat": 3.5,
+      "fiber": 2,
+      "sugar": 4.6,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02873",
+    "name": "Plain Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02874",
+    "name": "Plain Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02875",
+    "name": "Plain Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02876",
+    "name": "Plain Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02877",
+    "name": "Plain Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02878",
+    "name": "Plain Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02879",
+    "name": "Boiled Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 4.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02880",
+    "name": "Boiled Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 4.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02881",
+    "name": "Boiled Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 4.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02882",
+    "name": "Boiled Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 4.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02883",
+    "name": "Boiled Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 4.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02884",
+    "name": "Boiled Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 4.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02885",
+    "name": "Steamed Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02886",
+    "name": "Steamed Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02887",
+    "name": "Steamed Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02888",
+    "name": "Steamed Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02889",
+    "name": "Steamed Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02890",
+    "name": "Steamed Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02891",
+    "name": "Roasted Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.8,
+      "protein": 4.1,
+      "carbs": 28.6,
+      "fat": 5.8,
+      "fiber": 2,
+      "sugar": 6.3,
+      "sodium": 332.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02892",
+    "name": "Roasted Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.8,
+      "protein": 4.1,
+      "carbs": 28.6,
+      "fat": 5.8,
+      "fiber": 2,
+      "sugar": 6.3,
+      "sodium": 332.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02893",
+    "name": "Roasted Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.8,
+      "protein": 4.1,
+      "carbs": 28.6,
+      "fat": 5.8,
+      "fiber": 2,
+      "sugar": 6.3,
+      "sodium": 332.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02894",
+    "name": "Roasted Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.8,
+      "protein": 4.1,
+      "carbs": 28.6,
+      "fat": 5.8,
+      "fiber": 2,
+      "sugar": 6.3,
+      "sodium": 332.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02895",
+    "name": "Roasted Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.8,
+      "protein": 4.1,
+      "carbs": 28.6,
+      "fat": 5.8,
+      "fiber": 2,
+      "sugar": 6.3,
+      "sodium": 332.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02896",
+    "name": "Roasted Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 184.8,
+      "protein": 4.1,
+      "carbs": 28.6,
+      "fat": 5.8,
+      "fiber": 2,
+      "sugar": 6.3,
+      "sodium": 332.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02897",
+    "name": "Grilled Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.4,
+      "protein": 4.2,
+      "carbs": 27.4,
+      "fat": 4.5,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 317.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02898",
+    "name": "Grilled Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.4,
+      "protein": 4.2,
+      "carbs": 27.4,
+      "fat": 4.5,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 317.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02899",
+    "name": "Grilled Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.4,
+      "protein": 4.2,
+      "carbs": 27.4,
+      "fat": 4.5,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 317.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02900",
+    "name": "Grilled Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.4,
+      "protein": 4.2,
+      "carbs": 27.4,
+      "fat": 4.5,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 317.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02901",
+    "name": "Grilled Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.4,
+      "protein": 4.2,
+      "carbs": 27.4,
+      "fat": 4.5,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 317.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02902",
+    "name": "Grilled Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 176.4,
+      "protein": 4.2,
+      "carbs": 27.4,
+      "fat": 4.5,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 317.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02903",
+    "name": "Fried Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.4,
+      "protein": 4.0,
+      "carbs": 32.2,
+      "fat": 11.0,
+      "fiber": 2,
+      "sugar": 7.1,
+      "sodium": 468.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02904",
+    "name": "Fried Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.4,
+      "protein": 4.0,
+      "carbs": 32.2,
+      "fat": 11.0,
+      "fiber": 2,
+      "sugar": 7.1,
+      "sodium": 468.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02905",
+    "name": "Fried Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.4,
+      "protein": 4.0,
+      "carbs": 32.2,
+      "fat": 11.0,
+      "fiber": 2,
+      "sugar": 7.1,
+      "sodium": 468.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02906",
+    "name": "Fried Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.4,
+      "protein": 4.0,
+      "carbs": 32.2,
+      "fat": 11.0,
+      "fiber": 2,
+      "sugar": 7.1,
+      "sodium": 468.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02907",
+    "name": "Fried Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.4,
+      "protein": 4.0,
+      "carbs": 32.2,
+      "fat": 11.0,
+      "fiber": 2,
+      "sugar": 7.1,
+      "sodium": 468.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02908",
+    "name": "Fried Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 260.4,
+      "protein": 4.0,
+      "carbs": 32.2,
+      "fat": 11.0,
+      "fiber": 2,
+      "sugar": 7.1,
+      "sodium": 468.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02909",
+    "name": "Masala Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 210.0,
+      "protein": 4.2,
+      "carbs": 30.8,
+      "fat": 7.0,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 378.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02910",
+    "name": "Masala Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 210.0,
+      "protein": 4.2,
+      "carbs": 30.8,
+      "fat": 7.0,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 378.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02911",
+    "name": "Masala Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 210.0,
+      "protein": 4.2,
+      "carbs": 30.8,
+      "fat": 7.0,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 378.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02912",
+    "name": "Masala Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 210.0,
+      "protein": 4.2,
+      "carbs": 30.8,
+      "fat": 7.0,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 378.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02913",
+    "name": "Masala Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 210.0,
+      "protein": 4.2,
+      "carbs": 30.8,
+      "fat": 7.0,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 378.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02914",
+    "name": "Masala Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 210.0,
+      "protein": 4.2,
+      "carbs": 30.8,
+      "fat": 7.0,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 378.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02915",
+    "name": "Homemade Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02916",
+    "name": "Homemade Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02917",
+    "name": "Homemade Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02918",
+    "name": "Homemade Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02919",
+    "name": "Homemade Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02920",
+    "name": "Homemade Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02921",
+    "name": "Restaurant Style Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 226.8,
+      "protein": 4.2,
+      "carbs": 33.6,
+      "fat": 8.5,
+      "fiber": 2,
+      "sugar": 7.4,
+      "sodium": 408.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02922",
+    "name": "Restaurant Style Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 226.8,
+      "protein": 4.2,
+      "carbs": 33.6,
+      "fat": 8.5,
+      "fiber": 2,
+      "sugar": 7.4,
+      "sodium": 408.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02923",
+    "name": "Restaurant Style Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 226.8,
+      "protein": 4.2,
+      "carbs": 33.6,
+      "fat": 8.5,
+      "fiber": 2,
+      "sugar": 7.4,
+      "sodium": 408.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02924",
+    "name": "Restaurant Style Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 226.8,
+      "protein": 4.2,
+      "carbs": 33.6,
+      "fat": 8.5,
+      "fiber": 2,
+      "sugar": 7.4,
+      "sodium": 408.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02925",
+    "name": "Restaurant Style Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 226.8,
+      "protein": 4.2,
+      "carbs": 33.6,
+      "fat": 8.5,
+      "fiber": 2,
+      "sugar": 7.4,
+      "sodium": 408.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02926",
+    "name": "Restaurant Style Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 226.8,
+      "protein": 4.2,
+      "carbs": 33.6,
+      "fat": 8.5,
+      "fiber": 2,
+      "sugar": 7.4,
+      "sodium": 408.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02927",
+    "name": "Low Oil Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.8,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 266.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02928",
+    "name": "Low Oil Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.8,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 266.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02929",
+    "name": "Low Oil Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.8,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 266.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02930",
+    "name": "Low Oil Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.8,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 266.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02931",
+    "name": "Low Oil Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.8,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 266.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02932",
+    "name": "Low Oil Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 147.8,
+      "protein": 4.0,
+      "carbs": 27.4,
+      "fat": 3.0,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 266.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02933",
+    "name": "High Protein Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 193.2,
+      "protein": 5.4,
+      "carbs": 25.2,
+      "fat": 5.2,
+      "fiber": 2,
+      "sugar": 5.5,
+      "sodium": 347.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02934",
+    "name": "High Protein Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 193.2,
+      "protein": 5.4,
+      "carbs": 25.2,
+      "fat": 5.2,
+      "fiber": 2,
+      "sugar": 5.5,
+      "sodium": 347.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02935",
+    "name": "High Protein Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 193.2,
+      "protein": 5.4,
+      "carbs": 25.2,
+      "fat": 5.2,
+      "fiber": 2,
+      "sugar": 5.5,
+      "sodium": 347.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02936",
+    "name": "High Protein Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 193.2,
+      "protein": 5.4,
+      "carbs": 25.2,
+      "fat": 5.2,
+      "fiber": 2,
+      "sugar": 5.5,
+      "sodium": 347.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02937",
+    "name": "High Protein Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 193.2,
+      "protein": 5.4,
+      "carbs": 25.2,
+      "fat": 5.2,
+      "fiber": 2,
+      "sugar": 5.5,
+      "sodium": 347.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02938",
+    "name": "High Protein Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 193.2,
+      "protein": 5.4,
+      "carbs": 25.2,
+      "fat": 5.2,
+      "fiber": 2,
+      "sugar": 5.5,
+      "sodium": 347.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02939",
+    "name": "Diet Dosa - Small Serving",
+    "aliases": [
+      "dosa",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 4.2,
+      "carbs": 21.0,
+      "fat": 3.5,
+      "fiber": 2,
+      "sugar": 4.6,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02940",
+    "name": "Diet Dosa - Medium Serving",
+    "aliases": [
+      "dosa",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 4.2,
+      "carbs": 21.0,
+      "fat": 3.5,
+      "fiber": 2,
+      "sugar": 4.6,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02941",
+    "name": "Diet Dosa - Large Serving",
+    "aliases": [
+      "dosa",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 4.2,
+      "carbs": 21.0,
+      "fat": 3.5,
+      "fiber": 2,
+      "sugar": 4.6,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02942",
+    "name": "Diet Dosa - Kids Portion",
+    "aliases": [
+      "dosa",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 4.2,
+      "carbs": 21.0,
+      "fat": 3.5,
+      "fiber": 2,
+      "sugar": 4.6,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02943",
+    "name": "Diet Dosa - Gym Portion",
+    "aliases": [
+      "dosa",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 4.2,
+      "carbs": 21.0,
+      "fat": 3.5,
+      "fiber": 2,
+      "sugar": 4.6,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02944",
+    "name": "Diet Dosa - Meal Prep",
+    "aliases": [
+      "dosa",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 126.0,
+      "protein": 4.2,
+      "carbs": 21.0,
+      "fat": 3.5,
+      "fiber": 2,
+      "sugar": 4.6,
+      "sodium": 226.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02945",
+    "name": "North Indian Dosa",
+    "aliases": [
+      "dosa",
+      "north indian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 179.8,
+      "protein": 4.3,
+      "carbs": 30.0,
+      "fat": 5.4,
+      "fiber": 2,
+      "sugar": 6.6,
+      "sodium": 323.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02946",
+    "name": "South Indian Dosa",
+    "aliases": [
+      "dosa",
+      "south indian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 186.5,
+      "protein": 4.4,
+      "carbs": 31.1,
+      "fat": 5.6,
+      "fiber": 2,
+      "sugar": 6.8,
+      "sodium": 335.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02947",
+    "name": "Maharashtrian Dosa",
+    "aliases": [
+      "dosa",
+      "maharashtrian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 3.8,
+      "carbs": 26.6,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 5.9,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02948",
+    "name": "Gujarati Dosa",
+    "aliases": [
+      "dosa",
+      "gujarati"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 168.0,
+      "protein": 4.0,
+      "carbs": 28.0,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 302.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02949",
+    "name": "Bengali Dosa",
+    "aliases": [
+      "dosa",
+      "bengali"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 157.9,
+      "protein": 3.8,
+      "carbs": 26.3,
+      "fat": 4.7,
+      "fiber": 2,
+      "sugar": 5.8,
+      "sodium": 284.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02950",
+    "name": "Punjabi Dosa",
+    "aliases": [
+      "dosa",
+      "punjabi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 163.0,
+      "protein": 3.9,
+      "carbs": 27.2,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 293.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02951",
+    "name": "Rajasthani Dosa",
+    "aliases": [
+      "dosa",
+      "rajasthani"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 163.0,
+      "protein": 3.9,
+      "carbs": 27.2,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 293.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02952",
+    "name": "Hyderabadi Dosa",
+    "aliases": [
+      "dosa",
+      "hyderabadi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 179.8,
+      "protein": 4.3,
+      "carbs": 30.0,
+      "fat": 5.4,
+      "fiber": 2,
+      "sugar": 6.6,
+      "sodium": 323.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02953",
+    "name": "Mumbai Dosa",
+    "aliases": [
+      "dosa",
+      "mumbai"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 163.0,
+      "protein": 3.9,
+      "carbs": 27.2,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 293.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02954",
+    "name": "Delhi Dosa",
+    "aliases": [
+      "dosa",
+      "delhi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 3.7,
+      "carbs": 25.8,
+      "fat": 4.6,
+      "fiber": 2,
+      "sugar": 5.7,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02955",
+    "name": "Indore Dosa",
+    "aliases": [
+      "dosa",
+      "indore"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 163.0,
+      "protein": 3.9,
+      "carbs": 27.2,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 293.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02956",
+    "name": "Bhopal Dosa",
+    "aliases": [
+      "dosa",
+      "bhopal"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 181.4,
+      "protein": 4.3,
+      "carbs": 30.2,
+      "fat": 5.4,
+      "fiber": 2,
+      "sugar": 6.7,
+      "sodium": 326.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02957",
+    "name": "Karnataka Dosa",
+    "aliases": [
+      "dosa",
+      "karnataka"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 183.1,
+      "protein": 4.4,
+      "carbs": 30.5,
+      "fat": 5.5,
+      "fiber": 2,
+      "sugar": 6.7,
+      "sodium": 329.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02958",
+    "name": "Tamil Dosa",
+    "aliases": [
+      "dosa",
+      "tamil"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 3.8,
+      "carbs": 26.6,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 5.9,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02959",
+    "name": "Kerala Dosa",
+    "aliases": [
+      "dosa",
+      "kerala"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 191.5,
+      "protein": 4.6,
+      "carbs": 31.9,
+      "fat": 5.7,
+      "fiber": 2,
+      "sugar": 7.0,
+      "sodium": 344.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02960",
+    "name": "Andhra Dosa",
+    "aliases": [
+      "dosa",
+      "andhra"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 3.7,
+      "carbs": 25.8,
+      "fat": 4.6,
+      "fiber": 2,
+      "sugar": 5.7,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02961",
+    "name": "Goan Dosa",
+    "aliases": [
+      "dosa",
+      "goan"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 159.6,
+      "protein": 3.8,
+      "carbs": 26.6,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 5.9,
+      "sodium": 287.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02962",
+    "name": "International Dosa",
+    "aliases": [
+      "dosa",
+      "international"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 169.7,
+      "protein": 4.0,
+      "carbs": 28.3,
+      "fat": 5.0,
+      "fiber": 2,
+      "sugar": 6.2,
+      "sodium": 305.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02963",
+    "name": "Cafe Dosa",
+    "aliases": [
+      "dosa",
+      "cafe"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 154.6,
+      "protein": 3.7,
+      "carbs": 25.8,
+      "fat": 4.6,
+      "fiber": 2,
+      "sugar": 5.7,
+      "sodium": 278.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_02964",
+    "name": "Hostel Dosa",
+    "aliases": [
+      "dosa",
+      "hostel"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "1 Piece",
+        "grams": 100.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 163.0,
+      "protein": 3.9,
+      "carbs": 27.2,
+      "fat": 4.8,
+      "fiber": 2,
+      "sugar": 6.0,
+      "sodium": 293.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04733",
+    "name": "Plain Sambar",
+    "aliases": [
+      "sambar",
+      "plain"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04734",
+    "name": "Boiled Sambar",
+    "aliases": [
+      "sambar",
+      "boiled"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.2,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04735",
+    "name": "Steamed Sambar",
+    "aliases": [
+      "sambar",
+      "steamed"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.1,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04736",
+    "name": "Roasted Sambar",
+    "aliases": [
+      "sambar",
+      "roasted"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 71.5,
+      "protein": 3.6,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 128.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04737",
+    "name": "Grilled Sambar",
+    "aliases": [
+      "sambar",
+      "grilled"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 9.8,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04738",
+    "name": "Fried Sambar",
+    "aliases": [
+      "sambar",
+      "fried"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 100.8,
+      "protein": 3.5,
+      "carbs": 11.5,
+      "fat": 3.3,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 181.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04739",
+    "name": "Masala Sambar",
+    "aliases": [
+      "sambar",
+      "masala"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.2,
+      "protein": 3.7,
+      "carbs": 11.0,
+      "fat": 2.1,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 146.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04740",
+    "name": "Homemade Sambar",
+    "aliases": [
+      "sambar",
+      "homemade"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04741",
+    "name": "Restaurant Style Sambar",
+    "aliases": [
+      "sambar",
+      "restaurant style"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 87.8,
+      "protein": 3.7,
+      "carbs": 12.0,
+      "fat": 2.5,
+      "fiber": 3.0,
+      "sugar": 2.6,
+      "sodium": 158.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04742",
+    "name": "Low Oil Sambar",
+    "aliases": [
+      "sambar",
+      "low oil"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.2,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 0.9,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 103.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04743",
+    "name": "High Protein Sambar",
+    "aliases": [
+      "sambar",
+      "high protein"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.7,
+      "carbs": 9.0,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04744",
+    "name": "Diet Sambar",
+    "aliases": [
+      "sambar",
+      "diet"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.8,
+      "protein": 3.7,
+      "carbs": 7.5,
+      "fat": 1.0,
+      "fiber": 3.0,
+      "sugar": 1.6,
+      "sodium": 87.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04745",
+    "name": "Plain Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04746",
+    "name": "Plain Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04747",
+    "name": "Plain Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04748",
+    "name": "Plain Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04749",
+    "name": "Plain Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04750",
+    "name": "Plain Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04751",
+    "name": "Boiled Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.2,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04752",
+    "name": "Boiled Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.2,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04753",
+    "name": "Boiled Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.2,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04754",
+    "name": "Boiled Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.2,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04755",
+    "name": "Boiled Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.2,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04756",
+    "name": "Boiled Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.2,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04757",
+    "name": "Steamed Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.1,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04758",
+    "name": "Steamed Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.1,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04759",
+    "name": "Steamed Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.1,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04760",
+    "name": "Steamed Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.1,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04761",
+    "name": "Steamed Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.1,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04762",
+    "name": "Steamed Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 1.1,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04763",
+    "name": "Roasted Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 71.5,
+      "protein": 3.6,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 128.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04764",
+    "name": "Roasted Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 71.5,
+      "protein": 3.6,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 128.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04765",
+    "name": "Roasted Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 71.5,
+      "protein": 3.6,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 128.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04766",
+    "name": "Roasted Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 71.5,
+      "protein": 3.6,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 128.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04767",
+    "name": "Roasted Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 71.5,
+      "protein": 3.6,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 128.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04768",
+    "name": "Roasted Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 71.5,
+      "protein": 3.6,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 128.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04769",
+    "name": "Grilled Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 9.8,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04770",
+    "name": "Grilled Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 9.8,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04771",
+    "name": "Grilled Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 9.8,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04772",
+    "name": "Grilled Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 9.8,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04773",
+    "name": "Grilled Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 9.8,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04774",
+    "name": "Grilled Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 9.8,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04775",
+    "name": "Fried Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 100.8,
+      "protein": 3.5,
+      "carbs": 11.5,
+      "fat": 3.3,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 181.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04776",
+    "name": "Fried Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 100.8,
+      "protein": 3.5,
+      "carbs": 11.5,
+      "fat": 3.3,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 181.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04777",
+    "name": "Fried Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 100.8,
+      "protein": 3.5,
+      "carbs": 11.5,
+      "fat": 3.3,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 181.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04778",
+    "name": "Fried Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 100.8,
+      "protein": 3.5,
+      "carbs": 11.5,
+      "fat": 3.3,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 181.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04779",
+    "name": "Fried Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 100.8,
+      "protein": 3.5,
+      "carbs": 11.5,
+      "fat": 3.3,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 181.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04780",
+    "name": "Fried Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 100.8,
+      "protein": 3.5,
+      "carbs": 11.5,
+      "fat": 3.3,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 181.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04781",
+    "name": "Masala Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.2,
+      "protein": 3.7,
+      "carbs": 11.0,
+      "fat": 2.1,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 146.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04782",
+    "name": "Masala Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.2,
+      "protein": 3.7,
+      "carbs": 11.0,
+      "fat": 2.1,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 146.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04783",
+    "name": "Masala Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.2,
+      "protein": 3.7,
+      "carbs": 11.0,
+      "fat": 2.1,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 146.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04784",
+    "name": "Masala Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.2,
+      "protein": 3.7,
+      "carbs": 11.0,
+      "fat": 2.1,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 146.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04785",
+    "name": "Masala Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.2,
+      "protein": 3.7,
+      "carbs": 11.0,
+      "fat": 2.1,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 146.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04786",
+    "name": "Masala Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.2,
+      "protein": 3.7,
+      "carbs": 11.0,
+      "fat": 2.1,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 146.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04787",
+    "name": "Homemade Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04788",
+    "name": "Homemade Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04789",
+    "name": "Homemade Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04790",
+    "name": "Homemade Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04791",
+    "name": "Homemade Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04792",
+    "name": "Homemade Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.0,
+      "protein": 3.5,
+      "carbs": 10.0,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 117.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04793",
+    "name": "Restaurant Style Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 87.8,
+      "protein": 3.7,
+      "carbs": 12.0,
+      "fat": 2.5,
+      "fiber": 3.0,
+      "sugar": 2.6,
+      "sodium": 158.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04794",
+    "name": "Restaurant Style Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 87.8,
+      "protein": 3.7,
+      "carbs": 12.0,
+      "fat": 2.5,
+      "fiber": 3.0,
+      "sugar": 2.6,
+      "sodium": 158.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04795",
+    "name": "Restaurant Style Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 87.8,
+      "protein": 3.7,
+      "carbs": 12.0,
+      "fat": 2.5,
+      "fiber": 3.0,
+      "sugar": 2.6,
+      "sodium": 158.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04796",
+    "name": "Restaurant Style Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 87.8,
+      "protein": 3.7,
+      "carbs": 12.0,
+      "fat": 2.5,
+      "fiber": 3.0,
+      "sugar": 2.6,
+      "sodium": 158.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04797",
+    "name": "Restaurant Style Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 87.8,
+      "protein": 3.7,
+      "carbs": 12.0,
+      "fat": 2.5,
+      "fiber": 3.0,
+      "sugar": 2.6,
+      "sodium": 158.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04798",
+    "name": "Restaurant Style Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 87.8,
+      "protein": 3.7,
+      "carbs": 12.0,
+      "fat": 2.5,
+      "fiber": 3.0,
+      "sugar": 2.6,
+      "sodium": 158.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04799",
+    "name": "Low Oil Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.2,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 0.9,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 103.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04800",
+    "name": "Low Oil Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.2,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 0.9,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 103.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04801",
+    "name": "Low Oil Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.2,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 0.9,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 103.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04802",
+    "name": "Low Oil Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.2,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 0.9,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 103.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04803",
+    "name": "Low Oil Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.2,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 0.9,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 103.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04804",
+    "name": "Low Oil Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.2,
+      "protein": 3.5,
+      "carbs": 9.8,
+      "fat": 0.9,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 103.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04805",
+    "name": "High Protein Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.7,
+      "carbs": 9.0,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04806",
+    "name": "High Protein Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.7,
+      "carbs": 9.0,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04807",
+    "name": "High Protein Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.7,
+      "carbs": 9.0,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04808",
+    "name": "High Protein Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.7,
+      "carbs": 9.0,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04809",
+    "name": "High Protein Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.7,
+      "carbs": 9.0,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04810",
+    "name": "High Protein Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.7,
+      "carbs": 9.0,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04811",
+    "name": "Diet Sambar - Small Serving",
+    "aliases": [
+      "sambar",
+      "small serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.8,
+      "protein": 3.7,
+      "carbs": 7.5,
+      "fat": 1.0,
+      "fiber": 3.0,
+      "sugar": 1.6,
+      "sodium": 87.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04812",
+    "name": "Diet Sambar - Medium Serving",
+    "aliases": [
+      "sambar",
+      "medium serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.8,
+      "protein": 3.7,
+      "carbs": 7.5,
+      "fat": 1.0,
+      "fiber": 3.0,
+      "sugar": 1.6,
+      "sodium": 87.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04813",
+    "name": "Diet Sambar - Large Serving",
+    "aliases": [
+      "sambar",
+      "large serving"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.8,
+      "protein": 3.7,
+      "carbs": 7.5,
+      "fat": 1.0,
+      "fiber": 3.0,
+      "sugar": 1.6,
+      "sodium": 87.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04814",
+    "name": "Diet Sambar - Kids Portion",
+    "aliases": [
+      "sambar",
+      "kids portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.8,
+      "protein": 3.7,
+      "carbs": 7.5,
+      "fat": 1.0,
+      "fiber": 3.0,
+      "sugar": 1.6,
+      "sodium": 87.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04815",
+    "name": "Diet Sambar - Gym Portion",
+    "aliases": [
+      "sambar",
+      "gym portion"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.8,
+      "protein": 3.7,
+      "carbs": 7.5,
+      "fat": 1.0,
+      "fiber": 3.0,
+      "sugar": 1.6,
+      "sodium": 87.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04816",
+    "name": "Diet Sambar - Meal Prep",
+    "aliases": [
+      "sambar",
+      "meal prep"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.8,
+      "protein": 3.7,
+      "carbs": 7.5,
+      "fat": 1.0,
+      "fiber": 3.0,
+      "sugar": 1.6,
+      "sodium": 87.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04817",
+    "name": "North Indian Sambar",
+    "aliases": [
+      "sambar",
+      "north indian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.3,
+      "protein": 3.5,
+      "carbs": 9.9,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 115.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04818",
+    "name": "South Indian Sambar",
+    "aliases": [
+      "sambar",
+      "south indian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.7,
+      "protein": 3.4,
+      "carbs": 9.8,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 114.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04819",
+    "name": "Maharashtrian Sambar",
+    "aliases": [
+      "sambar",
+      "maharashtrian"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 9.7,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.1,
+      "sodium": 113.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04820",
+    "name": "Gujarati Sambar",
+    "aliases": [
+      "sambar",
+      "gujarati"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.0,
+      "protein": 3.6,
+      "carbs": 10.3,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.3,
+      "sodium": 120.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04821",
+    "name": "Bengali Sambar",
+    "aliases": [
+      "sambar",
+      "bengali"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.7,
+      "protein": 3.4,
+      "carbs": 9.8,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 114.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04822",
+    "name": "Punjabi Sambar",
+    "aliases": [
+      "sambar",
+      "punjabi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.2,
+      "protein": 3.8,
+      "carbs": 10.8,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 126.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04823",
+    "name": "Rajasthani Sambar",
+    "aliases": [
+      "sambar",
+      "rajasthani"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 74.8,
+      "protein": 4.0,
+      "carbs": 11.5,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 134.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04824",
+    "name": "Hyderabadi Sambar",
+    "aliases": [
+      "sambar",
+      "hyderabadi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.2,
+      "protein": 3.7,
+      "carbs": 10.5,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.3,
+      "sodium": 122.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04825",
+    "name": "Mumbai Sambar",
+    "aliases": [
+      "sambar",
+      "mumbai"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 73.4,
+      "protein": 4.0,
+      "carbs": 11.3,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 132.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04826",
+    "name": "Delhi Sambar",
+    "aliases": [
+      "sambar",
+      "delhi"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.9,
+      "protein": 3.7,
+      "carbs": 10.6,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.3,
+      "sodium": 124.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04827",
+    "name": "Indore Sambar",
+    "aliases": [
+      "sambar",
+      "indore"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 73.4,
+      "protein": 4.0,
+      "carbs": 11.3,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 132.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04828",
+    "name": "Bhopal Sambar",
+    "aliases": [
+      "sambar",
+      "bhopal"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.4,
+      "protein": 3.3,
+      "carbs": 9.3,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 108.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04829",
+    "name": "Karnataka Sambar",
+    "aliases": [
+      "sambar",
+      "karnataka"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 73.4,
+      "protein": 4.0,
+      "carbs": 11.3,
+      "fat": 1.7,
+      "fiber": 3.0,
+      "sugar": 2.5,
+      "sodium": 132.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04830",
+    "name": "Tamil Sambar",
+    "aliases": [
+      "sambar",
+      "tamil"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 9.7,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.1,
+      "sodium": 113.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04831",
+    "name": "Kerala Sambar",
+    "aliases": [
+      "sambar",
+      "kerala"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 65.7,
+      "protein": 3.5,
+      "carbs": 10.1,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 118.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04832",
+    "name": "Andhra Sambar",
+    "aliases": [
+      "sambar",
+      "andhra"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.3,
+      "carbs": 9.5,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.1,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04833",
+    "name": "Goan Sambar",
+    "aliases": [
+      "sambar",
+      "goan"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.9,
+      "protein": 3.8,
+      "carbs": 10.9,
+      "fat": 1.6,
+      "fiber": 3.0,
+      "sugar": 2.4,
+      "sodium": 127.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04834",
+    "name": "International Sambar",
+    "aliases": [
+      "sambar",
+      "international"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.1,
+      "protein": 3.3,
+      "carbs": 9.4,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.1,
+      "sodium": 110.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04835",
+    "name": "Cafe Sambar",
+    "aliases": [
+      "sambar",
+      "cafe"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.8,
+      "protein": 3.2,
+      "carbs": 9.2,
+      "fat": 1.4,
+      "fiber": 3.0,
+      "sugar": 2.0,
+      "sodium": 107.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_04836",
+    "name": "Hostel Sambar",
+    "aliases": [
+      "sambar",
+      "hostel"
+    ],
+    "category": "South Indian",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 200.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.3,
+      "protein": 3.5,
+      "carbs": 9.9,
+      "fat": 1.5,
+      "fiber": 3.0,
+      "sugar": 2.2,
+      "sodium": 115.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  }
+]

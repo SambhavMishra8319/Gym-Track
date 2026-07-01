@@ -1,0 +1,53 @@
+[
+  {
+    "id": "dry-fruit-shake",
+    "name": "Dry Fruit Shake",
+    "aliases": [
+      "dry fruit shake",
+      "dryfruit shake",
+      "dry fruits shake",
+      "banana dry fruit shake",
+      "gym shake"
+    ],
+    "category": "Shake",
+    "servingOptions": [
+      {
+        "name": "1 Glass",
+        "grams": 450
+      },
+      {
+        "name": "Half Glass",
+        "grams": 225
+      },
+      {
+        "name": "Large Glass",
+        "grams": 600
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 138,
+      "protein": 4.9,
+      "carbs": 16,
+      "fat": 6.2,
+      "fiber": 1.8,
+      "sugar": 9.5,
+      "sodium": 31,
+      "potassium": 260
+    },
+    "ingredients": [
+      "Milk 300ml",
+      "Banana 1 medium",
+      "Almonds 8",
+      "Cashews 5",
+      "Raisins 10g",
+      "Dates 2",
+      "Peanut Butter 1 spoon"
+    ],
+    "verified": false,
+    "source": "GymTrack recipe estimate"
+  }
+]

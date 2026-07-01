@@ -1,0 +1,7980 @@
+[
+  {
+    "id": "gtf_00030",
+    "name": "Milk",
+    "aliases": [
+      "milk",
+      "doodh"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_00031",
+    "name": "Curd",
+    "aliases": [
+      "curd",
+      "dahi"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03069",
+    "name": "Plain Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "plain"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03070",
+    "name": "Boiled Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "boiled"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03071",
+    "name": "Steamed Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "steamed"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03072",
+    "name": "Roasted Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "roasted"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.0,
+      "protein": 3.3,
+      "carbs": 5.1,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 118.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03073",
+    "name": "Grilled Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "grilled"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 4.9,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03074",
+    "name": "Fried Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "fried"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 93.0,
+      "protein": 3.2,
+      "carbs": 5.8,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 167.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03075",
+    "name": "Masala Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "masala"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 75.0,
+      "protein": 3.4,
+      "carbs": 5.5,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 135.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03076",
+    "name": "Homemade Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "homemade"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03077",
+    "name": "Restaurant Style Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "restaurant style"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.0,
+      "protein": 3.4,
+      "carbs": 6.0,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 145.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03078",
+    "name": "Low Oil Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "low oil"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.8,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 95.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03079",
+    "name": "High Protein Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "high protein"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 4.3,
+      "carbs": 4.5,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03080",
+    "name": "Diet Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "diet"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 3.4,
+      "carbs": 3.8,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03081",
+    "name": "Plain Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03082",
+    "name": "Plain Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03083",
+    "name": "Plain Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03084",
+    "name": "Plain Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03085",
+    "name": "Plain Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03086",
+    "name": "Plain Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03087",
+    "name": "Boiled Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03088",
+    "name": "Boiled Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03089",
+    "name": "Boiled Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03090",
+    "name": "Boiled Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03091",
+    "name": "Boiled Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03092",
+    "name": "Boiled Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03093",
+    "name": "Steamed Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03094",
+    "name": "Steamed Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03095",
+    "name": "Steamed Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03096",
+    "name": "Steamed Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03097",
+    "name": "Steamed Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03098",
+    "name": "Steamed Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03099",
+    "name": "Roasted Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.0,
+      "protein": 3.3,
+      "carbs": 5.1,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 118.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03100",
+    "name": "Roasted Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.0,
+      "protein": 3.3,
+      "carbs": 5.1,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 118.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03101",
+    "name": "Roasted Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.0,
+      "protein": 3.3,
+      "carbs": 5.1,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 118.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03102",
+    "name": "Roasted Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.0,
+      "protein": 3.3,
+      "carbs": 5.1,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 118.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03103",
+    "name": "Roasted Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.0,
+      "protein": 3.3,
+      "carbs": 5.1,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 118.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03104",
+    "name": "Roasted Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.0,
+      "protein": 3.3,
+      "carbs": 5.1,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 118.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03105",
+    "name": "Grilled Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 4.9,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03106",
+    "name": "Grilled Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 4.9,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03107",
+    "name": "Grilled Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 4.9,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03108",
+    "name": "Grilled Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 4.9,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03109",
+    "name": "Grilled Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 4.9,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03110",
+    "name": "Grilled Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 4.9,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03111",
+    "name": "Fried Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 93.0,
+      "protein": 3.2,
+      "carbs": 5.8,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 167.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03112",
+    "name": "Fried Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 93.0,
+      "protein": 3.2,
+      "carbs": 5.8,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 167.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03113",
+    "name": "Fried Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 93.0,
+      "protein": 3.2,
+      "carbs": 5.8,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 167.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03114",
+    "name": "Fried Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 93.0,
+      "protein": 3.2,
+      "carbs": 5.8,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 167.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03115",
+    "name": "Fried Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 93.0,
+      "protein": 3.2,
+      "carbs": 5.8,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 167.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03116",
+    "name": "Fried Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 93.0,
+      "protein": 3.2,
+      "carbs": 5.8,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 167.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03117",
+    "name": "Masala Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 75.0,
+      "protein": 3.4,
+      "carbs": 5.5,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 135.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03118",
+    "name": "Masala Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 75.0,
+      "protein": 3.4,
+      "carbs": 5.5,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 135.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03119",
+    "name": "Masala Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 75.0,
+      "protein": 3.4,
+      "carbs": 5.5,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 135.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03120",
+    "name": "Masala Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 75.0,
+      "protein": 3.4,
+      "carbs": 5.5,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 135.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03121",
+    "name": "Masala Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 75.0,
+      "protein": 3.4,
+      "carbs": 5.5,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 135.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03122",
+    "name": "Masala Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 75.0,
+      "protein": 3.4,
+      "carbs": 5.5,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 135.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03123",
+    "name": "Homemade Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03124",
+    "name": "Homemade Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03125",
+    "name": "Homemade Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03126",
+    "name": "Homemade Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03127",
+    "name": "Homemade Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03128",
+    "name": "Homemade Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03129",
+    "name": "Restaurant Style Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.0,
+      "protein": 3.4,
+      "carbs": 6.0,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 145.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03130",
+    "name": "Restaurant Style Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.0,
+      "protein": 3.4,
+      "carbs": 6.0,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 145.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03131",
+    "name": "Restaurant Style Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.0,
+      "protein": 3.4,
+      "carbs": 6.0,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 145.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03132",
+    "name": "Restaurant Style Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.0,
+      "protein": 3.4,
+      "carbs": 6.0,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 145.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03133",
+    "name": "Restaurant Style Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.0,
+      "protein": 3.4,
+      "carbs": 6.0,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 145.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03134",
+    "name": "Restaurant Style Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 81.0,
+      "protein": 3.4,
+      "carbs": 6.0,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 145.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03135",
+    "name": "Low Oil Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.8,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 95.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03136",
+    "name": "Low Oil Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.8,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 95.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03137",
+    "name": "Low Oil Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.8,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 95.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03138",
+    "name": "Low Oil Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.8,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 95.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03139",
+    "name": "Low Oil Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.8,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 95.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03140",
+    "name": "Low Oil Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.8,
+      "protein": 3.2,
+      "carbs": 4.9,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 95.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03141",
+    "name": "High Protein Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 4.3,
+      "carbs": 4.5,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03142",
+    "name": "High Protein Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 4.3,
+      "carbs": 4.5,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03143",
+    "name": "High Protein Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 4.3,
+      "carbs": 4.5,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03144",
+    "name": "High Protein Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 4.3,
+      "carbs": 4.5,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03145",
+    "name": "High Protein Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 4.3,
+      "carbs": 4.5,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03146",
+    "name": "High Protein Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 4.3,
+      "carbs": 4.5,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03147",
+    "name": "Diet Milk - Small Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 3.4,
+      "carbs": 3.8,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03148",
+    "name": "Diet Milk - Medium Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 3.4,
+      "carbs": 3.8,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03149",
+    "name": "Diet Milk - Large Serving",
+    "aliases": [
+      "milk",
+      "doodh",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 3.4,
+      "carbs": 3.8,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03150",
+    "name": "Diet Milk - Kids Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 3.4,
+      "carbs": 3.8,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03151",
+    "name": "Diet Milk - Gym Portion",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 3.4,
+      "carbs": 3.8,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03152",
+    "name": "Diet Milk - Meal Prep",
+    "aliases": [
+      "milk",
+      "doodh",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 3.4,
+      "carbs": 3.8,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03153",
+    "name": "North Indian Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "north indian"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.2,
+      "protein": 2.9,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 99.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03154",
+    "name": "South Indian Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "south indian"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.6,
+      "protein": 3.4,
+      "carbs": 5.3,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 114.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03155",
+    "name": "Maharashtrian Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "maharashtrian"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.3,
+      "carbs": 5.2,
+      "fat": 3.4,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03156",
+    "name": "Gujarati Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "gujarati"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.0,
+      "carbs": 4.8,
+      "fat": 3.1,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03157",
+    "name": "Bengali Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "bengali"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.2,
+      "protein": 3.4,
+      "carbs": 5.4,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 115.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03158",
+    "name": "Punjabi Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "punjabi"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.6,
+      "protein": 3.4,
+      "carbs": 5.3,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 114.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03159",
+    "name": "Rajasthani Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "rajasthani"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.8,
+      "protein": 3.3,
+      "carbs": 5.2,
+      "fat": 3.4,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 111.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03160",
+    "name": "Hyderabadi Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "hyderabadi"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.0,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 108.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03161",
+    "name": "Mumbai Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "mumbai"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.4,
+      "protein": 3.3,
+      "carbs": 5.2,
+      "fat": 3.4,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 112.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03162",
+    "name": "Delhi Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "delhi"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.8,
+      "protein": 3.0,
+      "carbs": 4.6,
+      "fat": 3.1,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 100.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03163",
+    "name": "Indore Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "indore"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 55.8,
+      "protein": 3.0,
+      "carbs": 4.6,
+      "fat": 3.1,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 100.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03164",
+    "name": "Bhopal Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "bhopal"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.0,
+      "protein": 3.7,
+      "carbs": 5.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 124.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03165",
+    "name": "Karnataka Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "karnataka"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.6,
+      "protein": 3.7,
+      "carbs": 5.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 125.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03166",
+    "name": "Tamil Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "tamil"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.6,
+      "protein": 3.4,
+      "carbs": 5.3,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 114.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03167",
+    "name": "Kerala Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "kerala"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.0,
+      "protein": 3.0,
+      "carbs": 4.8,
+      "fat": 3.1,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 102.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03168",
+    "name": "Andhra Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "andhra"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.2,
+      "protein": 3.4,
+      "carbs": 5.4,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 115.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03169",
+    "name": "Goan Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "goan"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.0,
+      "protein": 3.4,
+      "carbs": 5.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 113.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03170",
+    "name": "International Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "international"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.6,
+      "protein": 3.4,
+      "carbs": 5.3,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 114.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03171",
+    "name": "Cafe Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "cafe"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.4,
+      "protein": 3.2,
+      "carbs": 5.0,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 106.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03172",
+    "name": "Hostel Milk",
+    "aliases": [
+      "milk",
+      "doodh",
+      "hostel"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 250.0
+      },
+      {
+        "name": "1 Glass",
+        "grams": 250.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.4,
+      "protein": 3.6,
+      "carbs": 5.7,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 123.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03173",
+    "name": "Plain Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "plain"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03174",
+    "name": "Boiled Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "boiled"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03175",
+    "name": "Steamed Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "steamed"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03176",
+    "name": "Roasted Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "roasted"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03177",
+    "name": "Grilled Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "grilled"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03178",
+    "name": "Fried Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "fried"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 94.5,
+      "protein": 3.5,
+      "carbs": 5.4,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 170.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03179",
+    "name": "Masala Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "masala"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 76.2,
+      "protein": 3.7,
+      "carbs": 5.2,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 137.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03180",
+    "name": "Homemade Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "homemade"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03181",
+    "name": "Restaurant Style Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "restaurant style"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 82.4,
+      "protein": 3.7,
+      "carbs": 5.6,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 148.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03182",
+    "name": "Low Oil Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "low oil"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.7,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 96.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03183",
+    "name": "High Protein Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "high protein"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.1,
+      "protein": 4.7,
+      "carbs": 4.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 0.9,
+      "sodium": 126.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03184",
+    "name": "Diet Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "diet"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.8,
+      "protein": 3.7,
+      "carbs": 3.5,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 82.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03185",
+    "name": "Plain Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03186",
+    "name": "Plain Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03187",
+    "name": "Plain Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03188",
+    "name": "Plain Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03189",
+    "name": "Plain Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03190",
+    "name": "Plain Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03191",
+    "name": "Boiled Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03192",
+    "name": "Boiled Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03193",
+    "name": "Boiled Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03194",
+    "name": "Boiled Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03195",
+    "name": "Boiled Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03196",
+    "name": "Boiled Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.6,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03197",
+    "name": "Steamed Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03198",
+    "name": "Steamed Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03199",
+    "name": "Steamed Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03200",
+    "name": "Steamed Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03201",
+    "name": "Steamed Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03202",
+    "name": "Steamed Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03203",
+    "name": "Roasted Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03204",
+    "name": "Roasted Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03205",
+    "name": "Roasted Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03206",
+    "name": "Roasted Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03207",
+    "name": "Roasted Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03208",
+    "name": "Roasted Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03209",
+    "name": "Grilled Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03210",
+    "name": "Grilled Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03211",
+    "name": "Grilled Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03212",
+    "name": "Grilled Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03213",
+    "name": "Grilled Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03214",
+    "name": "Grilled Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.6,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03215",
+    "name": "Fried Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 94.5,
+      "protein": 3.5,
+      "carbs": 5.4,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 170.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03216",
+    "name": "Fried Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 94.5,
+      "protein": 3.5,
+      "carbs": 5.4,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 170.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03217",
+    "name": "Fried Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 94.5,
+      "protein": 3.5,
+      "carbs": 5.4,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 170.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03218",
+    "name": "Fried Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 94.5,
+      "protein": 3.5,
+      "carbs": 5.4,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 170.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03219",
+    "name": "Fried Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 94.5,
+      "protein": 3.5,
+      "carbs": 5.4,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 170.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03220",
+    "name": "Fried Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 94.5,
+      "protein": 3.5,
+      "carbs": 5.4,
+      "fat": 7.3,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 170.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03221",
+    "name": "Masala Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 76.2,
+      "protein": 3.7,
+      "carbs": 5.2,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 137.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03222",
+    "name": "Masala Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 76.2,
+      "protein": 3.7,
+      "carbs": 5.2,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 137.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03223",
+    "name": "Masala Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 76.2,
+      "protein": 3.7,
+      "carbs": 5.2,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 137.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03224",
+    "name": "Masala Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 76.2,
+      "protein": 3.7,
+      "carbs": 5.2,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 137.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03225",
+    "name": "Masala Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 76.2,
+      "protein": 3.7,
+      "carbs": 5.2,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 137.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03226",
+    "name": "Masala Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 76.2,
+      "protein": 3.7,
+      "carbs": 5.2,
+      "fat": 4.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 137.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03227",
+    "name": "Homemade Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03228",
+    "name": "Homemade Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03229",
+    "name": "Homemade Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03230",
+    "name": "Homemade Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03231",
+    "name": "Homemade Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03232",
+    "name": "Homemade Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 61.0,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 109.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03233",
+    "name": "Restaurant Style Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 82.4,
+      "protein": 3.7,
+      "carbs": 5.6,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 148.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03234",
+    "name": "Restaurant Style Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 82.4,
+      "protein": 3.7,
+      "carbs": 5.6,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 148.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03235",
+    "name": "Restaurant Style Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 82.4,
+      "protein": 3.7,
+      "carbs": 5.6,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 148.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03236",
+    "name": "Restaurant Style Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 82.4,
+      "protein": 3.7,
+      "carbs": 5.6,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 148.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03237",
+    "name": "Restaurant Style Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 82.4,
+      "protein": 3.7,
+      "carbs": 5.6,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 148.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03238",
+    "name": "Restaurant Style Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 82.4,
+      "protein": 3.7,
+      "carbs": 5.6,
+      "fat": 5.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 148.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03239",
+    "name": "Low Oil Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.7,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 96.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03240",
+    "name": "Low Oil Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.7,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 96.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03241",
+    "name": "Low Oil Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.7,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 96.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03242",
+    "name": "Low Oil Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.7,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 96.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03243",
+    "name": "Low Oil Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.7,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 96.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03244",
+    "name": "Low Oil Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 53.7,
+      "protein": 3.5,
+      "carbs": 4.6,
+      "fat": 2.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 96.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03245",
+    "name": "High Protein Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.1,
+      "protein": 4.7,
+      "carbs": 4.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 0.9,
+      "sodium": 126.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03246",
+    "name": "High Protein Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.1,
+      "protein": 4.7,
+      "carbs": 4.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 0.9,
+      "sodium": 126.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03247",
+    "name": "High Protein Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.1,
+      "protein": 4.7,
+      "carbs": 4.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 0.9,
+      "sodium": 126.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03248",
+    "name": "High Protein Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.1,
+      "protein": 4.7,
+      "carbs": 4.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 0.9,
+      "sodium": 126.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03249",
+    "name": "High Protein Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.1,
+      "protein": 4.7,
+      "carbs": 4.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 0.9,
+      "sodium": 126.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03250",
+    "name": "High Protein Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.1,
+      "protein": 4.7,
+      "carbs": 4.2,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 0.9,
+      "sodium": 126.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03251",
+    "name": "Diet Curd - Small Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "small serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.8,
+      "protein": 3.7,
+      "carbs": 3.5,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 82.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03252",
+    "name": "Diet Curd - Medium Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "medium serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.8,
+      "protein": 3.7,
+      "carbs": 3.5,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 82.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03253",
+    "name": "Diet Curd - Large Serving",
+    "aliases": [
+      "curd",
+      "dahi",
+      "large serving"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.8,
+      "protein": 3.7,
+      "carbs": 3.5,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 82.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03254",
+    "name": "Diet Curd - Kids Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kids portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.8,
+      "protein": 3.7,
+      "carbs": 3.5,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 82.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03255",
+    "name": "Diet Curd - Gym Portion",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gym portion"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.8,
+      "protein": 3.7,
+      "carbs": 3.5,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 82.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03256",
+    "name": "Diet Curd - Meal Prep",
+    "aliases": [
+      "curd",
+      "dahi",
+      "meal prep"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.8,
+      "protein": 3.7,
+      "carbs": 3.5,
+      "fat": 2.3,
+      "fiber": 0.0,
+      "sugar": 0.8,
+      "sodium": 82.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03257",
+    "name": "North Indian Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "north indian"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.4,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 108.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03258",
+    "name": "South Indian Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "south indian"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.3,
+      "protein": 3.9,
+      "carbs": 5.3,
+      "fat": 3.7,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 123.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03259",
+    "name": "Maharashtrian Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "maharashtrian"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.2,
+      "carbs": 4.3,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03260",
+    "name": "Gujarati Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "gujarati"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.9,
+      "carbs": 5.2,
+      "fat": 3.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03261",
+    "name": "Bengali Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "bengali"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.0,
+      "protein": 3.7,
+      "carbs": 4.9,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 115.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03262",
+    "name": "Punjabi Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "punjabi"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.3,
+      "carbs": 4.5,
+      "fat": 3.1,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03263",
+    "name": "Rajasthani Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "rajasthani"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.9,
+      "protein": 4.0,
+      "carbs": 5.3,
+      "fat": 3.7,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 124.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03264",
+    "name": "Hyderabadi Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "hyderabadi"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.2,
+      "protein": 3.6,
+      "carbs": 4.8,
+      "fat": 3.4,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 112.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03265",
+    "name": "Mumbai Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "mumbai"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 70.8,
+      "protein": 4.1,
+      "carbs": 5.5,
+      "fat": 3.8,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 127.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03266",
+    "name": "Delhi Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "delhi"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.1,
+      "protein": 3.2,
+      "carbs": 4.3,
+      "fat": 3.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 101.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03267",
+    "name": "Indore Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "indore"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 57.9,
+      "protein": 3.3,
+      "carbs": 4.5,
+      "fat": 3.1,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 104.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03268",
+    "name": "Bhopal Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "bhopal"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.9,
+      "carbs": 5.2,
+      "fat": 3.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03269",
+    "name": "Karnataka Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "karnataka"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 63.4,
+      "protein": 3.6,
+      "carbs": 4.9,
+      "fat": 3.4,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 114.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03270",
+    "name": "Tamil Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "tamil"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 66.5,
+      "protein": 3.8,
+      "carbs": 5.1,
+      "fat": 3.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 119.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03271",
+    "name": "Kerala Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "kerala"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.9,
+      "protein": 4.0,
+      "carbs": 5.3,
+      "fat": 3.7,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 124.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03272",
+    "name": "Andhra Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "andhra"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 59.2,
+      "protein": 3.4,
+      "carbs": 4.6,
+      "fat": 3.2,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 106.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03273",
+    "name": "Goan Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "goan"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 68.3,
+      "protein": 3.9,
+      "carbs": 5.3,
+      "fat": 3.7,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 123.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03274",
+    "name": "International Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "international"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 64.7,
+      "protein": 3.7,
+      "carbs": 5.0,
+      "fat": 3.5,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 116.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03275",
+    "name": "Cafe Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "cafe"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 67.1,
+      "protein": 3.9,
+      "carbs": 5.2,
+      "fat": 3.6,
+      "fiber": 0.0,
+      "sugar": 1.1,
+      "sodium": 120.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_03276",
+    "name": "Hostel Curd",
+    "aliases": [
+      "curd",
+      "dahi",
+      "hostel"
+    ],
+    "category": "Dairy",
+    "servingOptions": [
+      {
+        "name": "100 g",
+        "grams": 100
+      },
+      {
+        "name": "1 Bowl",
+        "grams": 150.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 245.0
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.4,
+      "protein": 3.5,
+      "carbs": 4.7,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 108.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  }
+]

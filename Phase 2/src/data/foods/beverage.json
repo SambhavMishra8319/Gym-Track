@@ -1,0 +1,7455 @@
+[
+  {
+    "id": "gtf_00051",
+    "name": "Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_00052",
+    "name": "Coffee with Milk",
+    "aliases": [
+      "coffee"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05253",
+    "name": "Plain Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "plain"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05254",
+    "name": "Boiled Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "boiled"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05255",
+    "name": "Steamed Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "steamed"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05256",
+    "name": "Roasted Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "roasted"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05257",
+    "name": "Grilled Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "grilled"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.0,
+      "protein": 1.1,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 75.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05258",
+    "name": "Fried Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "fried"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.0,
+      "protein": 1.0,
+      "carbs": 6.9,
+      "fat": 2.9,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 111.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05259",
+    "name": "Masala Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "masala"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.8,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05260",
+    "name": "Homemade Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "homemade"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05261",
+    "name": "Restaurant Style Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "restaurant style"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 54.0,
+      "protein": 1.1,
+      "carbs": 7.2,
+      "fat": 2.2,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 97.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05262",
+    "name": "Low Oil Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "low oil"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 35.2,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 0.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 63.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05263",
+    "name": "High Protein Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "high protein"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.4,
+      "carbs": 5.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05264",
+    "name": "Diet Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "diet"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 30.0,
+      "protein": 1.1,
+      "carbs": 4.5,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 54.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05265",
+    "name": "Plain Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05266",
+    "name": "Plain Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05267",
+    "name": "Plain Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05268",
+    "name": "Plain Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05269",
+    "name": "Plain Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05270",
+    "name": "Plain Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05271",
+    "name": "Boiled Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05272",
+    "name": "Boiled Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05273",
+    "name": "Boiled Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05274",
+    "name": "Boiled Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05275",
+    "name": "Boiled Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05276",
+    "name": "Boiled Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05277",
+    "name": "Steamed Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05278",
+    "name": "Steamed Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05279",
+    "name": "Steamed Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05280",
+    "name": "Steamed Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05281",
+    "name": "Steamed Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05282",
+    "name": "Steamed Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05283",
+    "name": "Roasted Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05284",
+    "name": "Roasted Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05285",
+    "name": "Roasted Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05286",
+    "name": "Roasted Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05287",
+    "name": "Roasted Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05288",
+    "name": "Roasted Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05289",
+    "name": "Grilled Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.0,
+      "protein": 1.1,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 75.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05290",
+    "name": "Grilled Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.0,
+      "protein": 1.1,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 75.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05291",
+    "name": "Grilled Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.0,
+      "protein": 1.1,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 75.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05292",
+    "name": "Grilled Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.0,
+      "protein": 1.1,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 75.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05293",
+    "name": "Grilled Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.0,
+      "protein": 1.1,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 75.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05294",
+    "name": "Grilled Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.0,
+      "protein": 1.1,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 75.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05295",
+    "name": "Fried Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.0,
+      "protein": 1.0,
+      "carbs": 6.9,
+      "fat": 2.9,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 111.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05296",
+    "name": "Fried Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.0,
+      "protein": 1.0,
+      "carbs": 6.9,
+      "fat": 2.9,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 111.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05297",
+    "name": "Fried Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.0,
+      "protein": 1.0,
+      "carbs": 6.9,
+      "fat": 2.9,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 111.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05298",
+    "name": "Fried Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.0,
+      "protein": 1.0,
+      "carbs": 6.9,
+      "fat": 2.9,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 111.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05299",
+    "name": "Fried Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.0,
+      "protein": 1.0,
+      "carbs": 6.9,
+      "fat": 2.9,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 111.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05300",
+    "name": "Fried Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 62.0,
+      "protein": 1.0,
+      "carbs": 6.9,
+      "fat": 2.9,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 111.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05301",
+    "name": "Masala Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.8,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05302",
+    "name": "Masala Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.8,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05303",
+    "name": "Masala Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.8,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05304",
+    "name": "Masala Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.8,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05305",
+    "name": "Masala Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.8,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05306",
+    "name": "Masala Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.8,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05307",
+    "name": "Homemade Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05308",
+    "name": "Homemade Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05309",
+    "name": "Homemade Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05310",
+    "name": "Homemade Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05311",
+    "name": "Homemade Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05312",
+    "name": "Homemade Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05313",
+    "name": "Restaurant Style Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 54.0,
+      "protein": 1.1,
+      "carbs": 7.2,
+      "fat": 2.2,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 97.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05314",
+    "name": "Restaurant Style Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 54.0,
+      "protein": 1.1,
+      "carbs": 7.2,
+      "fat": 2.2,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 97.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05315",
+    "name": "Restaurant Style Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 54.0,
+      "protein": 1.1,
+      "carbs": 7.2,
+      "fat": 2.2,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 97.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05316",
+    "name": "Restaurant Style Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 54.0,
+      "protein": 1.1,
+      "carbs": 7.2,
+      "fat": 2.2,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 97.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05317",
+    "name": "Restaurant Style Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 54.0,
+      "protein": 1.1,
+      "carbs": 7.2,
+      "fat": 2.2,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 97.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05318",
+    "name": "Restaurant Style Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 54.0,
+      "protein": 1.1,
+      "carbs": 7.2,
+      "fat": 2.2,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 97.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05319",
+    "name": "Low Oil Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 35.2,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 0.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 63.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05320",
+    "name": "Low Oil Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 35.2,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 0.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 63.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05321",
+    "name": "Low Oil Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 35.2,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 0.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 63.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05322",
+    "name": "Low Oil Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 35.2,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 0.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 63.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05323",
+    "name": "Low Oil Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 35.2,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 0.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 63.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05324",
+    "name": "Low Oil Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 35.2,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 0.8,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 63.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05325",
+    "name": "High Protein Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.4,
+      "carbs": 5.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05326",
+    "name": "High Protein Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.4,
+      "carbs": 5.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05327",
+    "name": "High Protein Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.4,
+      "carbs": 5.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05328",
+    "name": "High Protein Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.4,
+      "carbs": 5.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05329",
+    "name": "High Protein Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.4,
+      "carbs": 5.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05330",
+    "name": "High Protein Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.4,
+      "carbs": 5.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05331",
+    "name": "Diet Tea with Milk - Small Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 30.0,
+      "protein": 1.1,
+      "carbs": 4.5,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 54.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05332",
+    "name": "Diet Tea with Milk - Medium Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 30.0,
+      "protein": 1.1,
+      "carbs": 4.5,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 54.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05333",
+    "name": "Diet Tea with Milk - Large Serving",
+    "aliases": [
+      "chai",
+      "tea",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 30.0,
+      "protein": 1.1,
+      "carbs": 4.5,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 54.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05334",
+    "name": "Diet Tea with Milk - Kids Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 30.0,
+      "protein": 1.1,
+      "carbs": 4.5,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 54.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05335",
+    "name": "Diet Tea with Milk - Gym Portion",
+    "aliases": [
+      "chai",
+      "tea",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 30.0,
+      "protein": 1.1,
+      "carbs": 4.5,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 54.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05336",
+    "name": "Diet Tea with Milk - Meal Prep",
+    "aliases": [
+      "chai",
+      "tea",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 30.0,
+      "protein": 1.1,
+      "carbs": 4.5,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 54.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05337",
+    "name": "North Indian Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "north indian"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05338",
+    "name": "South Indian Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "south indian"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.1,
+      "carbs": 6.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05339",
+    "name": "Maharashtrian Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "maharashtrian"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.8,
+      "protein": 1.1,
+      "carbs": 6.7,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 80.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05340",
+    "name": "Gujarati Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "gujarati"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.2,
+      "protein": 1.1,
+      "carbs": 6.8,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 81.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05341",
+    "name": "Bengali Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "bengali"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05342",
+    "name": "Punjabi Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "punjabi"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 0.9,
+      "carbs": 5.7,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05343",
+    "name": "Rajasthani Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "rajasthani"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.0,
+      "protein": 0.9,
+      "carbs": 5.7,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 68.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05344",
+    "name": "Hyderabadi Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "hyderabadi"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.8,
+      "protein": 1.1,
+      "carbs": 6.7,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 80.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05345",
+    "name": "Mumbai Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "mumbai"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.8,
+      "protein": 1.0,
+      "carbs": 6.1,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 73.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05346",
+    "name": "Delhi Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "delhi"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.8,
+      "protein": 1.1,
+      "carbs": 6.7,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 80.6,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05347",
+    "name": "Indore Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "indore"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 36.8,
+      "protein": 0.9,
+      "carbs": 5.5,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 66.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05348",
+    "name": "Bhopal Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "bhopal"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05349",
+    "name": "Karnataka Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "karnataka"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 38.4,
+      "protein": 1.0,
+      "carbs": 5.8,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 69.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05350",
+    "name": "Tamil Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "tamil"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.0,
+      "carbs": 5.9,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05351",
+    "name": "Kerala Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "kerala"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.2,
+      "protein": 1.1,
+      "carbs": 6.8,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 81.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05352",
+    "name": "Andhra Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "andhra"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.1,
+      "carbs": 6.4,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05353",
+    "name": "Goan Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "goan"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 43.2,
+      "protein": 1.1,
+      "carbs": 6.5,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 77.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05354",
+    "name": "International Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "international"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 40.0,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 1.3,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 72.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05355",
+    "name": "Cafe Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "cafe"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 44.0,
+      "protein": 1.1,
+      "carbs": 6.6,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 79.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05356",
+    "name": "Hostel Tea with Milk",
+    "aliases": [
+      "chai",
+      "tea",
+      "hostel"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 150.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.0,
+      "protein": 1.1,
+      "carbs": 6.9,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 82.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05357",
+    "name": "Plain Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "plain"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05358",
+    "name": "Boiled Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "boiled"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05359",
+    "name": "Steamed Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "steamed"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.1,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05360",
+    "name": "Roasted Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "roasted"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 89.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05361",
+    "name": "Grilled Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "grilled"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 5.9,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05362",
+    "name": "Fried Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "fried"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.8,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 125.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05363",
+    "name": "Masala Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "masala"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.2,
+      "protein": 1.6,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 101.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05364",
+    "name": "Homemade Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "homemade"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05365",
+    "name": "Restaurant Style Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "restaurant style"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.8,
+      "protein": 1.6,
+      "carbs": 7.2,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 109.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05366",
+    "name": "Low Oil Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "low oil"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05367",
+    "name": "High Protein Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "high protein"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.7,
+      "protein": 2.0,
+      "carbs": 5.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 93.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05368",
+    "name": "Diet Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "diet"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 33.8,
+      "protein": 1.6,
+      "carbs": 4.5,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 60.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05369",
+    "name": "Plain Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05370",
+    "name": "Plain Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05371",
+    "name": "Plain Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05372",
+    "name": "Plain Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05373",
+    "name": "Plain Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05374",
+    "name": "Plain Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05375",
+    "name": "Boiled Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05376",
+    "name": "Boiled Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05377",
+    "name": "Boiled Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05378",
+    "name": "Boiled Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05379",
+    "name": "Boiled Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05380",
+    "name": "Boiled Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.8,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.2,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 77.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05381",
+    "name": "Steamed Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.1,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05382",
+    "name": "Steamed Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.1,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05383",
+    "name": "Steamed Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.1,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05384",
+    "name": "Steamed Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.1,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05385",
+    "name": "Steamed Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.1,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05386",
+    "name": "Steamed Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 1.1,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05387",
+    "name": "Roasted Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 89.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05388",
+    "name": "Roasted Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 89.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05389",
+    "name": "Roasted Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 89.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05390",
+    "name": "Roasted Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 89.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05391",
+    "name": "Roasted Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 89.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05392",
+    "name": "Roasted Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 89.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05393",
+    "name": "Grilled Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 5.9,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05394",
+    "name": "Grilled Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 5.9,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05395",
+    "name": "Grilled Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 5.9,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05396",
+    "name": "Grilled Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 5.9,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05397",
+    "name": "Grilled Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 5.9,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05398",
+    "name": "Grilled Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 5.9,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05399",
+    "name": "Fried Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.8,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 125.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05400",
+    "name": "Fried Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.8,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 125.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05401",
+    "name": "Fried Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.8,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 125.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05402",
+    "name": "Fried Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.8,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 125.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05403",
+    "name": "Fried Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.8,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 125.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05404",
+    "name": "Fried Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 69.8,
+      "protein": 1.5,
+      "carbs": 6.9,
+      "fat": 3.3,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 125.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05405",
+    "name": "Masala Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.2,
+      "protein": 1.6,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 101.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05406",
+    "name": "Masala Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.2,
+      "protein": 1.6,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 101.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05407",
+    "name": "Masala Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.2,
+      "protein": 1.6,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 101.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05408",
+    "name": "Masala Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.2,
+      "protein": 1.6,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 101.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05409",
+    "name": "Masala Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.2,
+      "protein": 1.6,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 101.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05410",
+    "name": "Masala Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 56.2,
+      "protein": 1.6,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 101.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05411",
+    "name": "Homemade Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05412",
+    "name": "Homemade Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05413",
+    "name": "Homemade Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05414",
+    "name": "Homemade Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05415",
+    "name": "Homemade Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05416",
+    "name": "Homemade Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05417",
+    "name": "Restaurant Style Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.8,
+      "protein": 1.6,
+      "carbs": 7.2,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 109.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05418",
+    "name": "Restaurant Style Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.8,
+      "protein": 1.6,
+      "carbs": 7.2,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 109.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05419",
+    "name": "Restaurant Style Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.8,
+      "protein": 1.6,
+      "carbs": 7.2,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 109.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05420",
+    "name": "Restaurant Style Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.8,
+      "protein": 1.6,
+      "carbs": 7.2,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 109.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05421",
+    "name": "Restaurant Style Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.8,
+      "protein": 1.6,
+      "carbs": 7.2,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 109.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05422",
+    "name": "Restaurant Style Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 60.8,
+      "protein": 1.6,
+      "carbs": 7.2,
+      "fat": 2.5,
+      "fiber": 0.0,
+      "sugar": 1.6,
+      "sodium": 109.4,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05423",
+    "name": "Low Oil Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05424",
+    "name": "Low Oil Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05425",
+    "name": "Low Oil Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05426",
+    "name": "Low Oil Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05427",
+    "name": "Low Oil Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05428",
+    "name": "Low Oil Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 39.6,
+      "protein": 1.5,
+      "carbs": 5.9,
+      "fat": 0.9,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 71.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05429",
+    "name": "High Protein Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.7,
+      "protein": 2.0,
+      "carbs": 5.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 93.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05430",
+    "name": "High Protein Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.7,
+      "protein": 2.0,
+      "carbs": 5.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 93.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05431",
+    "name": "High Protein Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.7,
+      "protein": 2.0,
+      "carbs": 5.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 93.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05432",
+    "name": "High Protein Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.7,
+      "protein": 2.0,
+      "carbs": 5.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 93.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05433",
+    "name": "High Protein Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.7,
+      "protein": 2.0,
+      "carbs": 5.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 93.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05434",
+    "name": "High Protein Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 51.7,
+      "protein": 2.0,
+      "carbs": 5.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 93.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05435",
+    "name": "Diet Coffee with Milk - Small Serving",
+    "aliases": [
+      "coffee",
+      "small serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 33.8,
+      "protein": 1.6,
+      "carbs": 4.5,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 60.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05436",
+    "name": "Diet Coffee with Milk - Medium Serving",
+    "aliases": [
+      "coffee",
+      "medium serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 33.8,
+      "protein": 1.6,
+      "carbs": 4.5,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 60.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05437",
+    "name": "Diet Coffee with Milk - Large Serving",
+    "aliases": [
+      "coffee",
+      "large serving"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 33.8,
+      "protein": 1.6,
+      "carbs": 4.5,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 60.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05438",
+    "name": "Diet Coffee with Milk - Kids Portion",
+    "aliases": [
+      "coffee",
+      "kids portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 33.8,
+      "protein": 1.6,
+      "carbs": 4.5,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 60.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05439",
+    "name": "Diet Coffee with Milk - Gym Portion",
+    "aliases": [
+      "coffee",
+      "gym portion"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 33.8,
+      "protein": 1.6,
+      "carbs": 4.5,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 60.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05440",
+    "name": "Diet Coffee with Milk - Meal Prep",
+    "aliases": [
+      "coffee",
+      "meal prep"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 33.8,
+      "protein": 1.6,
+      "carbs": 4.5,
+      "fat": 1.0,
+      "fiber": 0.0,
+      "sugar": 1.0,
+      "sodium": 60.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05441",
+    "name": "North Indian Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "north indian"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05442",
+    "name": "South Indian Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "south indian"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.2,
+      "protein": 1.7,
+      "carbs": 7.0,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 94.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05443",
+    "name": "Maharashtrian Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "maharashtrian"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.0,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05444",
+    "name": "Gujarati Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "gujarati"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.8,
+      "protein": 1.7,
+      "carbs": 6.8,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 91.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05445",
+    "name": "Bengali Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "bengali"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.6,
+      "protein": 1.6,
+      "carbs": 6.5,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 87.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05446",
+    "name": "Punjabi Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "punjabi"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.2,
+      "protein": 1.6,
+      "carbs": 6.3,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 85.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05447",
+    "name": "Rajasthani Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "rajasthani"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 41.4,
+      "protein": 1.4,
+      "carbs": 5.5,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 74.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05448",
+    "name": "Hyderabadi Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "hyderabadi"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.8,
+      "protein": 1.7,
+      "carbs": 6.8,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 91.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05449",
+    "name": "Mumbai Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "mumbai"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.8,
+      "protein": 1.6,
+      "carbs": 6.2,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 84.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05450",
+    "name": "Delhi Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "delhi"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 52.2,
+      "protein": 1.7,
+      "carbs": 7.0,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 94.0,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05451",
+    "name": "Indore Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "indore"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 49.1,
+      "protein": 1.6,
+      "carbs": 6.5,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 88.3,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05452",
+    "name": "Bhopal Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "bhopal"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.4,
+      "protein": 1.7,
+      "carbs": 6.7,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 90.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05453",
+    "name": "Karnataka Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "karnataka"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.2,
+      "protein": 1.6,
+      "carbs": 6.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 86.7,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05454",
+    "name": "Tamil Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "tamil"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 42.3,
+      "protein": 1.4,
+      "carbs": 5.6,
+      "fat": 1.4,
+      "fiber": 0.0,
+      "sugar": 1.2,
+      "sodium": 76.1,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05455",
+    "name": "Kerala Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "kerala"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 46.8,
+      "protein": 1.6,
+      "carbs": 6.2,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 84.2,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05456",
+    "name": "Andhra Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "andhra"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.0,
+      "protein": 1.7,
+      "carbs": 6.7,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 89.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05457",
+    "name": "Goan Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "goan"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 50.8,
+      "protein": 1.7,
+      "carbs": 6.8,
+      "fat": 1.7,
+      "fiber": 0.0,
+      "sugar": 1.5,
+      "sodium": 91.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05458",
+    "name": "International Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "international"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 45.5,
+      "protein": 1.5,
+      "carbs": 6.1,
+      "fat": 1.5,
+      "fiber": 0.0,
+      "sugar": 1.3,
+      "sodium": 81.8,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05459",
+    "name": "Cafe Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "cafe"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 47.7,
+      "protein": 1.6,
+      "carbs": 6.4,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 85.9,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  },
+  {
+    "id": "gtf_05460",
+    "name": "Hostel Coffee with Milk",
+    "aliases": [
+      "coffee",
+      "hostel"
+    ],
+    "category": "Beverage",
+    "servingOptions": [
+      {
+        "name": "1 ml",
+        "grams": 1.0
+      },
+      {
+        "name": "1 Cup",
+        "grams": 180.0
+      },
+      {
+        "name": "100 g",
+        "grams": 100
+      }
+    ],
+    "nutritionPer100g": {
+      "calories": 48.6,
+      "protein": 1.6,
+      "carbs": 6.5,
+      "fat": 1.6,
+      "fiber": 0.0,
+      "sugar": 1.4,
+      "sodium": 87.5,
+      "potassium": 0
+    },
+    "verified": false,
+    "source": "GymTrack starter estimated"
+  }
+]

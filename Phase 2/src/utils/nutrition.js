@@ -1,53 +1,50 @@
-export const calculateNutrition = (food, quantity, unit) => {
-  if (!food || !quantity || quantity <= 0) return null;
+export const calculateNutrition = (food, quantity = 1, servingOption = null) => {
+  if (!food || Number(quantity) <= 0) return null;
 
-  const selectedUnit = food.commonUnits.find((item) => item.unit === unit);
+  const selectedServing =
+    servingOption || food.servingOptions?.[0] || { name: "100 g", grams: 100 };
 
-  if (!selectedUnit) return null;
-
-  let multiplier;
-
-  if (food.baseUnit === "piece" || food.baseUnit === "scoop") {
-    multiplier = quantity * selectedUnit.grams;
-  } else {
-    const totalGrams = quantity * selectedUnit.grams;
-    multiplier = totalGrams / 100;
-  }
+  const grams = Number(quantity) * Number(selectedServing.grams || 100);
+  const multiplier = grams / 100;
+  const n = food.nutritionPer100g || {};
 
   return {
     id: crypto.randomUUID(),
     foodId: food.id,
     name: food.name,
-    quantity,
-    unit,
-    calories: Math.round(food.calories * multiplier),
-    protein: +(food.protein * multiplier).toFixed(1),
-    carbs: +(food.carbs * multiplier).toFixed(1),
-    fat: +(food.fat * multiplier).toFixed(1),
-    fiber: +(food.fiber * multiplier).toFixed(1),
+    category: food.category,
+    quantity: Number(quantity),
+    servingName: selectedServing.name,
+    grams,
+    calories: Math.round((n.calories || 0) * multiplier),
+    protein: +((n.protein || 0) * multiplier).toFixed(1),
+    carbs: +((n.carbs || 0) * multiplier).toFixed(1),
+    fat: +((n.fat || 0) * multiplier).toFixed(1),
+    fiber: +((n.fiber || 0) * multiplier).toFixed(1),
+    sugar: +((n.sugar || 0) * multiplier).toFixed(1),
+    sodium: +((n.sodium || 0) * multiplier).toFixed(1),
+    potassium: +((n.potassium || 0) * multiplier).toFixed(1),
   };
 };
 
-export const getMealTotals = (foods = []) => {
-  return foods.reduce(
+export const getTotals = (foods = []) =>
+  foods.reduce(
     (total, food) => ({
-      calories: total.calories + food.calories,
-      protein: +(total.protein + food.protein).toFixed(1),
-      carbs: +(total.carbs + food.carbs).toFixed(1),
-      fat: +(total.fat + food.fat).toFixed(1),
-      fiber: +(total.fiber + food.fiber).toFixed(1),
+      calories: total.calories + (food.calories || 0),
+      protein: +(total.protein + (food.protein || 0)).toFixed(1),
+      carbs: +(total.carbs + (food.carbs || 0)).toFixed(1),
+      fat: +(total.fat + (food.fat || 0)).toFixed(1),
+      fiber: +(total.fiber + (food.fiber || 0)).toFixed(1),
+      sugar: +(total.sugar + (food.sugar || 0)).toFixed(1),
+      sodium: +(total.sodium + (food.sodium || 0)).toFixed(1),
+      potassium: +(total.potassium + (food.potassium || 0)).toFixed(1),
     }),
-    {
-      calories: 0,
-      protein: 0,
-      carbs: 0,
-      fat: 0,
-      fiber: 0,
-    }
+    { calories: 0, protein: 0, carbs: 0, fat: 0, fiber: 0, sugar: 0, sodium: 0, potassium: 0 }
   );
-};
 
-export const getDailyTotals = (meals) => {
+export const getMealTotals = getTotals;
+
+export const getDailyTotals = (meals = {}) => {
   const allFoods = Object.values(meals).flat();
-  return getMealTotals(allFoods);
+  return getTotals(allFoods);
 };
