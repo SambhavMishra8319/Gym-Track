@@ -1,0 +1,32 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EAD27A"/>
+      <stop offset="50%" stop-color="#C9A227"/>
+      <stop offset="100%" stop-color="#B5631F"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B2027"/>
+      <stop offset="100%" stop-color="#0E1116"/>
+    </linearGradient>
+    <linearGradient id="word" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F1DE9C"/>
+      <stop offset="100%" stop-color="#C9A227"/>
+    </linearGradient>
+  </defs>
+
+  <!-- mark -->
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="240" height="240" rx="54" fill="url(#bg)"/>
+    <rect x="1.5" y="1.5" width="237" height="237" rx="52.5" fill="none" stroke="rgba(255,255,255,0.30)" stroke-width="2"/>
+    <rect x="56" y="60" width="112" height="24" rx="6" fill="#16140A"/>
+    <rect x="100" y="60" width="24" height="104" rx="6" fill="#16140A"/>
+    <circle cx="180" cy="180" r="44" fill="url(#badge)"/>
+    <circle cx="180" cy="180" r="44" fill="none" stroke="#EAD27A" stroke-width="2.5" opacity="0.55"/>
+    <path d="M163 180 L175 192 L199 164" fill="none" stroke="#EAD27A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="282" y="148" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="92" fill="url(#word)" letter-spacing="-1">Tracksy</text>
+  <text x="284" y="184" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="18" fill="#8B93A0" letter-spacing="3">30-DAY TRANSFORMATION PROTOCOL</text>
+</svg>

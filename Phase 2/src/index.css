@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color-scheme: light;
+  }
+
+  body {
+    @apply min-h-screen bg-slate-950 text-slate-900 antialiased;
+  }
+
+  ::selection {
+    @apply bg-blue-500 text-white;
+  }
+}
+
+@layer components {
+  .app-shell {
+    @apply min-h-screen bg-[radial-gradient(circle_at_top_left,_rgba(59,130,246,0.22),_transparent_32%),radial-gradient(circle_at_top_right,_rgba(168,85,247,0.18),_transparent_30%),linear-gradient(135deg,#020617_0%,#0f172a_45%,#111827_100%)] text-slate-100;
+  }
+
+  .premium-surface {
+    @apply border border-white/10 bg-white/10 shadow-2xl shadow-black/20 backdrop-blur-xl;
+  }
+
+  .premium-card {
+    @apply rounded-3xl border border-slate-200/80 bg-white/95 p-5 shadow-xl shadow-slate-200/60 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-2xl dark:border-white/10 dark:bg-white/10 dark:shadow-black/20;
+  }
+
+  .premium-hero {
+    @apply rounded-[2rem] border border-white/10 bg-gradient-to-br from-slate-950 via-slate-900 to-blue-950 p-6 text-white shadow-2xl shadow-blue-950/30;
+  }
+
+  .premium-button {
+    @apply inline-flex items-center justify-center rounded-2xl bg-gradient-to-r from-blue-600 to-indigo-600 px-5 py-3 font-bold text-white shadow-lg shadow-blue-500/25 transition-all duration-200 hover:-translate-y-0.5 hover:from-blue-500 hover:to-indigo-500 active:translate-y-0;
+  }
+
+  .premium-button-soft {
+    @apply inline-flex items-center justify-center rounded-2xl border border-slate-200 bg-white px-5 py-3 font-semibold text-slate-800 shadow-sm transition hover:border-blue-200 hover:bg-blue-50 dark:border-white/10 dark:bg-white/10 dark:text-white dark:hover:bg-white/15;
+  }
+
+  .premium-input {
+    @apply w-full rounded-2xl border border-slate-200 bg-white/90 px-4 py-3 text-slate-900 outline-none transition focus:border-blue-400 focus:ring-4 focus:ring-blue-100 dark:border-white/10 dark:bg-white/10 dark:text-white dark:placeholder:text-slate-400 dark:focus:ring-blue-500/20;
+  }
+
+  .metric-card {
+    @apply rounded-3xl border border-white/10 bg-white/10 p-5 text-white shadow-xl shadow-black/10 backdrop-blur-xl;
+  }
+
+  .sidebar-link {
+    @apply flex items-center gap-3 rounded-2xl px-4 py-3 text-sm font-semibold text-slate-300 transition-all duration-200 hover:bg-white/10 hover:text-white;
+  }
+
+  .sidebar-link-active {
+    @apply bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-lg shadow-blue-500/25;
+  }
+}
+
+@layer utilities {
+  .safe-x { @apply min-w-0 overflow-x-hidden; }
+}
+
+@media (max-width: 640px) {
+  html, body, #root { width: 100%; overflow-x: hidden; }
+
+  .premium-hero { @apply rounded-3xl p-4; }
+  .premium-card { @apply rounded-2xl p-4; }
+  .metric-card { @apply rounded-2xl p-3; }
+  .premium-button,
+  .premium-button-soft { @apply w-full px-4 py-3 text-sm; }
+  .sidebar-link { @apply rounded-xl px-3 py-2.5 text-sm; }
+
+  input, select, textarea { font-size: 16px; }
+
+  .recharts-wrapper,
+  .recharts-surface { max-width: 100% !important; }
+  canvas { max-width: 100% !important; }
+}
+
+@media (max-width: 420px) {
+  .metric-card p:last-child { font-size: 1.35rem; }
+}

@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EAD27A"/>
+      <stop offset="50%" stop-color="#C9A227"/>
+      <stop offset="100%" stop-color="#B5631F"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B2027"/>
+      <stop offset="100%" stop-color="#0E1116"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="512" height="512" rx="114" fill="url(#bg)"/>
+  <rect x="3" y="3" width="506" height="506" rx="111" fill="none" stroke="rgba(255,255,255,0.30)" stroke-width="3"/>
+
+  <!-- T monogram -->
+  <rect x="120" y="128" width="240" height="52" rx="13" fill="#16140A"/>
+  <rect x="214" y="128" width="52" height="222" rx="13" fill="#16140A"/>
+
+  <!-- tracking badge -->
+  <circle cx="384" cy="384" r="94" fill="url(#badge)"/>
+  <circle cx="384" cy="384" r="94" fill="none" stroke="#EAD27A" stroke-width="5" opacity="0.55"/>
+  <path d="M348 384 L374 410 L424 354" fill="none" stroke="#EAD27A" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
